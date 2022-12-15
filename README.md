@@ -12,7 +12,7 @@ pipenv shell
 ```
 
 # Usage:
-1. Pick a book in Slovak language and copy it's text. If there is anything obvious that would mess up with the result (like name of the book on every page), try to remove it using e.g. text editor. Save the text into the "texts" folder.
+1. Pick a book in Slovak language and copy it's text. If there is anything obvious that would mess up with the result (like name of the book on every page), try to remove it using e.g. text editor. Save the text in the "texts" folder.
 2. Run the script with python and specify your output file, for example:
 ```bash
 python produce_word_count_and_rank.py > output/dobsinsky_ludove_rozpravky.output
