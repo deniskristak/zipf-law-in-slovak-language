@@ -49,4 +49,16 @@ input_texts_details = [
         "output_prefix_name": "on_the_origin_of_species",
         "language": "en"
     },
+    {
+        "input_filename": "together.txt",
+        "full_name": "Norman Douglas - Together",
+        "output_prefix_name": "together",
+        "language": "en"
+    },
+    {
+        "input_filename": "oliver_october.txt",
+        "full_name": "George Barr McCutcheon - Oliver October",
+        "output_prefix_name": "oliver_october",
+        "language": "en"
+    },
 ]

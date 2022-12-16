@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-from config import LINEAR_SCALE_LIMIT_OUTPUT_TO, FOLDER_TO_SAVE_PLOTS, LOG_GRAPH_SCALE
+from config import LINEAR_SCALE_LIMIT_OUTPUT_TO, FOLDER_TO_SAVE_PLOTS, LOG_GRAPH_SCALE, LOG_SCALE_MINIMUM_OCCURENCES_TO_PLOT
 
 
 class GraphPlotter:
@@ -20,27 +20,26 @@ class GraphPlotter:
 
     def save_plot(self):
         # Save the chart as image
-        if LOG_GRAPH_SCALE:
+        try:
             plt.savefig(
-                "{folder}/log_scale/{output_prefix_name}.png".format(
+                "{folder}/{scale}/{language}/{output_prefix_name}.png".format(
                     folder=FOLDER_TO_SAVE_PLOTS,
+                    scale="log_scale" if LOG_GRAPH_SCALE else "linear_scale",
+                    language=self.text_to_process.get("language"),
                     output_prefix_name=self.text_to_process.get("output_prefix_name"),
                 )
             )
-        else:
-            plt.savefig(
-                "{folder}/linear_scale/{output_prefix_name}.png".format(
-                    folder=FOLDER_TO_SAVE_PLOTS,
-                    output_prefix_name=self.text_to_process.get("output_prefix_name"),
-                )
-            )
+        except FileNotFoundError:
+            err = "Could not find one or more directories to save the graph into. "
+            err += "Did you create sub-directory for each language (in linear_scale and log_scale folder)?"
+            raise FileNotFoundError(err)
 
     def make_log_scale_plot(self):
         x_values = []
         y_values = []
         rank = 0
         for word_x_occurrence in self.word_count:
-            if word_x_occurrence[1]==10:
+            if word_x_occurrence[1]==LOG_SCALE_MINIMUM_OCCURENCES_TO_PLOT:
                 break
             rank += 1
             x_values.append(rank)

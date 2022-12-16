@@ -1,7 +1,7 @@
 import simplemma
 import re
-from config import FOLDER_TO_SAVE_WORD_COUNT_DICT
-import json
+from config import FOLDER_TO_SAVE_CSV
+import csv
 
 
 class WordCounter:
@@ -91,6 +91,7 @@ class WordCounter:
             "_",
             "€",
             ".",
+            '–',
         ]
         for special_string in strings_to_remove:
             text_normalized = text_normalized.replace(special_string, " ")
@@ -129,11 +130,20 @@ class WordCounter:
 
     @staticmethod
     def save_output_to_file(word_count, text_to_process):
-        json_string = json.dumps(word_count)
-        filename = "{folder_for_output}/{text_filename_prefix}.json".format(
-            folder_for_output=FOLDER_TO_SAVE_WORD_COUNT_DICT,
+        filename = "{folder_for_output}/{language}/{text_filename_prefix}.csv".format(
+            folder_for_output=FOLDER_TO_SAVE_CSV,
+            language=text_to_process.get("language"),
             text_filename_prefix=text_to_process.get("output_prefix_name"),
         )
-        with open(filename, "w") as f:
+        try:
+            with open(filename, "w", newline='') as csvfile:
             # write the JSON string to the file
-            f.write(json_string)
+                writer = csv.writer(csvfile)
+                writer.writerow(['word', 'number_of_occurences'])
+                for row in word_count:
+                    writer.writerow([row[0], row[1]])
+
+        except FileNotFoundError:
+            err = "Could not find one or more directories to save the text output (word count) into. "
+            err += "Did you create sub-directory for each language?"
+            raise FileNotFoundError(err)
