@@ -1,5 +1,9 @@
-# Zipf law in Slovak language
-## This is an attempt to find occurences of Zipf law in Slovak language.
+# Proving Zip's Law in Slovak language texts
+## This is an attempt to find occurrences of Zipf law in Slovak language.
+
+Zip's law is a well-known statistical law that states that the frequency of a word in a text is inversely proportional to its rank in the frequency table. This law has been observed in a wide variety of texts, including books, articles, and even tweets.
+
+This project is an attempt to prove Zip's law using a variety of text datasets, all written in Slovak language. We will analyze the frequency of words in different texts, and compare the results to Zip's law to see if it holds true, also getting help by visualising the numbers of occurrences in texts.
 # 
 # Setup:
 1. Install dependencies using `pipenv`

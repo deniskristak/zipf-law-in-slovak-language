@@ -1,0 +1,2906 @@
+Úvod
+Úvod do klinickej psychológie je koncipovaný ako učebný text. Je určený primárne
+študentom psychológie na bakalárskom stupni štúdia. Publikácia ponúka základné vedomosti
+potrebné v pri štúdiu klinickej psychológie. Predstavuje teoretický základ pre nasledujúce
+predmety Klinická psychológia, Psychodiagnostika a Psychoterapia v magisterskom stupni
+štúdia.
+Text je rozdelený do dvoch častí. Prvá časť sa venuje všeobecným otázkam klinickej
+psychológie: jej obsahu, histórii, profesionálnej náplni praxe klinického psychológa, teóriám
+vzniku a klasifikáciám psychických porúch, či špecifikám výskumu v klinickej psychológ 
+Nezabúda na témy etickej práce a podmienky vzdelávania budúcich klinických psychológov.
+Druhá časť sa zameriava na problematiku klinicko-psychologickej práxe v psychodiagnostike,
+špecifíká klinicko-psychologickej práce s pacientom so somatickým ochorením a zdravotným
+znevýhodnením. Publikácia sa nevenuje popisu psychopatológie, psychodiagnostiky
+a psychoterapie psychickým porúch.
+Cieľom publikácie je oboznámiť študentov so základnými všeobecnými poznatkami
+nevyhnutnými pre budovanie vedomostí v oblasti klinickej psychológie a jej praxe. Ponúknuť
+nevyhnutný teoretický a praktický základ pre nadväzujúce klinicko psychologické predmety
+a nadväzujúce štúdium v tejto oblast 
+61. Klinická psychológia ako veda a odbor
+Široká verejnosť môže byť zmätená v tom, čo je obsahom práce klinického psychológa.
+Možno to ani nie je až tak prekvapujúce vzhľadom na to, že klinickí psychológovia sú
+heterogénna skupina. Pracujú tak v nemocniciach, ako aj v súkromných ambulanciách alebo na
+univerzitách. Najčastejšie realizujú psychologické rozhovory s pacientmi, vykonávajú
+psychodiagnostiku, alebo psychoterapiu. Podmienky pre vykonávanie praxe klinického
+psychológa sú určené pre úzku skupinu odborníkov so špecifickým kompetenciami
+a pracovnou náplňou, ktoré sa odrážajú v predmete klinickej psychológie.
+Po preštudovaní tejto kapitoly budete:
+ vedieť definovať predmet klinickej psychológie,
+ poznať obsahovú náplň profesie klinického psychológa.
+1.1 Predmet klinickej psychológie
+Najjednoduchšie je možné definovať predmet klinickej psychológie pomocou prekladu jej
+názvu z gréčtiny. Termín psychológia je tvorený dvoma slovami a to „psyché“, v preklade duša
+a „logos“ vo význame slovo alebo myšlienka. Grécke slovo „kliné“ prekladáme ako lôžko,
+lehátko ale aj nakláňať sa. Zjednodušene preto môžeme povedať, že predmetom klinickej
+psychológie je pristupovať cez slová k duši ležiaceho.
+Termíny klinická a klinický sa v súčasnosti používajú aj týchto významoch:
+1) Klinický ako lôžkový – najčastejším miestom pre výkon práce klinického psychológa
+je klinika, oddelenie ako špecifická forma zdravotnej starostlivosti o pacientov na
+lôžku.
+2) Klinický ako výučbový – klinika ako špecifické vzdelávacie zariadenie, kde prebieha
+praktická výučba budúcich zdravotných pracovníkov pri lôžku pacienta.
+3) Klinický ako kauzistický – súbor objektívnych a subjektívnych príznakov, ktoré sú pre
+danú osobu alebo ochorenie jedinečné.
+7Okrem tejto charakteristiky klinickej psychológie, viacerí slovenskí a českí autori (napr.
+Kondáš, Baštecká, Ružička, Heretik, Vágnerová) ponúkli rozličné definície klinickej
+psychológie, čím rozšírili pohľad na jej predmet.
+Kondáš (1977), vychádzajúc z jeho behaviorálnej orientácie, klinickú psychológiu
+charakterizuje ako vedeckú disciplínu, ktorá sa zaoberá duševným životom, resp.
+psychickou reguláciou správania z hľadiska choroby a dysadaptácie.
+Ružička a kol. (1999) využívajúci perspektívu psychológie zdravia uvádzajú, že predmetom
+klinickej psychológie je duševný život človeka v bio-psycho-sociálnych súvislostiach nie
+len pri ochorení, ale na kontinuu zdravie – choroba.
+Baštecká (2001) hovorí, že klinická psychológia je praktický psychologický odbor, ktorý
+využíva a obohacuje poznatky vied o človeku a zaoberá sa jedinečnosťou človeka a jeho
+duševného života v otázkach choroby a zdravia. Vníma človeka ako bio-psycho-sociálno-
+spirituálnu jednotu a systém v systémoch okolitého sveta.
+Vágnerová (1999) ju chápe ako praktický psychologický odbor, ktorý využíva a obohacuje
+poznatky vied o človeku a zaoberá sa jedinečnosťou človeka a jeho duševného života
+v otázkach choroby a zdravia.
+Heritik (2007) dopĺňa, že klinická psychológia je v systéme psychologických vied
+aplikovaná praktická disciplína, opiera sa o poznatky základných disciplín (všeobecná
+psychológia, vývinová psychológia, kognitívna psychológia) a špeciálnych disciplín (napr.
+pedagogická, sociálna psychológia). Klinická psychológia pôsobí v praxi spolu s ďalšími
+aplikovanými disciplínami ako je poradenská, pracovná alebo forézna psychológia.
+1.2 Obsahová náplň klinickej psychológie
+Obsahovú náplň klinickej psychológie vymedzuje pracovnú náplň a vedomosti klinického
+psychológa. Môžeme ju rozdeliť do viacerých oblastí:
+ 
+Psychopatológia – spoločný odbor psychiatrie a klinickej psychológie. V klinickej
+psychológii a psychiatrii sa na označenie psychických problémov využíva termín
+porucha. Predmetom psychopatológie je opis symptomatiky, príznakov jednotlivých
+psychických porúch, ktoré tvoria kritériá diagnostiky. Je členená podľa psychických
+8funkcií a stavov (poruchy vnímania, pozornosti, emotivity a pod.). V USA sa termín
+psychopatológia označuje názvom abnormálna psychológia.
+ 
+Rehabilitácia – postupy na obnovu poškodených funkcií a schopností (napr. pri
+organickom poškodení CNS, pri schizofrénii).
+ 
+Reedukácia – diagnostika a náprava špecifických psychických porúch. Zameriava sa
+na tie poruchy, kde stoja v pozadí špecifické vývinové poruchy učenia (napr. dyslexia,
+dysgrafia) a poruchy správania.
+ 
+Patopsychológia – zaoberá sa psychologickými špecifikami ľudí so senzorickými
+a motorickými poškodeniami, trvalými vývinovými porucham 
+ 
+Psychosomatika – zaoberá sa somatickými ochoreniami, pri ktorých v etiológii majú
+významné postavenie psychogénne faktory (napr. vybrané kožné alebo autoimunitné
+ochorenia).
+ 
+Neuropsychológia – cieľom je diagnostika, rehabilitácia a terapia psychických
+funkčných prejavov CNS a ich zmien pri poruche CNS.
+ 
+Psychológia zdravia – zameriava sa na udržiavania a posilňovanie zdravia, faktory
+salutogenézy, prekrýva sa s psychohygienou – prevencia duševných porúch, propagácia
+zdravého životného štýlu.
+1.3 Súhrn
+Chápanie predmetu klinickej psychológie je značne rôznorodé a obšírne. Preto v závere
+dopĺňame syntetizujúcu definíciu klinickej psychológie podľa Americkej psychologickej
+asociácie (APA). APA ju vymedzuje ako integrujúcu vedu, teóriu a prax so zámerom
+porozumieť, predvídať a zmierňovať psychické nepohodlie, zdravotné znevýhodnenie, ako aj
+podporovať
+psychologickú
+adaptáciu
+a osobný
+rozvoj
+https://div12.org/?s=clinical+psychology, citované dňa 28.09.2021).
+9
+jedinca
+(APA,2. História klinickej psychológie
+Viacerí študenti sa možno pýtajú, prečo je potrebné poznať historické súvislosti klinickej
+psychológie. Je to preto, že poznanie histórie nám môže priniesť nielen inšpiráciu ale aj
+poznanie toho, čomu sa v budúcnosti vyvarovať. Ako si spomenieme v tejto kapitole, história
+liečby duševných porúch bola v minulosti minimálna až nehumánna. Duševné ochorenia bolo
+skôr zdrojom stigmatizácie a vylúčenia z väčšinovej spoločnost  Samotné liečebné postupy
+boli skôr nevedecké, šamanské a opradené rúškom tajomstva. Preto sa nemusíme čudovať, že
+ľudia sa v minulosti psychických problémov skôr bál 
+Po preštudovaní tejto kapitoly budete:
+ poznať históriu psychiatrie,
+ ovládať základné historické míľniky rozvoja klinickej psychológie,
+ poznať významných slovenských psychológov, ktorí prispeli k rozvoju klinickej
+psychológie u nás.
+2.1 História psychiatrie
+História psychológie sa odvíja z histórie psychiatrie. V histórii psychiatrie rozlišujeme tri
+základné prístupy k chápaniu príčin duševných ťažkostí (spracované podľa Heretik & Heretik,
+2016):
+1. magický – hlása, že choroba je spôsobená vyššími, nadpozemskými, nadprirodzenými
+vplyvmi, prístup k liečeniu je intuitívny, liečiteľ je sprostredkovateľ medzi pacientom
+a vyššími silam  Dnes je tento prístup súčasť šamanského liečenia, náboženského
+exorcizmu, ľudového liečiteľstva.
+2. organický – založený na presvedčení, že základné mechanizmy fungovania organizmu
+sú materiálneho pôvodu, sú empiricky poznateľné, ľudia budú schopní vďaka výskumu
+poznať a liečiť všetky duševné ochorenia. Dnes je tento prístup charakterizovaný
+značným rozvojom neurovied, štúdií mozgu, biochemického základu fungovania
+psychiky.
+103. psychologický – reprezentuje presvedčenie, že prežívanie a správanie človeka je
+poznateľné, vysvetliteľné a ovplyvniteľné. Jedincovo blaho a kvalita života sú
+najdôležitejšie. Zdôrazňuje umenie pracovať s človekom. Kombinuje empirické
+postupy s intuitívnym prístupom.
+Pravek
+Dominuje šamanská tradícia. Dokladujú to jaskynné maľby. Šaman – vybraný člen zo skupiny,
+ktorý zastával dôležitú úlohu (zastrešoval kompetencie kňaza, lekára, psychológa), zosobňoval
+magický
+prístup
+k duševným
+ťažkostiam.
+Šamani
+používali
+psychoaktívne
+látky
+(halucinogény), tanec alebo bubnovanie na vyvolanie stavu extázy, tiež na liečebné a duchovné
+účely. Viedli iniciačné obrady pre mladých mužov kmeňa. K šamanskej tradícii sa hlási
+procesorientovaná psychológia A. Mindella. Dodnes nájdeme šamanskú tradíciu v kmeňoch
+nedotknutých západnou civilizáciou v Južnej Amerike alebo Afrike.
+Starovek
+ 
+Mezopotámia, Egypt – dominovalo chrámové liečiteľstvo, kde boli liečiteľmi kňaz 
+Prevažoval magický prístup k duševným problémom.
+ 
+India – známe rukopisy nazývané Védy. Prevažoval magický výklad príčiny
+psychických problémov (hnev bohov), ale uznávali aj organické a psychologické
+príčiny duševných porúch (napr. nevhodná strava; porucha ako výsledok zmiešavania
+vzduchu, žlče, hlienu v tele; nezvládnuteľné vášne). Podľa príčiny bola navrhnutá liečba
+– cvičenia na sebaovládanie, či štúdium posvätných kníh. Dominovali dva náboženstvá:
+hinduizmus a budhizmus. Hinduizmus je dodnes filozoficko-náboženskou koncepciou
+Indie, hlása vieru v prevteľovanie, snahu dosiahnuť osvietenie cez jogové cvičenia.
+Budhizmus hlása cestu ako dosiahnuť oslobodenie zo strastí pomocou stále sa
+opakujúceho znovuzrodenia. Obsahuje etické pravidlá, a psychohygienické postupy.
+Budhizmus aj joga mali vplyv v 20. storočí na psychoterapeutické systémy (napríklad
+terapia všímavosti).
+ 
+Čína – duševné poruchy sú o narušení rovnováhy medzi komplementárnymi princípmi
+jin (feminita, smrť, mesiac, zima, slabosť) a jang (maskulinita, život, slnko, nebo,
+11tvrdosť). Používali originálne postupy diagnostiky a liečby problémov– meranie tepu,
+liečba akupunktúrou.
+ 
+Starý Izrael – medicínsky inšpirovaný Egyptom a Babylonom, Starý zákon v Biblii
+opisuje niektoré duševné poruchy, brané ako boží trest. V židovskej kultúre prevažoval
+liečebný postup v podobe výkladu snov (zdroj psychoanalýzy).
+ 
+Antické Grécko – magický, psychologický. aj organický prístup k duševným
+problémom. Sokrates (5.st.p.n.l.) – chápal filozofiu ako prostriedok liečby duše, dôraz
+na racionalitu, metóda náhľadu ako cesty k pravde, rozvinul techniky rozhovoru (základ
+súčasného psychologického rozhovoru). Platón, Aristoteles – dôraz na rozvíjanie
+intelektuálnej kultivácie človeka. Hippokrates – organický prístup, autor humorálnej
+typológie a temperamentových typov.
+ 
+Starý Rím – rozlíšenie akútnych a chronických duševných chorôb, opísali bludy
+a halucinácie, používali liečebné metódy ako kúpeľ, masáže; aj psychoterapeutické
+postupy ako muzikoterapia, biblioterapia. Galenos vyhlásil, že mozog je centrum
+mentálnych funkcií, príčiny duševných porúch sú mentálne a fyzické.
+Stredovek, renesancia, osvietenstvo
+ 
+Raný stredovek – v terajšej Sýrii vznikol prvý azyl (útulok) pre duševne chorých.
+Avicenna napísal Kánon medicíny, ktorý obsahoval časti o diagnostike a liečbe
+duševných porúch ako je hystéria, melanchólia, mánia alebo epilepsia.
+ 
+Vrcholný stredovek – vplyv kresťanstva. Dominovala démonologická koncepcia, ktorá
+chápala duševné poruchy ako posadnutosť zlom, diablom. Preto ich liečili pomocou
+exorcizmu. Ženy chápané ako náchylnejšie na posadnutosť diablom, pričom psychicky
+choré ženy, aj liečiteľky sa často stávali obeťou exorcizmu. Častým riešením duševných
+porúch bola aj exkomunikácia (vylúčenie, izolácia z väčšinovej spoločnosti) chorých do
+kláštorných azylov pre duševne chorých.
+ 
+Renesancia – v tomto období dochádza k rozvoju filozofie a medicíny, dominuje snaha
+o vyvrátenie démonologickej koncepcie prístupu k duševným poruchám. René
+Descartes ako reprezentant filozofie dualizmu, priniesol myšlienky o nezávislom
+12fungovaní tela a duše. T. Hobbes a J. Locke ako empirici hlásali, že človek sa rodí ako
+tabula rasa, psychika vzniká až na základe skúseností.
+ 
+Osvietenstvo – 18. storočie, Francúzsko, dominoval materialistický pohľad na
+psychológiu, Julien de la Metrie vytvoril dielo Človek stroj (r. 1748), kde uvádza, že
+duševné vlastnosti sú podmienené fyzickými vlastnosťami organizmu, poprel
+dualizmus tela a duše.
+18. storočie – začala reforma psychiatrickej starostlivosti
+Philip Pinel – v období Veľkej francúzskej revolúcie (1789-1794) priniesol reformu
+psychiatrickej starostlivosti nazývanú tiež „Oslobodenie duševne chorých z reťazí“. Znamenala
+zlepšenie podmienok starostlivosti o duševne chorých, najmä hygienických, stravovacích,
+odstránenie brutality pri obmedzovaní nepokojných pacientov. Začala sa používať aj istá forma
+terapie najmä v podobe liečby prácou, pohybom na vzduchu, psychodráma, morálna liečba.
+Morálna liečba chápala ako príčinu duševných porúch neresť, nedostatok mravnosti, s chorými
+zaobchádzal ako s deťmi, nahradil fyzické obmedzovanie duševne chorých na moralizujúce
+tlačiace ku konformite, liečba vyznaním duševných problémov ako hriechov pomocou pokánia.
+Benjamin Rush – v rovnakom čase ako Pinel vo Francúzsku, v USA Rush zaviedli podobné
+princípy prístupu k duševne chorým: morálna liečba, úctivé a priateľské zaobchádzanie
+s pacientam 
+19. storočie
+Obdobie psychiatrického ústavníctva – psychiatria sa stáva rovnocennou k medicíne.
+Rakúsko-Uhorsko: budovanie ústavov, diferenciácia liečby podľa závažnosti duševnej poruchy
+(uzavreté oddelenia a otvorené oddelenia),
+Emil Kraepelin a Eugen Bleuler – vytvárajú klasifikačný systém duševných porúch založený
+na deskripcii symptómov a syndrómov duševných porúch.
+F.A. Mesmer – zavádza liečbu duchom. Realizoval verejné liečenia hypnózou a sugesciou.
+Nastupuje výskum neuroanatómie, neurofyziológie – objav rečových centier.
+13W. Wundt – v roku 1879 založil prvé psychologické laboratórium na univerzite v Lipsku, to
+znamenalo vznik psychológie ako vedy.
+2.2 Vlastná história klinickej psychológie
+Ako aplikovaná disciplína sa začína zavádzaním psychologických metód pôvodne
+používaných vo výskume na poznanie ľudí s vývinovými a duševnými porucham  Klinická
+psychológia vznikla, keď boli založené psychologické kliniky pre deti a psychologické
+laboratória v psychiatrických liečebniach pre dospelých. Môžeme zhrnúť, že profesionalita
+klinickej psychológie sa odvíja z troch významných medzníkov v histórii psychológie:
+a) Prednáška o klinickej metóde – Lightner Witmer v roku 1896 prvý prednášal
+o klinickej metóde v psychológii na kazuistike chlapca s poruchou reč  V tom istom
+roku založil psychologickú kliniku zameranú na pomoc deťom s vývinovými poruchami
+(poruchy reči, mentálna retardácia, poruchy správania). Tým sa začala vlastná história
+klinickej psychológie. Pokračovala zakladaním psychologických laboratórií pri
+nemocniciach po celom svete.
+b) Vznik psychodiagnostických testov – história vzniku klinickej psychológie sa spája aj
+so vznikom psychodiagnostických testov. Práve zavedením psychodiagnostiky sa zvýšil
+rešpekt iných vied k psychológii:
+1890 – Cattell zaviedol termín mentálny test.
+1905 – Binet Simonova škála vytvorená pre klasifikovanie mentálne
+retardovaných žiakov ako požiadavka francúzskeho ministerstvoa školstva.
+Obdobie prvej svetovej vojny – testovanie vojakov: testy Army Alfa a Army Beta
+1935 – Rorschachov projektívny test, začala diagnostika osobnost 
+1939 – Tematicky apercepčný test TAT (Murray)
+1939 – Wechslerov test inteligencie (Wechsler-Bellevue)
+1943 – Minnesotský multifázový osobnostný inventár MMPI
+1944≤ – využívanie štatistiky pri tvorbe a vyhodnocovaní testov.
+c) Začiatok psychoterapie – začiatok 20. storočia
+14- P. Janet: vymedzuje psychoterapiu ako liečebnú metódu
+- S. Freud: zdôraznil význam nevedomia, preslávil hypnózu
+- 50 roky 20. storočia rozvoj ostatných psychoterapeutických smerov ako
+kognitívna a behaviorálna psychoterapia, existenciálna psychoterapia a mnohé
+iné.
+2.3 Významné osobnosti v klinickej psychológii na Slovensku
+Géza Dobratka (1918-2002) (spracované podľa Heretik, 2002)
+Géza Dobrotka je rodák z Kremnice, ktorý študoval psychológiu na Filozoﬁckej fakulte UK
+v Bratislave a neskôr u prof. Lerscha v Lipsku. Po štúdiu začal pracovať na Psychiatrickej
+klinike LFUK v Bratislave. Na Slovensko priniesol a školil Rorschachovu metódu (ROR).
+Rozpracoval vlastný systém signovania a vyhodnotenia odpovedí v Hand-teste, ktorý umožňuje
+diferencovanejšiu diagnostiku agresivity v štruktúre osobnost  Okrem toho vymedzil
+a definoval obsah súdnolekárskej psychológie.
+Ondrej Kondáš (1930-2002) (spracované podľa Kordáčová, 2013)
+Spoluzakladateľ klinickej psychológie u nás. Ondrej Kondáš sa narodil 29. septembra 1930
+v Nižnej Kamenici na východnom Slovensku. Už počas detstva a dospievania sa vyznačoval
+živou
+činorodosťou,
+veľmi
+dobrými
+organizačnými
+schopnosťami,
+prirodzenou
+inteligenciou a optimizmom. Po štúdiu psychológie na Univerzite Komenského sa zamestnal
+v Psychiatrickej liečebni vo Veľkých Levároch na Záhorí ako pomocná vedecká sila. Ondrej
+Kondáš v liečebni zriadil skromné psychologické laboratórium na počiatočné experimenty.
+Zaviedol pohybovú terapiu pacientov, biblioterapiu, dramaterapiu a muzikoterapiu, pričom
+jeho záujem o výskum v mnohom ovplyvnil aj klinickú prax tým, že do spoločných terapií
+vkladal metodológiu výskumu a poveril sestričky, aby robili časové záznamy zo všetkých
+aktivít. Pre obec Leváre tiež založil psychologickú poradňu. V psychodiagnostickej oblasti sa
+zaujímal o rečové prejavy psychotikov, podrobne analyzoval podnetové slová v asociačnom
+experimente. V psychologickom výskume sa zaoberal psychológiou odmeny a trestu.
+15Osobitnú oblasť predstavuje jeho záujem o alkoholikov. Pracoval s averzívnou terapiou a
+rozpracoval aj model alkoholizmu, vychádzajúci z teórie učenia.
+V roku 1977 napísal prvú slovenskú učebnicu Klinická psychológia. Do psychologickej
+praxe zaviedol Koncepciu klinickej psychológie a koncept klinicko-psychologického nálezu,
+ktorý bol záväzný pre psychológov pracujúcich v zdravotníckych zariadeniach. Zostavil aj plán
+rozvoja psychologických služieb na jednotlivých úsekoch liečebno-preventívnej starostlivosti
+a podporoval rezortné výskumné projekty klinických psychológov. Je zakladateľom
+discentnej terapie, ako formy kognitívno-behaviorálnej psychoterapie.
+Andrej Stančák (1924-2014) (spracované podľa Pella, 2014)
+Andrej Stančák sa narodil 20. septembra 1924 v Pečovskej Novej Vs  Ľudovú a strednú
+školu absolvoval v Prešove, následne pokračoval v štúdiu psychológie na Univerzite
+Komenského v Bratislave. V rokoch 1951-1992 pracoval na Psychiatrickej klinike Lekárskej
+fakulty UPJŠ. Za jeho najväčšie úspechy možno považovať vyprofilovanie predmetu Lekárska
+psychológia a zriadenie oddelenia Klinickej psychológie, ktoré sa stalo bázou pre výučbu
+klinickej psychológie nielen v rámci pregraduálneho, ale aj postgraduálneho štúdia. Bol
+významnou osobnosťou psychológie v Košiciach.
+Anton Heretik (narodený 1950)
+Absolvoval štúdium psychológie na Filozofickej fakulte Univerzity Komenského. V r. 1973
+až 1985 pracoval ako klinický psychológ na Psychiatrickej klinike Univerzitnej nemocnice v
+Bratislave. Od r. 1985 pôsobí na Katedre psychologických vied Filozofickej fakulty Univerzity
+Komenského, teraz ako profesor klinickej a forenznej psychológie. Je súdnym znalcom a
+zameriava sa najmä na posudzovania páchateľov násilnej trestnej činnost  Publikoval desiatky
+odborných štúdií z oblasti psychopatológie, psychodiagnostiky a psychoterapie. Popri
+pedagogickej a vedecko-výskumnej činnosti pôsobí naďalej ako klinický psychológ v
+súkromnej poradenskej prax  Je autorom a zostavovateľom učebnice Klinická psychológia
+a Forenzná psychológia, ale aj kníh pre laickú verejnosť ako je Zlo, Sny, Humor, Narcizmus.
+162.4 Súhrn
+Klinická psychológia sa v súčasnosti veľmi dynamicky rozvíja. Napríklad neuropsychológia
+zažíva obrovský výskumný rozmach. Podobne psychoterapia napreduje, čo dokazuje viac ako
+štyristo psychoterapeutických smerov. Modernizačnú výzva však na Slovensku musí zdolať
+psychodiagnostika. Je potrebné inovovať zastarané normy so zohľadnením napríklad Flynovho
+efektu pri kognitívnych psychologických testoch. Podobne je nutné doplniť a adaptovať vhodné
+psychodiagnostické nástroje pre pacientov so zrakovým alebo sluchovým znevýhodnením.
+Nemalú pozornosť si zasluhuje otázka tvorby vhodných výkonových testov pre potreby
+menšinovej populácie. Práve preto nie je dobré v oblasti psychológie zotrvávať len pri histórii,
+ale podporiť jej napredovanie do budúcnost 
+173. Koncepcia normality a klasifikačné systémy duševných porúch
+Klinická psychológia sa v zahraničnej literatúre zvykne označovať synonymickým
+pomenovaním abnormálna psychológia. Napríklad Davey (2021) definuje klinickú psychológiu
+ako vedu, ktorá sa systematicky zaoberá štúdiom abnormálneho správania, teda etiológiou,
+symptomatikou a procesom psychologickej liečby duševných porúch. V tejto súvislosti preto
+vystáva otázka: „Čo je ešte normálne teda zdravé, a čo už abnormálne, teda choré?“
+Ako sa dozviete v tejto kapitole, zodpovedanie tejto zdanlivo jednoduchej otázky vôbec nie
+je jednoduché a jednoznačné.
+Po preštudovaní tejto kapitoly budete:
+ vedieť definovať abnormalitu a normalitu,
+ poznať výhody a nevýhody troch koncepcií normality (štatistická, sociálna
+a adaptačno-funkčná koncepcia),
+ vedieť určiť kritériá abnormality,
+ poznať klasifikačné systémy psychických porúch.
+3.1 Normalita verzus abnormalita
+Najjednoduchšie je možné charakterizovať abnormalitu ako všetko, čo sa líši od normálu,
+teda od obvyklých, či typických prejavov jedinca. V tejto súvislosti Rosenhan uskutočnil v roku
+1973 zaujímavú klinickú štúdiu. Osem vybraných zdravých dobrovoľníkov predstieralo
+psychotické symptómy v podobe počutia hlasov, ktorými oklamali personál dvanástich
+psychiatrických liečební. Bolo zaujímavé, že pseudopacienti po prijatí na psychiatrické kliniky
+okamžite prestali predstierať psychotickú symptomatiku, čo si však nikto zo zamestnancov
+nevšimol. Naopak, ich bežné správanie bolo vnímané ako dodatočný dôkaz abnormality.
+Pseudopacienti boli následne z psychiatrických kliník prepustení po 7 až 52 dňoch, pričom
+všetci odchádzali s diagnózou schizofrénie. Aj tento príklad dokazuje, že posúdenie normality
+jedinca patrí k jednej z najťažších oblastí práce klinického psychológa.
+18Normalita sa často spája s prejavmi zdravia, naopak abnormalita s prejavmi ochorenia.
+Skúsme si teda na začiatok, pri definovaní normality a abnormality pomôcť definíciou zdravia
+a choroby.
+Svetová zdravotnícka organizácia WHO vymedzuje zdravie ako stav úplnej telesnej,
+psychickej a duchovnej pohody. Zdravie sa podľa Svetovej zdravotníckej organizácie WHO
+chápe ako kladná hodnota, ktorá motivuje človeka k jej dosiahnutiu. Už pri čítaní nám však
+môže byť jasné, že takéto charakterizovanie zdravia je pomerne ideálne, a je otázne či je reálne
+naplniteľné. WHO tiež nehovorí o stave, keď je človek ustarostený, cíti sa zle, avšak nemá jasné
+symptómy ochorenia. Pre porovnanie, Křivohlavý (2002, str. 50) chápe zdravie ako: „...celkový
+(telesný, psychický, sociálny a duchovný) stav človeka, ktorý mu umožňuje dosahovať
+optimálnu kvalitu života a nie je prekážkou obdobnému snaženiu druhých ľudí.“ Tým, že
+Křivohlavý dáva do súvisu zdravie s optimálnou kvalitou života a sociálnymi rozmermi, sa viac
+približuje reálnemu poňatiu zdravo – normálne fungujúceho jedinca.
+Termín ochorenie sa vo všeobecnosti definuje ako narušenie homeostázy medzi
+organizmom a prostredím vedúci k fyziologickým, anatomickým, ale aj psychickým zmenám
+v organizme, prejavujúci sa typickými symptómam  Reprezentuje poškodenie, oslabenie alebo
+zníženú aktivitu určitej činnosti organizmu. Je to špecifické ohrozenie aktuálneho stavu jedinca,
+dôsledkom čoho sa obmedzujú jeho aktivity a ašpirácie. Zasahuje celého človeka v podobe
+zdravotnej nepohody, zvýšeného stresu, znemožnenia dosahovania cieľov a tiež sociálneho
+fungovania. Uvedené definície choroby však vymedzujú ochorenie najmä z perspektívy
+dôsledkov, minimálne na základe prejavov, alebo kritérií.
+Koncepcie normality
+Uviedli sme si viaceré nedostatky definovania normality pomocou konceptu zdravia
+a abnormality pomocou ochorenia. Preto sa vymedzenie abnormality v psychológii
+a psychopatológii spája s troma koncepciami normality: štatistická, sociálno-normatívna
+a adaptačno-funkčná, ktoré rozdielnym spôsobom vymedzujú, čo sa považuje za normálne.
+1) Štatistická koncepcia normality – predpokladá, že psychické fenomény (vlastnosti,
+schopnosti, výkony) sú v populácii normálne rozložené, že u nich môžeme uplatniť
+19Gaussovu krivku. Normálne je to, čo sa vyskytuje najčastejšie, teda sa pohybuje okolo
+priemeru s odchýlkou plus mínus dve sigmy. To, čo sa nachádza za hranicou, teda
+dosahuje +- 3 štandardné odchýlka (sigmy) sa podľa tejto koncepcie považuje za
+abnormálne. Táto koncepcia je základom psychometrie a štatistiky, východiskom
+zisťovania interindividuálnych rozdielov, porovnaním individuálneho výkonu
+s populačnými normam  Tým pomohla psychológii presadiť sa medzi empirickými
+vedam 
+Má svoje limity – napr. pri posudzovaní inteligencie je vysoko nadpriemerná
+inteligencia (nad 130 IQ) rovnako patologická ako nízka (pod IQ 70). (obrázok 1).
+Štatistická koncepcia nezohľadňuje individuálnu variabilitu.
+Obrázok 1 Gaussova krivka inteligencie
+2) Sociálno-normatívna koncepcia normality – týka sa sociálnych noriem, konkrétne
+pravidiel písaných aj nepísaných na reguláciu správania a ľudských interakcií. Normy
+sa týkajú napríklad prejavovania emócií, postojov, hodnôt. Táto koncepcia považuje za
+normálne to, čo je konvenčné a spoločensky konformné, zodpovedajúce zvyklostiam
+a mravom v spoločnost  Za normálne sa považuje to, na čom sa skupina dohodne, čo
+môže byť aj riziková.
+20Má tieto limity – v podobe stereotypných postojov k členom istých skupín (napr. deti
+príslušníkov rómskeho etnika a ich prednostné umiestňovanie do špeciálnych
+základných škôl). Ďalším
+problémom tejto koncepcie je aj
+nejednotnosť
+a protikladnosť, ktorá sa prejavuje tým, že závažnosť rovnakého správania sa môže
+rôzne posudzovať v závislosti od toho, do akej sociálnej skupiny alebo kultúry človek
+patrí (napr. v Saudskej Arábii sa prejavy agresivity u chlapcov považujú za žiadúce,
+očakávané a aj tolerované s odôvodnením, že sú symbolom ich mužnosti).
+3) Adaptačno-funkčná koncepcia – viac zohľadňuje jedinečnosť človeka. Pomenuváva
+okolnosti, kedy má jedinec ťažkosti fungovať v každodennom živote. Psychika človeka
+sa chápe ako aparát, ktorý mu umožňuje prispôsobiť sa prostrediu, v ktorom žije.
+Adaptácia je rovnováha medzi asimiláciou (prispôsobovanie okolia mojim potrebám)
+a akomodáciou (prispôsobenie seba okoliu).
+V nadväznosti
+na adaptačno-funkčnú
+koncepciou
+normality,
+významné
+psychoterapeutické smery charakterizujú čo je podľa nich normálne.
+Psychodynamický smer – optimálne adaptovaná osobnosť je taká, ktorá má
+primerane silné a nezávislé ego, ktoré je realistické v hodnotení seba a sveta.
+Behavioristický smer – schopnosť adaptácie definuje pomocou flexibility,
+výkonnosti a kompetencie. Adaptácia sa dá rozvíja a zdokonaľovať učením
+a tréningom.
+Humanistický smer – predpokladom optimálne fungujúcej a adaptovanej osobnosti
+je podpora osobnostného rastu jedinca, jeho sebaaktualizácie, viera v jeho potenciál.
+Kritéria normality (Syřišťová, 1972)
+Na základe spomenutých koncepcií normality boli vytvorené aj kritériá normality:
+ 
+subjektívne uspokojenie – jedincom prežívanie dostatku pozitívnych emócií, primeraná
+sebadôvera, zažívanie úspechu,
+21 
+správne sebahodnotenie – primerané ašpirácie, vzdialenosť medzi reálnym a ideálnym
+ja. Ak je vzdialenosť veľká, tak dominujú pocity menejcennosti, prísny vnútorný kritik.
+Naopak aj je malá, tak prevažuje uspokojenie, malá potreba osobnostného rastu,
+ 
+cit identity – vedomie samého seba, svojej hodnoty, svojej nevyhnutnosti bytia na tomto
+svete. Vedomie o tom, že niekde patrím, že ma niekto potrebuje,
+ 
+sebarealizácia, sebaaktualizácia – toto kritérium sa objavuje v mnohých teóriách
+osobnosti ako dominantná motivačná sila (napr. Maslow, Rogers). Reprezentuje
+tendenciu jedinca napĺňať svoj potenciál bez ohľadu na limitujúce biologické, genetické
+alebo sociálne determinanty,
+ 
+autonómia – relatívna nezávislosť od fyzikálneho a sociálneho prostredia, vnútorná
+sloboda,
+ 
+integrácia osobnosti – znamená jednotu v prežívaní, myslení, správaní jedinca. Rogers
+to nazýva termínom kongruencia. Opakom je inkongruencia sa zjednodušene
+charakterizuje ako nesúlad medzi prežívaním a sociálnym správaním,
+ 
+odolnosť voči stresu a tolerancia úzkosti – stres je považovaný za spúšťač viacerých
+psychických porúch (napr. depresie). Preto je odolnosť voči stresu a použitie
+primeraných a adaptívnych zvládacích stratégií prejavom zdravia. Naopak zvládanie
+stresu v podobe nadužívania alkoholu nie je adaptívna copingová stratégia,
+ 
+adekvátna percepcia reality – schopnosť správne vnímať a intelektovo spracovávať
+podnety z vonkajšieho prostredia,
+ 
+schopnosť prežitia – je biologicky podmienená v podobe pudu sebazáchovy. U ľudí je
+schopnosť prežitia spojená so zmyslom života. Suicídium reprezentuje poruchu pudu
+sebazáchovy,
+ 
+sociálna adaptácia – rovnováha medzi asimiláciou a akomodáciou.
+Kritéria abnormality (Heretik & Heretik, 2016)
+Komplementárne ku kritériám normality musíme uvažovať aj o kritériách abnormality:
+ 
+subjektívne utrpenie – určitá emocionálna bolesť a psychická tieseň sú v živote bežné.
+Problematické sa stávajú vtedy, ak ich intenzita je natoľko vysoká, že zasahujú do
+22každodenného života jedinca a znemožňuje jeho každodenné činnost  Subjektívne
+utrpenie je najčastejší dôvod prečo človek vyhľadá psychologickú pomoc. Pacient
+subjektívne pociťuje psychickú nepohodu, trpí, nevie ako ďalej. Najčastejšie je táto
+charakteristika prítomná pri úzkostných poruchách. Subjektívne utrpenie však nemusí
+byť prítomné pri všetkých diagnózach. Napríklad pacienti s mániou alebo narcistickou
+poruchou osobnosti túto charakteristiku abnormality nemajú,
+ 
+neprispôsobilosť – neschopnosť adaptovať sa na meniace podmienky. Napríklad
+pri poruche autistického spektra, kde je jedinec uzavretý v „imaginárnom“ svete a má
+problém zvládať a vyrovnávať sa so zmenami,
+ 
+porušovanie sociálnych noriem – určité správanie sa hodnotí ako sociálna patológia
+(kriminalita), je to spojené absenciou vyšších citov: sociálne, estetické, etické.
+Porušovanie sociálnych noriem vedie k marginalizácii, sociálnej exklúz  Objavuje sa
+často napríklad ako dôsledok závislosti od psychoaktívnych látok. V dôsledku ich
+nadužívania dochádza k degradácii vyšších citov nazývaného tiež charakteropatia,
+ 
+nezvyčajnosť, bizarnosť – súvisí so štatistickou koncepciou normality. Zastrešuje
+všetky prejavy ktoré sú neobyčajné, zvláštne alebo netypické. Napríklad bludy
+v myslení, alebo kompulzívne rituály v správaní obsedantno-kompulzívneho pacienta,
+ 
+strata kontroly – schopnosť kontroly emócií je cenená hlavne v západnej spoločnosti,
+impulzivita. Strata kontroly nad správaním sú napríklad súčasťou porúch osobnost 
+Odvrátenou stranou mince je prehnaná sebakontrola. Aj prejavy až prílišnej kontroly sú
+patologické,
+ 
+diskomfort pozorovateľa – postoje a emócie pozorovateľa ovplyvňujú to, čo pokladá za
+normálne a naopak. Každý psychológ vie, že istý „druh pacientov“ nemá rád. Preto je
+v rámci profesionálnej etiky dôležité, aby každý klinický psychológ vedel o týchto
+svojich „slepých“ miestach, aby neovplyvňovali jeho profesionalitu a objektivitu.
+3.2 Klasifikačné systémy psychických porúch
+Aby profesionáli v oblasti duševného zdravia nepodliehali skresleniam alebo limitom
+spomenutých v rámci jednotlivých koncepcií normality, pri svojej práci používajú klasifikačné
+23systémy ochorení a psychických porúch. Na Slovensku sú v psychiatrii a psychológii
+najpoužívanejšie dva systémy: Medzinárodná klasifikácia chorôb MKCH a Štatistická príručka
+duševných porúch DSM.
+Používanie spoločných a jednotných klasifikačných systémov má viacero výhod:
+-zaisťuje štandardizovanú interpretáciu symptómov a diagnostických znakov,
+-poskytuje spoločný formálny jazyk pre zdravotníckych profesionálov,
+-v klinickej praxi zabezpečuje jednotnú komunikáciu v oblasti liečby a prevencie,
+-vo vzdelávaní poskytuje jednotu v psychopatológii a v diagnostike,
+-vo výskume ponúka porovnateľné výsledky výskumu etiológie a efektivite liečby,
+-oba uvedené klasifikačné systémy majú viacosový formát, čo zabezpečuje dôkladné
+vyhodnotenie jednotlivých prípadov s dôrazom na celkový zdravotný stav,
+psychosociálne problémy, ale aj úroveň samostatnosti pacienta. MKCH a DSM
+používajú špecifické číselné kódovanie,
+-
+pomáhajú špecifikovať diagnózu.
+Diagnóza umožňuje hlbšie poznanie človeka. Presná a kvalitná diagnóza by mala viesť k
+odstráneniu symptómov a k následnému „vyliečeniu“.
+Typy diagnóz:
+1. kategoriálna diagnóza – stanovená na základe pozorovania prejavov jedinca alebo
+rozhovorom,
+2. dimenzionálna – stanovená na základe pozorovania nie len patologických prejavov
+jedinca ale celého spektra prejavov,
+3. vývojovo chápaná diagnóza – prognostická, predpokladá podmienky, pri ktorých bude
+jedinec so svojou diagnózou žiť,
+4. diferenciálna diagnóza – stanovená na základe porovnávania symptómov chorôb, ktoré
+prichádzajú u vyšetrovaného do úvahy, s cieľom vylúčiť diagnostický omyl.
+Chyby v diagnostike:
+a) falošná pozitívna chyba – jedincovi je stanovená diagnóza, ktorú nemá
+b) falošná negatívna chyba – jedinec nevykazuje príznaky poruchy, ale niečím trpí
+24V súčasnosti sa v praxi pracuje s jedenástou revíziou Medzinárodnej klasifikácie chorôb
+MKCH-11 a piatou revíziou Štatistickej príručky duševných porúch DSM.
+Medzinárodná klasifikácia chorôb MKCH-11
+MKCH sa dominantne používa v Európe. Predchádzajúca MKCH-10 bola vypracovaná
+a schválená Svetovou zdravotníckou organizáciou WHO v roku 1994. Novinkou v diagnostike
+a klasifikácii ochorení a psychických porúch je jedenásta revízia MKCH-11, ktorú WHO
+schválila v roku 2019. Novinkou pri MKCH-11 bude, že má aj podobu elektronickej aplikácie,
+kým doterajšie revízie mali knižný formát. Porovnanie duševných porúch v MKCH-10 a v
+MKCH-11 je uvedené v tabuľke 1.
+Tabuľka 1 Prehľad kategórií duševných porúch v MKCH-10 a MKCH-11 (WHO, 1994;
+Gaebel, Stricker, & Kerst, 2020)
+MKCH-10
+MKCH-11
+F00 - F09 Organické a symptomatické 6D70-6E0Z Neurokognitívne poruchy
+duševné poruchy
+8A20-8A2Z Poruchy s neurokognitívnou
+poruchou ako hlavným znakom
+F10 - F19 Duševné poruchy a poruchy 6C40-6C5Z Poruchy spôsobené užívaním
+správania
+vyvolané
+užívaním látok alebo návykovým správaním
+návykových látok
+F20 - F29 Schizofrénne, schizoformné 6A20-6A2Z
+poruchy a poruchy s bludmi
+Schizofrénia
+alebo
+iné
+primárne psychotické poruchy 6A40-6A4Z
+Katatónia
+F30 - F39 Poruchy nálad (afektívne 6A60-6A8Z Poruchy nálad
+poruchy)
+25F40 - F48 Neurotické poruchy, poruchy 6B00-6B0Z Úzkostné a so strachom
+vyvolané
+stresom,
+somatoformné súvisiace poruchy
+poruchy.
+6B20-6B2Z
+Obsedantno-kompulzívne
+a súvisiace poruchy
+6B40-6B4Z Poruchy špecificky spojené so
+stresom
+6B60-6B6Z Disociatívne poruchy
+6C20-6C2Z Somatoformné poruchy
+F50 - F59 Behaviorálne syndrómy 6B80-6B8Z Poruchy kŕmenia alebo príjmu
+spojené s fyziologickými poruchami a potravy
+somatickými faktormi
+6E20-6E2ZDuševnéporuchy
+poruchysprávaniasúvisiace
+tehotenstvom,
+pôrodom
+alebo
+s
+alebo
+šestonedelím
+6E40-6E40Z Psychologické faktory alebo
+faktory správania ovplyvňujúce poruchy
+alebo choroby zaradené inde
+F60
+-
+F69
+Poruchy
+osobnosti 6C70-6C7Z Poruchy kontroly impulzov
+a správania dospelých.
+6D10-6D11.5 Poruchy osobnosti 6D30-
+6D3Z Parafilné poruchy
+7A00-7A0Z Poruchy nespavosti
+7A20-7A2Z Poruchy cirkadiálneho rytmu
+HA60-HA6Z Rodová inkongruencia
+F70 - F79 Mentálna retardácia
+6A00-6A00.Z
+Poruchy
+intelektuálneho
+vývinu
+F80 - F89 Poruchy psychického vývinu 6A00-6A06.Z Neurovývinové poruchy
+26F90 - F98 Poruchy správania a emočné 6C90-6C9Z
+Poruchy
+správania
+alebo
+poruchy vznikajúce zväčša v detstve disociatívne poruchy
+a počas dospievania
+F99 Nešpecifikovaná duševná porucha 6E60-6E6Z Sekundárne duševné alebo
+behaviorálne syndrómy spojené
+s poruchami alebo chorobami zaradenými
+inde
+Štatistická príručka duševných porúch DSM-5
+Štatistická príručka duševných porúch DSM-5 debutovala v máji 2013 na výročnej
+konferencii Americkej psychiatrickej asociácie (APA). DMS-5 sa dominantne používa v USA.
+Obsahuje tieto hlavné diagnostické triedy:
+-Neurovývinové poruchy
+-Spektrum schizofrénie a iných psychotických porúch
+-Bipolárna porucha a príbuzné poruchy
+-Depresívne poruchy
+-Úzkostné poruchy
+-Obsedantno – kompulzívna porucha a príbuzné poruchy
+-Poruchy viazané na psychotraumu a pôsobenie stresorov
+-Disociatívne poruchy
+-Poruchy s telesnými príznakmi
+-Poruchy príjmu potravy a poruchy súvisiace s príjmom jedla
+-Poruchy eliminácie
+-Poruchy cyklu spánok – bdenie
+-Sexuálne dysfunkcie
+-Dysfória súvisiaca s pohlavnou identitou
+27-Poruchy s výbušnosťou, narušenou kontrolou impulzov a narušeným správaním sa
+-Poruchy spôsobené užívaním látok a závislosti
+-Neurokognitívne poruchy
+-Poruchy osobnosti
+-Parafylické poruchy
+-Iné poruchy
+DSM je pravidelne revidovaná tak, aby zahrňovala najnovšie informácie a závery výskumov
+o psychických poruchách. Na tvorbe revízií sa podieľajú pracovné skupiny, ktoré tvoria klinickí
+a výskumní pracovníc  Oproti predchádzajúcej revízii DSM-IV, DSM-V zaviedla aj tieto
+zmeny v oblasti psychických porúch, ktoré uvádzame prehľadne v tabuľke 2.
+Tabuľka 2 Niektoré zmeny v DSM-5
+DSM-VIDSM-5
+DemenciaNeurokognitívna porucha
+Autistická poruchaPorucha autistického spektra
+DystýmiaPerzistujúca depresívna porucha
+Mužská porucha orgazmuOneskorená ejakulácia
+KoktavosťPorucha plynulosti reči
+Podtypy schizofrénieZrušenie podtypov schizofrénie
+3.3 Súhrn
+„Je toto správanie normálne?“...túto otázku často počuť v psychologickej praxi od pacientov
+alebo ich rodinných príslušníkov. Ako sme si ukázali v tejto kapitole, jej zodpovedanie nie je
+vôbec jednoduché. Záleží od toho, cez ktorú koncepciu normality na problém nazeráme alebo,
+ktorý klasifikačný systém psychických porúch vo svojej praxi dominantne používame. Viacerí
+teoretici sa pokúšajú o porovnanie a určenie rozdielov v prístupe, ku konkrétnym psychickým
+poruchám z pohľadu DSM-5 a MKCH 11. Pri viacerých diagnózach je však toto určenie
+spoločných alebo rozdielnych faktorov až nemožné. S ohľadom na skutočnosť, že používanie
+28klasifikačných systémov porúch plní najmä komunikačnú úlohu medzi profesionálmi,
+odporúčam dominantne využívať a orientovať sa v jednom klasifikačnom systéme, ktorý má
+v našej krajine väčšiu tradíciu v používaní. V súčasnosti je možné v odbornej verejnosti
+zachytiť diskusiu ohľadom destigmatizácie psychických porúch. Dôkazom toho je fakt, že sa
+odborný vedecký časopis Journal of Abnormal Psychology premenoval v roku 2022 na Journal
+of Psychopathology and Clinical Psychology.
+294. Činitele vzniku psychických porúch
+Jednou z častých snáh výskumníkov v oblasti klinickej psychológie je zodpovedanie otázky,
+čo spôsobuje vznik psychických porúch. Nájdenie jasnej odpovede by nám umožnilo cielene
+liečiť a psychoterapeuticky pôsobiť na konkrétne faktory, ktoré stoja v pozadí psychiatrickej
+poruchy. Ako sa však v tejto kapitole dozviete, väčšina psychických porúch má
+multifaktoriálnu etiológiu. To znamená, že k tomu aby vznikli, je nutná kombinácia viacerých
+činiteľov a premenných.
+Po preštudovaní tejto kapitoly budete:
+ rozumieť termínu etiológia,
+ poznať biologické prediktory vzniku psychických porúch,
+ ovládať psychogénne činitele vzniku porúch.
+4.1 Etiológia
+Etiológia – vedná disciplína, ktorá sa venuje štúdiu príčin, pozadia vzniku ochorení.
+V klasickej psychiatrii rozlišujeme tri základné etiologické faktory:
+1. endogénne – biologické, dedičnosť, biochémia mozgu
+2. exogénne – psychogénne, toxické vplyvy
+3. organické/somatogénne – spôsobené diagnostikovaným telesným poškodením.
+V súčasnosti prevláda bio-psycho-sociálny model vzniku psychických problémov.
+Objasňuje, že v pozadie psychických porúch je multidimenzionálne. Znamená to, že sa dnes
+predpokladá, že pri každej duševnej poruche hrajú určitú rolu biologické, psychogénne aj
+sociálne faktory. Ich význam a podiel sa pri rôznych poruchách rôzne líši, existujú aj
+interindividuálne rozdiely v podiely týchto faktorov. Samostatne si biologické a psychogénne
+etiologické premenné rozoberieme v nasledujúcich podkapitolách.
+4.2 Biologické etiologické faktory
+Biologická etiológia predpokladá zásadný vplyv biologických faktorov pri vzniku
+duševných porúch. Zaraďujeme sem genetiku, neuroanatómiu a neurofyziológiu mozgu:
+30 
+Genetika – súčasná veda zaznamenáva obrovské pokroky v jej skúmaní, avšak len
+v malom počte duševných porúch je jednoznačná genetická príčina. V prípade
+duševných ochorení a genetiky ide často o tzv. oligogénny (na vyjadrenie poruchy
+prispieva súčasne viacero génov) alebo polygenetický prenos (znak je vyjadrený na
+podklade množstva génov), pričom každý gén má len nepatrný príspevok. Problémom
+je tiež expresia genetickej dispozície, teda to, či sa gén prejaví alebo nie.
+Podkladom skúmania úlohy genetiky pre vznik psychických porúch bol v minulosti
+výskum mono a dizygotných dvojčiat, ktoré žili oddelene. Pri najzávažnejších
+poruchách ako je napríklad schizofrénia sa ukázal významný podiel dedičnosti na rozvoj
+poruchy. Avšak zistilo sa, že ani takmer 100% zhodnosť genetickej informácie
+nezaručovala
+100%
+prenos
+duševnej
+poruchy.
+Napríklad
+pri
+schizofrénii
+u jednovaječných dvojčiat, kde jedno má schizofréniu, to druhé malo pravdepodobnosť,
+že ju dostane 50% (Orel et al., 2012). V súčasnosti sa výskum dvojčiat v oddelenom
+prostredí považuje za neetický.
+ 
+Neuroanatómia, neurofyziológia mozgu – mozog: skúmané sú funkčné a anatomické
+štruktúry. Výskum mozgu a jeho súvislostí s etiológiou psychických porúch komplikuje
+skutočnosť, že máloktorý psychický problém je spôsobený hrubou poruchou väčších
+štruktúr mozgu, ktoré by naviac dokázali zachytiť používané zobrazovacie metódy
+(napr. CT vyšetrenie). V tejto súvislosti sa zistilo, že veľkosť mozgu schizofrenikov sa
+líši od mozgu zdravého jedinca. Avšak väčšina psychických porúch má narušený najmä
+mechanizmus na úrovni neurotranmiterov (prenášačov nervového vzruchu), čo
+zobrazovacie metódy nezachytia.
+S problematikou neuroanatómie a neurofyziológie mozgu pri psychických poruchách
+súvisia aj rizikové faktory, ktoré môžu viesť k poškodeniu mozgu počas tehotenstva
+(prenatálne riziká), v priebehu pôrodu (perinatálne riziká) alebo tesne po narodení
+dieťaťa (postnatálne riziká). Preto v tabuľke 3 uvádzame zoznam týchto rizikových
+faktorov:
+31Tabuľka 3 Prehľad rizikových faktorov spojených s pôrodom podieľajúcich sa na poškodení
+mozgu (Orel et al, 2012)
+Prenatálne riziká
+genetické
+Perinatálne riziká
+odchýlky hypoxia/asfyxia
+(Dawnov syndróm)
+(nedostatok
+Postnatálne riziká
+plodu úrazy hlavy
+kyslíka,
+detská mozgová obrna)
+infekčné choroby matiky Krvácanie do mozgu
+zápal mozgu
+(toxoplazmóza,
+cytomegalovírus)
+chemické látky (alkohol, protrahovaný pôrod
+otrava
+lieky)
+choroba matky (diabetes)
+predčasné
+plodovej vody
+odtečenie infekčné
+poškodenie
+mozgu
+psychický stav matky
+Všetky rizikové faktory uvedené v tabuľke môžu predstavovať začiatok alebo spúšťač
+závažných psychických porúch (napr. detská mozgová obrna, zaostávanie v rámci
+psychomotorického vývinu, schizofrénia)
+4.3 Psychogénne etiologické faktory
+Psychogénne etiologické premenné môžu stáť ako jediné premenné, ktoré zodpovedajú za
+vznik poruchy (napr. stres a reaktívna depresia). Oveľa častejšie však vystupujú v podobe
+spúšťačov u tých jedincov, ktorí majú istú biologickú zraniteľnosť alebo vulnerabilitu pre vznik
+konkrétneho psychického problému (napr. depresia). Patrí sem nasledovné:
+ 
+Stres – reakcia organizmu na nadmernú záťaž. Predstavuje špecifický prípad záťaže.
+Vzniká ako výsledok pôsobenia subjektívne vnímanej nadmernej záťaže. To následne
+vyvolá v organizme nerovnováhu, teda stav kedy nároky jedinca presahujú jeho
+adaptačné mechanizmy a možnosti zvládania. To čo jedinec vníma ako stres je veľmi
+individuálne. Pre jedného to môže byť rozhovor so šéfom, pre druhého ťažko splniteľný
+32termín alebo aj nespokojnosť jedinca. Preto stres vzniká vtedy, keď sa daná náročná
+okolnosť stáva ťažšie zvládnuteľná alebo až nezvládnuteľná.
+Stresujúce pre nás môžu byť tak veľké životné udalosti ako je strata životného partnera
+alebo rozvod, ale aj denné mrzutosti ako je dopravná zápcha, zmeškaný autobus,
+pripálená večera. V prípade denných mrzutostí platí, že sa stávajú stresujúce hlavne
+vtedy, keď máme „deň blbec“ a objaví sa ich naraz viac.
+Podnety, ktoré vyvolávajú stres nazývame stresory. Stresory môžu mať fyzikálnu (napr.
+hluk), alebo psychologickú povahu (sociálna izolácia, intrapersonálny konflikt). Taktiež
+môžeme stresory rozdeliť na:
+-vonkajšie: hluk, senzorická deprivácia, situácia nebezpečenstva,
+-prekážky v uspokojovaní primárnych potrieb: nedostatok spánku, jedla
+a odpočinku,
+-
+záťaž pri výkone: časová tieseň, nadmerné požiadavky, ale i nízke požiadavky
+spojené s monotónnou prácou,
+-sociálne: sociálna izolácia, medziľudské konflikty a sociálne problémy,
+-konflikty: nátlak na rozhodovanie, neistota v pokusoch o zvládanie úloh.
+Okrem toho v psychológii delíme stres aj na eustres (pozitívny stres – napríklad svadba,
+narodenie dieťaťa) a distres (negatívny stres – napríklad časová tieseň).
+Selye (1972) vytvoril všeobecný adaptačný syndróm (GAS), ktorý opisuje fyziologický
+priebeh stresu spojený s celkovou aktiváciou organizmu:
+a) fáza poplachu – aktivácia neuroendokrinného systému organizmu zvýši sa
+srdcová činnosť, pulz a dýchanie, naopak trávenie a činnosť imunitného systému
+sa spomalí, zvýšenie vylučovania hormónov, nabudenosť, aktivita organizmu.
+Všetky tieto fyziologické zmeny pripravujú organizmus na „boj“ so stresom.
+b) fáza odolnosti alebo rezistencie – predstavuje boj organizmu so stresorom,
+nabudenie a aktivácia sa udržuje na vysokej úrovni, čo umožňuje istý čas
+zvládať náročné situácie. Ak určitý stresor pôsobí opakovane, dochádza
+k postupnému prispôsobovaniu sa a adaptovaniu organizmu, zvyšuje sa
+33odolnosť. Ak však organizmus nie je dostatočne silný, postupuje do tretieho
+štádia.
+c) fáza vyčerpania alebo exhauscie – aktivácia jedinca klesá pod individuálny
+priemer. Pri dlhodobých stresoch môže dôjsť k vzniku psychických
+a psychosomatických ochorení.
+d) niekedy sa uvádza aj štvrtá fáza rekuperácie – zotavovanie sa, čas, ktorý je
+potrebný, aby sa organizmus vrátil k normálnemu fungovaniu.
+Všeobecný adaptačný syndróm sprevádzajú tieto zmeny:
+-
+telesné zmeny: hormonálne zmeny, zblednutie/sčervenanie, búšenie srdca,
+nadmerné potenie, potreba močenia, zmeny v tepovej frekvencii
+-
+psychické zmeny: únava, vyčerpanosť, netrpezlivosť, chybné výkony, rôzne
+emocionálne stavy (úzkosť, hnev, depresia, apatia)
+Určitú hladinu stresu k životu potrebuje, práve preto, že nás stres nabudzuje
+a aktivizuje. Problematický z pohľadu klinickej psychológie je najmä chronický
+(dlhotrvajúci) stres, kedy stres vystupuje často ako spúšťač viacerých psychických
+problémov (napr. depresia, schizofrénia, psychosomatické ochorenia). Práve pri
+schizofrénii a depresívnej poruche platí, že človek môže mať istú biologickú
+predispozíciu, ale práve spúšťač zabezpečí, že sa tieto predispozície prejavia. Pri
+schizofrénii je významným spúšťačom aj užívanie psychoaktívnych látok.
+ 
+Psychotrauma – silný, negatívne emočne nabitý zážitok, ktorý sa týka významnej
+oblasti života človeka. Freud ako predstaviteľ klasickej psychoanalýzy prišiel
+s myšlienkou, že zážitok traumy je významný psychogénny faktor, ktorý spúšťa
+disociačné mechanizmy. Pre porovnanie Bowlby vnímal ako zdroj traumy odlúčenie sa
+od materskej osoby v dôležitom období vývinu. Psychotrauma a jej dôsledky sú časté u
+veteránov z vojen, u vojakov, väzňov, obetí prírodných katastrof, obetí fyzického
+a sexuálneho násilia, týrania v detstve a pod. Po roku 1980 sa dostali obrazy vážnych
+reakcií na traumu a stres do diagnostických klasifikačných systémov.
+34Výskum traumy sa spája najmä s konceptom veľkých životných udalostí (life events),
+ktoré v signifikantnom smere ovplyvňujú život človeka. Tento termín bol uvedený už
+pri strese. Holmes & Rahe (1967) vytvorili zoznam negatívne pôsobiacich významných
+životných udalostí aj so škálou merajúcou predpokladanú mieru ich závažnost  V ich
+zozname môžeme nájsť udalosti ako rozvod, strata životného partnera, ale aj pozitívne
+udalosti ako narodenie dieťaťa, Vianoce, alebo svadba.
+Psychotrauma sa spája najmä s rozvojom postraumatickej stresovej poruchy a tiež
+psychosomatických ťažkostí alebo disociácií.
+ 
+Konflikt – stretnutie dvoch protichodných približne rovnako silných tendencií, ktoré
+vyžadujú protichodné správanie. Konflikty záujmov, názorov, postojov, predstáv. Inter
+a intrapersonálne, vnútroskupinové a medziskupinové nezhody.
+Lewin (2019) vytvoril Teóriu poľa, kde predstavil klasifikáciu intrapsychických
+konfliktov:
+a) priblíženie – priblíženie: dva rovnako silné pozitívne ciele (dvaja partneri, dve
+možnosti zamestnania),
+b) vyhnutie – vyhnutie: človek je vystavený dvom negatívnym podnetom (napr.
+vzdať sa niečoho práce alebo školy),
+c) priblíženie – vyhnutie: je to situácia frustrácie, na ceste za pozitívnym cieľom
+stojí nejaká prekážka,
+d) viacnásobné priblíženie – vyhnutie: pri viacerých motívoch, cieľoch
+nachádzame viacero pozitív a negatív.
+Konflikty sú bežnou súčasťou života, väčšinou majú pozitívny vplyv na vývin osobnosti
+(napr. vývinové konflikty). Zdrojom psychických porúch sa stávajú ak sú konflikty
+neriešené, majú značnú intenzitu, majú dlhé trvanie, dotýkajú sa osobne významných
+oblastí psychicky (sebaúcta, sebahodnotenie). Konflikt odráža nevyriešené protikladné
+názory, sprevádzajú ho negatívne emócie, napätie, ktoré pretrváva aj po odznení
+konfliktnej situácie. Konflikt môže vyvolať aktiváciu viacerých obranných
+mechanizmov ako je popretie, regresia, únik, negativizmus, účelové správanie.
+Konflikty sú dôležitou etiologickou premennou najmä pri úzkostných poruchách.
+35 
+Frustrácia – frustrácia vzniká pri zmarení aktivity zameranej na cieľ. Možno ju
+prežívať ako prekážku, ohrozenie potrieb, ohrozenie seba ako celku. Frustrácia vedie
+k strate vnútornej rovnováhy, vyvoláva negatívne pocity až apatiu, ohrozuje vlastnú
+hodnotu jedinca a aktivizuje obranné mechanizmy ako sú kompenzácia, racionalizácia,
+bagatelizácia, fantázia, projekcia, regresia alebo sublimácia. U detí vedie frustrácia
+k regresu, teda poklesu na nižšiu vývinovú úroveň (napr. odplienkované dieťa sa začne
+znova pocikávať)
+Rozlišujeme tieto tri druhy frustrujúcich okolností:
+-
+prekážky:
+fyzická blokáda (zatvorená cesta),
+prekážka psychologickej povahy (nápisy alebo vyslovené zákazy),
+nedostatky všetkého druhu (strata zamestnania, nedostatok peňazí),
+-sebafrustrácia: vlastné zábrany, nereálne predstavy,
+-frustrácie ego-vzťažných motívov: strata prestíže, nedôvera sociálneho okolia
+v schopnosti jednotlivca, neuspokojivé sociálne vzťahy.
+Najčastejšou reakciou na frustráciu je agresia. Rosenzweig (Silverstein, 1957) vyvinul
+projektívnu metódu na meranie frustračnej tolerancie a preferovaného spôsobu
+agresívnej reakcie. Reakcie na frustráciu rozdelil na:
+a) extrapunitívna reakcia = „trestám iných“: zameraná proti prekážke (napr.
+snaha vykopnúť dvere, obísť rannú zápchu; nadávam na ostatných).
+b) intrapunitívna reakcia = „trestám seba“: agresia namierená proti subjektu/
+sebe (napr. ohrýzam si nechty, keď stojím v zápche; obviňujem sa),
+c) impunitívne – premiestnenie reakcie na iný objekt (napr. búcham do
+volantu).
+ 
+Deprivácia – chýbanie alebo nedostatok niečoho, čo je dôležité na uspokojenie potrieb.
+Stav, ktorý vzniká vtedy, ak človek nemá možnosť uspokojovať svoje základné fyzické
+alebo psychické potreby v dostačujúcej miere a po dosť dlhú dobu. Je dôležité, či ide
+o jednorazovú alebo chronickú depriváciu, či má jedinec trvanie deprivácie pod
+36kontrolou. Rozlišujeme depriváciu biologických potrieb a senzoricko-sociálnu
+depriváciu. Z biologických potrieb ide napríklad o depriváciu potravou a spánkom.
+Spánková krátkodobá deprivácia môže mať aj pozitívne účinky na zlepšenie nálady.
+Senzorická a sociálna deprivácia môže mať podobu citovej deprivácie (napr. absencia
+dotykov u detí v detských domovoch) alebo hospitalizmus ako duševná podvýživa ako
+výsledok opakovaných zdĺhavých pobytov v nemocnic  Deprivácia môže viesť
+k viacerým následkom: neschopnosti prispôsobiť sa bežným sociálnym situáciám;
+tvorbe povrchných vzťahov; žiarlivosti; vynucovaniu pozornosti; oneskoreniu
+psychomotorického vývinu; agresivite; pasivite až k uzavretost 
+ 
+Strach a úzkosť – strach je signálna emócia, ktorá chráni našu existenciu a varuje nás
+pred nebezpečenstvom. Strach je predmetný, viaže sa na konkrétny predmet, ľudí,
+situácie. Strach môže mať aj podobu únavy, zvýšeného napätia, porúch spánku alebo
+zmeny výkonu.
+Strach má tieto zložky:
+-subjektívna – uvedomenie strachu a jeho príčin,
+-vegetatívna – metabolické zmeny a reakcia parasympatického nervového
+systému.
+Normálne formy strachu v závislosti od vývinu dieťaťa:
+-9-mesačné – separačná úzkosť,
+-2-ročné – strach z nových predmetov,
+-3-ročné – strach zo zvierat,
+-4,5-ročné – strach z vylúčenia z rodinného spoločenstva,
+-predškolský vek - strach z tmy,
+-mladší školský vek - strach zo samoty, tréma.
+Strach sa stáva patologickým javom, ak:
+-jeho množstvo príliš narastá,
+-ho človek nevie redukovať naučeným spôsobom,
+-ovplyvňuje jeho bežné fungovanie,
+-ho redukuje neprimerane (napr. pitie alkoholu).
+37Naopak úzkosť je vágna, nemá konkrétny predmet čoho sa bojíme. Úzkosť je
+centrálny fenomén mnohých reaktívnych (neurotických, úzkostných), ale aj
+psychotických stavov. Chýba u niektorých porúch osobnosti (disociálna, schizoidná
+porucha osobnosti). V psychodynamickej škole sa úzkosť interpretuje ako symptóm
+významného intrapsychického konfliktu.
+4.4 Súhrn
+Poznanie príčin, ktoré stoja v pozadí psychických porúch nám pomôže pri správnom
+rozhodovaní sa o možnostiach liečby. Nasmeruje nás k tomu, či pacientovi pomôžeme len
+s pomocou psychologických a psychoterapeutických techník, alebo je nutná minimálne
+podporná psychofarmakologická liečba. V prípade, že má psychický problém pacienta najmä
+psychogénny základ, poskytneme mu najmä psychologickú intervenciu. Príkladom sú ťažkosti,
+pri ktorých je v pozadí úzkosť – napríklad fóbie. Tu pomôžeme pacientovi najmä
+psychologickými prostriedkami a technikam  Naopak, v prípade, že má psychický problém
+pacienta významný biologický základ, v jeho liečbe bude dominovať psychofarmakoterapia.
+Napríklad pri psychotických poruchách ako je schizofrénia je nutné, aby pacient chodil
+k psychiatrovi a bral psychofarmaká. Psychologická pomoc je pri tejto diagnóze tiež dôležitá,
+napríklad v podobe nácviku zručností potrebných pre zaradenia sa pacienta do pracovného
+procesu.
+Ako sme však uviedli v úvode kapitoly, väčšina psychických porúch má multifaktoriálnu
+genézu, to znamená, že k tomu aby vznikli je nutná kombinácia viacerých činiteľov. Pri liečbe
+pacienta preto uplatňujeme bio-psycho-sociálnu perspektívu v zmysle spolupráce medzi
+lekárom (najčastejšie psychiater, neurológ), psychológom, ale aj rodinou jedinca. Okrem toho
+je nevyhnutné pravidelne sledovať aktuálne výskumné zistenia, ktoré spresňujú podiel
+jednotlivých etiologických činiteľov pre vznik príslušných porúch.
+385. Profesia klinického psychológa
+Keď sa študentov psychológie pýtam, čím budú, keď doštudujú, najčastejšie uvádzajú, že
+chcú pracovať ako klinickí psychológovia. Avšak ako si ukážeme v tejto kapitole, stať sa
+klinickým psychológom vôbec nie je jednoduché. Okrem toho, si profesia klinického
+psychológa vyžaduje široké vedomosti, zručnosti, ako aj veľkú pracovnú flexibilitu.
+Po preštudovaní tejto kapituly budete:
+ vedieť aké podmienky je nutné splniť, aby ste sa stali klinickými psychológmi,
+ poznať etické pravidlá klinickej práce,
+ ovládať podstatu praktickej činností práce klinického psychológa
+5.1 Klinický psychológ a vzdelávanie v klinickej psychológii
+Klinický psychológ je:
+•jeden z poskytovateľov zdravotnej starostlivosti,
+•rovnocenný partner lekára,
+•plne zodpovedá za celú odbornú činnosť, ktorú vykonáva,
+•pomáha zlepšiť psychologické koreláty fyzického zdravia pacienta,
+•zmierňuje príznaky vybraných ochorení, zlepšuje adaptáciu pacienta.
+Nie vždy je možné, aby klinický psychológ svojim pôsobením úplne odstránil psychické
+ťažkosti alebo poruchu adaptácie pacienta. V praxi psychológ pracuje v spolupráci s inými
+odborníkmi, najmä lekármi, zdravotnými sestrami, špeciálnymi a liečebnými pedagógmi,
+sociálnymi pracovníkm  Obohacuje medicínu o špecifický psychologický prístup a jedinečný
+humanitný zámer.
+Klinickým psychológom sa môže stať len absolvent jednoodborového štúdia psychológie
+ukončením minimálne magisterského (5 ročného) vysokoškolského stupňa vzdelávania.
+Pregraduálne štúdium psychológie pokračuje postgraduálnym špecializačným štúdiom
+v odbore Klinická psychológia, ktoré končí záverečnou skúškou – atestáciou. Podmienkou
+zaradenia na špecializačné štúdium v odbore Klinická psychológie je aktívna prax
+39v zdravotníckom zariadení. V priebehu tohto štúdia je nutné naplniť niekoľko podmienok: stáž
+na rôznych oddeleniach/klinikách (napr. psychiatria, pediatria, neurológia, geriatria..);
+realizovanie istého počtu psychologických vyšetrení pod supervíziou; absolvovať teoretickú
+prípravu (napr. prednášky z histórie klinickej psychológie, zo základov psychoterapie..);
+vypracovať
+záverečnú
+prácu
+a absolvovať
+finálnu
+skúšku
+–
+atestáciu
+(SKP,
+http://www.komorapsychologov.sk/index.php?option=com_content&view=article&id=1097:s
+pecializacne-studium-klinickej-psychologie&catid=43:rozne&Itemid=99,
+citované
+dňa
+15.11.2021).
+5.2 Činnosti klinického psychológa
+V prvej kapitole bola spomenutá obsahová náplň klinickej psychológie. Okrem toho,
+klinický psychológ vykonáva aj tieto činnosti vo svojej praxi:
+ 
+Psychodiagnostika – použitie klinických a špecifických testových metód s cieľom
+zodpovedať otázky lekára, či ťažkosti pacienta môžu mať psychologický korelát; taktiež
+poznať osobnosť pacienta, odhadnúť jeho schopnosti, stanoviť alebo spresniť diagnózu,
+indikovať terapiu, prípadne posúdiť jej efekt. Psychodiagnostika s použitím
+psychologických testových metód je pracovnou náplňou výhradne psychológa.
+Vykonáva sa v ambulancii psychológa alebo s hospitalizovaným pacientom v rámci
+práce na lôžku (pri psychodiagnostike je nutné myslieť na dopad hospitalizmu alebo
+akútnej fázy ochorenia).
+ 
+Psychoterapia – použitie psychologických metód s liečebným zámerom. Liečebný
+proces, ktorého cieľom je odstrániť alebo zmierniť psychopatologické príznaky,
+minimalizovať utrpenie klienta. Medzi základné psychoterapeutické metódy
+zaraďujeme slovo, rozhovor a vzťah medzi klientom a psychoterapeutom. V minulosti
+psychoterapia ponúkala najmä pochopenie pôvodu problémov klienta, alebo príčin jeho
+neželaného správania (klasická psychoanalýza). V súčasnosti psychoterapia zahŕňa
+prácu orientovanú na získanie náhľadu ale aj zmenu problémového správania
+(kognitívno-behaviorálna psychoterapia). Okrem toho si klient počas psychoterapie
+40osvojuje viaceré zručnosti potrebné na to, aby dokázal sám zlepšiť svoje problémy bez
+pomoci psychoterapeuta.
+S ohľadom na potrené vzdelanie terapeuta, rozlišujeme dve základné formy
+psychoterapie:
+a) Podporná psychoterapia – môžu ju vykonávať všetky pomáhajúce profesie. Je
+zameraná na podporu pacienta v ťažkých životných situáciách, na podporu
+osobnosti ako takej, samostatnosti klienta. Realizuje sa prostredníctvom
+vytvorenie vzťahu medzi terapeutom a klientom.
+b) Špeciálna psychoterapia – môže ju vykonávať len ten zdravotnícky pracovník,
+ktorý má ukončený dlhodobý certifikovaný psychoterapeutický výcvik. Je
+zameraná na odstránenie porúch, zmenu správania alebo myslenia, aj podporu
+osobnostného
+rastu
+klienta.
+Realizuje
+sa
+použitím
+špecifických
+psychoterapeutickým metód, techník a postupov. Špeciálna psychoterapia sa
+následne rozdeľuje na množstvo druhov odvodených od jednotlivých
+psychoterapeutických smerov. Špeciálna certifikovaná psychoterapia nie je
+nevyhnutnou podmienkou vykonávania profesie klinického psychológa.
+S ohľadom na množstvo účastníkov psychoterapie, rozlišuje tieto formy:
+a) Individuálna psychoterapia – s jedným pacientom, ktorý sa stáva privilegovaný.
+b) Skupinová psychoterapia – skupina pacientov (najčastejšie na psychiatrických
+oddeleniach). Pacient v individuálnej terapii nemá byť účastníkom skupinovej
+terapie u rovnakého psychológa, nakoľko ostatní účastníci skupinových sedení
+môžu mať podozrenie, že pacient na individuálnej terapii preberá témy zo
+skupiny (porušenie pravidla nevynášať zo skupiny).
+ 
+Klinické poradenstvo – podávanie informácií pacientovi, aby sa zorientoval
+v aktuálnej situácii, sám našiel spôsob riešenia. Zahŕňa edukáciu, nácvik špecifických
+zručností. Poradenstvo sa zameriava najmä na ľudí zdravých, ktorí prežívajú náročné
+obdobie, ťažkosti, s ktorými si nevedia dať rady, ale nespĺňajú kritériá duševných
+porúch.
+41 
+Osveta – zvyšovanie povedomia o duševnom zdraví, psychologických prostriedkoch na
+podporu zdravia a informovanosti o príznakoch psychických porúch pre laickú
+verejnosť. Realizuje sa často formou prednášok alebo besied (napr. nácvik zvládania
+stresu; edukácia o varovných príznakoch depresie; nácvik sebareflexie).
+ 
+Terénna práca – psychológ ide za pacientom. Je to dôležitý benefit pre pacienta,
+nakoľko ostáva v domácom, známom a bezpečnom prostredí.
+Rozlišujeme dve základné okolnosti:
+a) Terénna práca u pacienta, ktorý nemá záujem o pomoc – cieľom je nadviazať
+kontakt s pacientmi, ktorí nechcú alebo nemôžu využívať psychologickú pomoc,
+ale potrebujú ju. Napríklad terénna práca pri hromadných nešťastiach, haváriách
+(krízová intervencia); u drogovo závislých (streetwork). Realizuje sa
+prostredníctvom vytvorenia vzťahu medzi psychológom a jedincom.
+b) Terénna práca u pacienta, ktorý má záujem o pomoc – cieľom je poskytnutie
+psychologickej intervencie pre pacientov, ktorí pre zdravotný alebo psychický
+stav nemôžu vyhľadať psychologickú pomoc. Napríklad pacienti v domácej
+alebo hospicovej starostlivost  Realizuje sa prostredníctvom vytvorenia vzťahu
+medzi psychológom a pacientom.
+ 
+Krízová intervencia – pomoc v tiesni, pri náhlej životnej situácii, kedy človek nie je
+schopný riešiť túto situáciu sám, nemá zdroje (napr. pri zemetrasení, výbuch plynu
+v bytovke). Krízová pomoc je krátka, často jednorazová, zameraná na problém. Ponúka
+úľavu, bezpečie, nádej a vedenie k riešeniu aktuálnej situácie. Môže mať podobu
+dištančnej (linky pomoci) alebo priamej „face to face“ intervencie.
+Rozlišujeme tri základné fázy:
+1) posúdenie – čo sa stalo, aký bol spúšťač, aké sú zdroje v okolí,
+2) plán – vytvorenie plánu starostlivosti a jeho realizácia,
+3) vyhodnotenie efektivity postupu a miery účinku.
+ 
+Konziliárna činnosť – klinický psychológ je prizývaný ako poradca k vyšetreniam
+pacienta viacerými lekármi alebo inými zdravotníckymi pracovníkm  Prináša tu
+42špecifický holistický pohľad na pacienta s dôrazom na psychologické koreláty zdravia
+a ochorenia.
+ 
+Výskum – psychológ je vedený k výskumnej činnosti už počas pregraduálneho
+vzdelávania. Každý výrok obsiahnutý v psychologickom náleze môžeme chápať ako
+hypotézu alebo výskumnú otázku. Preto je dobré aby klinický psychológ pokračoval vo
+výskume aj po skončení vzdelávania. Najčastejšie sa klinicko-psychologický výskum
+orientuje na overovanie validity psychodiagnostických testov, účinnosť poskytovaných
+liečebných postupov alebo efektivity psychoterapeutických intervencií.
+ 
+Prevencia – je zameraná na ochranu zdravia. Reprezentuje súbor opatrení namierených
+na predchádzanie poškodeniu zdravia, úrazom a ochoreniam. Rozlišujem tri roviny
+prevencie: primárna, sekundárna a terciárna:
+1) primárna prevencia – jej cieľom je zamedziť vzniku ochorenia pomocou:
+a) ochrany zdravia (napr. bezpečnostné pásy, odporučenia pre užívanie alkoholu)
+b) podpory zdravia (optimálna výživa, cvičenie, oddych, spánok, čas len pre seba)
+Úloha psychológa sa zameriava sa na salutoprotektívne činitele ako:
+- tvorca zdravotnej politiky (člen pracovnej skupiny pri Ministerstve
+zdravotníctva SR),
+- teoretik, ktorý utvára účinné modely osvety (výskum starostlivosti o seba a na
+tom postavené intervenčné programy),
+- praktik, ktorý učí jednotlivcov ako posilňovať svoje zdravie, sebaúctu, zvládať
+stres a jeho dôsledky.
+2) sekundárna prevencia – jej cieľom je zabrániť ďalšiemu zhoršeniu alebo rozvoju
+choroby pomocou:
+a) prevedenia skorej a správnej diagnostiky s cieľom včasného rozpoznania
+ochorenia (napr. screening)
+b) poskytnutím rýchlej a účinnej liečby/ terapie (cielená liečba → uzdravenie;
+symptomatická liečba→ zmiernenie príznakov)
+Úloha psychológa v sekundárnej prevencii má podobu:
+- psychodiagnostiky: v popredí je diagnostika symptómov, osobnosti,
+43- krízovej intervencie: v popredí je neodkladnosť riešenia,
+-poradenstva: tam, kde sa pacient potrebuje zorientovať v novej situácii,
+-nácviku: pacient si osvojuje nové zručností (napr. relaxácia),
+-psychoterapie: tam, kde pacient potrebuje náhľad alebo zmenu prežívania,
+-sprevádzania: tam, kde sa pacient adaptuje na nepriaznivú situáciu.
+3) terciárna prevencia – jej cieľom je zmiernenie následkov ochorenia a usiluje sa
+o návrat človeka do bežného života pomocou:
+a) rehabilitácie: zaradiť pacienta do spoločenského a bežného života,
+b) resocializácia: návrat pacienta do spoločnosti s čo najväčšou sebestačnosťou.
+Úloha psychológa v terciárnej prevencii má podobu:
+- rehabilitácie zručností pacienta, aby sa navrátil do spoločenského života,
+- nácviku zručností, ktoré pacient potrebuje aby sa zaradil do bežného života,
+- podpory svojpomocných aktivít pacienta,
+- vedenia výcvikov a supervízií pre iných pomáhajúcich profesionálov.
+5.3 Psychofarmakoterapia
+Psychofarmakoterapia – odvetvie medicíny, ktoré zasahuje do ďalších odborov, najmä do
+oblasti neurofyziológie a endokrinológie. Psychofarmakoterapia nepatrí medzi činnosti
+klinického psychológa. Psychológ nepredpisuje lieky, ale je dobré aby sa orientoval v ich
+základných skupinách a poznal ich oblasť pôsobenia. Psychofarmaká pôsobia na biochemické
+procesy v mozgu, tým že ovplyvňujú uvoľňovanie neurotransmiterov. Neorotransmitery sú
+zodpovedné za prenos nervových vzruchov, viažu sa na neuróny. Na základe toho, na akú
+psychickú funkciu psychotropné látky pôsobia, je možné ich rozdeliť do troch základných
+skupín (spracované podľa Svoboda, Češková, & Kučerová, 2015; Moťavský, 2009):
+1) pôsobenie na afektivitu
+a) POZITÍVNE
+- antidepresíva: zlepšenie nálady (Cipralex, Depres, Efextin, Remeron, Seroxat)
+- anxiolytiká: k liečbe úzkosti
+- anxiolytiká benzodiazepínové: hrozí vznik závislosti (Neurol, Xanax)
+44- anxiolytiká nebenzodiazepínové: nižšie riziko závislosti, aj dlhodobé užívanie
+(Atarax, Buspirol),
+b) NEGATÍVNE: thymoprofylaktiká: stabilizátor nálady pri bipolárnej poruche (lítium)
+2) pôsobenie na psychickú integráciu
+a) POZITÍVNE: antipsychotiká/ neuroleptiká: na liečbu schizofrénie (Rispen,
+Haloperidol, Risperdal)
+b) NEGATÍVNE: halucinogény (LSD)
+3) pôsobenie na vedomie
+a) na KVALITU, ktorá je porušená AKÚTNE: zlepšujú – nootropiká: zvyšujú aktivitu
+neurónov (Nootropil)
+b) na KVALITU, ktorá je porušená CHRONICKY: zlepšujú – kognitiva (pri demencii)
+zhoršujú – dementogény (alkohol, canabis)
+c) na KVANTITU (bdelosť): zlepšujú – psychostimulanty: pri poruche aktivity a
+pozornosti (amfetamin, Psychoton, metaamfetamin)
+5.4 Úskalia práce klinického psychológa a etika
+Poslaním psychológa je vykonávať svoje povolanie svedomito, nestranne, s hlbokým
+ľudským vzťahom k človeku, v súlade s platnými právnymi predpismi, s dostupnými
+poznatkami psychologických vied a poznatkov iných hraničných disciplín. Špecifikom práce
+psychológa je však asymetrická povaha vzťahu medzi klinickým psychológom a pacientom.
+Práve v dôsledku nerovnosti sa môže zamýšľaná pomoc zmeniť na moc.
+Termín pomoc v sebe obsahuje slovo „moc“. Cieľom klinického psychológa však nie je mať
+moc nad pacientom, lebo by to automaticky znamenalo preberanie zodpovednosti za jeho
+život. Zámerom klinicko-psychologickej intervencie je naopak posilniť vlastné kompetencie
+a adaptačné mechanizmy pacienta (nelovíme za neho ryby, ale učíme ho loviť). Preto klinická
+psychológia pracuje s konceptom empowerment – posilnenie silných alebo pozitívnych
+stránok pacienta.
+45Posilnenie pacienta (empowerment) má 4 kroky:
+1) rozvíjanie schopnosti pacienta porozumieť: podmienkam, v ktorých žije; situácii,
+v ktorej sa nachádza; životnému štýlu, ktorý ho obmedzuje, znevýhodňuje, zbavuje
+sebavedomia.
+2) rozvíjanie schopnosti pacienta učiť sa: čo je potrebné zmeniť; nachádzať to, čo
+nefunguje; konsolidovať a upravovať svoje prostredie a vzťahy; odhadnúť svoje sily a
+možnosti pomoci zvonku; učiť sa samostatne rozhodovať o svojom živote.
+3) rozvíjanie schopnosti pacienta dávať spätnú väzbu – bez agresie a urážok, ako zručnosť
+nutná k životu
+4) rozvíjanie schopnosti pacienta vyjednávať: aby pacient mohol voliť z viacerých
+možností, riadil svoj život, a vnímal viac vlastnej zodpovednost 
+Opakom termínu empoverment je syndróm pomáhajúceho. Syndróm pomáhajúceho sa
+prejavuje na strane psychológa ako spojenie istých rysov, vlastností osobnosti a situačného
+kontextu. Výsledkom je, že pomáhajúci profesionál nekoná v záujme podpory pacienta, ale
+preto aby uspokojil svoje vlastné potreby. Pomáha často nutkavo, bez vedomia svojich hraníc,
+všetkým a všemocne. Prevenciou pred vznikom syndrómu pomáhajúceho je sebareflexia,
+supervízia a dodržiavanie etických pravidiel.
+Etika
+Etické pravidlá v psychológii na Slovensku upravuje Etický kódex psychológa, ktorý vydáva
+Slovenská komora psychológov. Najnovšia verzia bola publikovaná v roku 2016. Obsahuje
+súbor pravidiel, ktoré usmerňujú všeobecné povinnosti psychológa, zásady poskytovania
+psychologických služieb, prístup ku jedincovi a verejnosti, medzi psychológmi navzájom.
+Cieľom etických pravidiel psychológov je zabezpečiť vysoký štandard profesionality, kvality
+psychologických služieb a proklientského prístupu. S ohľadom na rozsah slovenského Etického
+kódexu psychológa uvedieme len jeho zostručnené hlavné body a myšlienky. Kompletný
+Etický kódex psychológa je možné nájsť na internetových stránkach Slovenskej komory
+psychológov na tomto odkaze:
+46http://www.komorapsychologov.sk/phocadownload/legislativa/2016/eticky%20kodex%20psy
+chologa_v%2020160311.pdf (SKP, citované dňa 30.9.2021).
+Hlavné pravidlá vplývajúce z Etického kódexu psychológov SKP:
+ 
+Kompetencia – uvedomovanie si hraníc psychologickej kompetencie, zručností,
+odborných znalostí voči pacientovi aj voči iným profesionálom, odhad profesioálnych
+možností vzhľadom na problémy klienta.
+ 
+Integrita – jednota morálnych zásad psychológa, profesionálne správania sa vo vede,
+výskume aj prax  Úprimnosť, spravodlivosť, rešpekt k druhým, uvedomenie si
+vlastných hodnôt, zásad a presvedčení.
+ 
+Profesijná a vedecká zodpovednosť – prijať zodpovednosť za svoje správanie,
+povinnosť konzultovať s inými odborníkmi problémy, ktoré presahujú naše možnost 
+ 
+Odborná kompetencia a ďalšie vzdelávanie – kontinuálne sa vzdelávať,
+nenárokovať si na vzdelanie alebo kompetenciu, ktorú nemám.
+ 
+Povinná mlčanlivosti – o všetkom, čo sa pri vykonávaní svojej činnosti dozvedel, platí
+to aj pre supervíziu.
+ 
+Povinnosť objasňovať a byť svedomitý – vždy pacientovi ponúknuť informovaný
+súhlas, ktorý mu objasní typ intervencie, jej rozsah, finančné podmienky, možnosti
+liečby, prípadné prekážky alebo ťažkosti v jej priebehu.
+ 
+Zásada kolegiálnej spolupráce – so zástupcami iných odvetví konať pre dobro
+pacienta, rešpektovať iných psychológov a kolegov.
+ 
+Rešpektovanie práv a dôstojnosti ľudí – rešpektovať a chrániť právo na súkromie,
+ochranu informácií, sebaurčenie, nezávislosť u pacienta. Rešpekt ku kultúrnym
+aj individuálnych rozdielom pacienta (vek, pohlavie, etnikum a pod.).
+ 
+Záujem o prospech iných ľudí – využitie psychológie pre blaho, zvýšenie kvality
+života druhých bez ohľadu na to, či sú to klienti, pacienti, študenti, alebo účastníci
+výskumu.
+ 
+Sociálna zodpovednosť – uvedomenie si zodpovednosti voči komunite, spoločnosti,
+podpora legislatívy.
+47Priestupky voči etickým princípom sú žalovateľné zo strany pacientov.
+5.5 Súhrn
+Klinická psychológia pokrýva široké spektrum psychologických tém. Orientuje sa najmä na
+možnosti pomoci a psychologickej starostlivosti o pacientov, ktorí trpia fyzickým alebo
+psychickým ochorením. Klinický psychológ môže pracovať s deťmi, dospelými, ako aj
+seniorm  Pôsobenie klinického psychológa je preto veľmi pestré, dynamické a zaujímavé. Na
+druhej strane, pri výkone tejto profesie treba mať na pamäti: “Všetci, ktorí sa profesijne hlásia
+k pomoci iným ľuďom, by mali vedieť, že každodenné stretávanie s biedou, bolesťou,
+nevedomosťou, sociálnym zlyhaním v nich bude nastoľovať závažné psychologické tlaky, ktoré
+môžu viesť k prejavovaniu tieňových kvalít“ (Géringová, 2011, s. 20). Preto by mal každý
+klinický psychológ bezpodmienečne dodržiavať etické zásady psychologickej profesie.
+486. Klinicko – psychologické vyšetrenie
+Klinicko-psychologické vyšetrenie pacienta sa niekedy automaticky zameriava len na
+použitie psychodiagnostických metód. Toto vnímanie však podstatne zužuje úlohu klinického
+psychológa len na rolu psychodiagnostika. Preto sa v tejto kapitole zameriame nie len na
+predstavenie kategorizácie psychodiagnostických techník ale celkovú koncepciu klinicko-
+psychologického vyšetrenia. Pacienti sa na klinického psychológa obracajú často so zdanlivo
+jednoduchými otázkam  Napríklad chcú vedieť, prečo sa ich syn nespráva dobre v škole, alebo
+ich zaujíma či dokážu prekonať svoju úzkosť. Tiež sa pýtajú, či je správanie ich dieťaťa ešte
+normálne, alebo prečo sa im nedarí v jeho výchove. Už tieto otázky nám naznačujú, že klinicko-
+psychologické vyšetrenie má smerovať k určitému cieľu. Tým cieľom nie je len zodpovedanie
+otázky pacienta, ale aj zamyslenie sa nad tým, čo pacientovi zodpovedanie jeho otázky prinesie
+– zoberie.
+Po preštudovaní tejto kapitoly budete:
+1. vedieť z akých zdrojov získavať informácie o pacientovi,
+2. poznať kroky klinicko-psychologického vyšetrenia,
+3. poznať ciele psychologického rozhovoru,
+4. vedieť na aké oblasti sa zameriavať pri získavaní anamnézy,
+5. ovládať rozdiely medzi klinickými a testovými metódami psychodiagnostiky,
+6. poznať základné delenie psychodiagnostických testových metód,
+7. vedieť ako formulovať klinicko-psychologický nález.
+6.1 Zdroje informácií o pacientovi
+Psychologický rozhovor je najdôležitejším zdrojom informácií o pacientov  Je
+nevyhnutnou súčasťou každého klinicko-psychologického vyšetrenia. V rozhovore získavame
+najmä všeobecný prehľad o probléme jedinca, jeho históriu, priebeh a súčasný stav.
+Dozvedáme sa aj potrebné informácie, ktoré súvisia s problémom. Praško a jeho
+spolupracovníci (2007) uvádzajú, že psychologický rozhovor pri psychologickom vyšetrení sa
+49zameriava na tieto dve základné oblasti: 1) popis súčasného stavu, 2) vznik a doterajší priebeh
+problému.
+1) Popis súčasného stavu: je vhodné začať požiadaním pacienta o popis posledného
+prípadu, alebo situácie, kedy sa problém objavil: „Pokúste sa, prosím, detailne popísať
+poslednú situáciu, kedy sa objavilo, to čo Vás tráp “. Vďaka tomu získame konkrétny
+obraz problému. V prípade, že s tým má jedinec problém, môžeme ho inštruovať, nech
+si zavrie oč 
+Následne formulujeme otázky týkajúce sa konkrétnych príznakov: „Čo ste v danej chvíli
+robili?“, „Čo ste prežívali vo svojom vnútri?“, „Čo vám vírilo hlavou?“. Zaujímať nás
+môže aj frekvencia: „Ako často/ dlho?“, „Na stupnici od 1 po 10 ohodnoťte závažnosť
+ťažkostí.“. Pýtame sa aj na okolnosti, kontext, kedy sa problém objavuje. Či sa stav
+zhoršuje napríklad v prítomnosti nejakých osôb, alebo v špecifickej situác  APA (2006)
+odporúča, že rozhovor o probléme by mal obsahovať aj túto otázku: „Popíšte vonkajšie
+podnety, ktoré zhoršujú problém.“ (APA, 2006; Othmer & Othmer, 2002).
+Zaujímame sa aj o dôsledky problému. Sústredíme sa na doterajšie snahy jedinca
+o riešenie problému: „Čo ste už vyskúšali, aby sa problém vyriešil?“. To nám poukazuje
+na motiváciu jedinca, tiež nám to dáva informáciu o tom, čo už vyskúšal, čo fungovalo
+a čo nie. Aby sa náhodou nestalo, že s ním budeme preberať riešenie, ktoré vyskúšal
+a nemalo úspech. Tu je dôležité sa tiež dopytovať, prečo si myslí, že to nefungovalo.
+Popis aktuálnych ťažkostí vytvára podklad pre prvú fázu diagnostického procesu
+pomocou testov. Preto je tu priestor dopytovať sa aj otázky poukazujúce na konkrétnu
+diagnózu. Napríklad u depresívneho pacienta nás môže zaujímať, či sa jeho zlá nálada
+a nechuť niečo robiť objavuje aj ráno. Alebo či má problém so zaspávaním. Zaujímame
+sa aj o udržujúce a sprievodné premenné.
+2) Vznik a doterajší priebeh problému: mapuje históriu pacientových ťažkostí: „Čo
+predchádzalo vzniku problému?“, „Kedy sa problém objavil prvýkrát?“, „Čím bolo toto
+obdobie špecifické?“, „Ako sa problém ďalej vyvíjal?“, „Akú liečbu v súvislosti
+s problémom podstúpil?“. Môžeme sa zaujímať aj o výnimky z prípadu: „Popíšte
+bezproblémové obdobie?“. Ukazujeme tým pacientovi, že mu nie je zle stále a vždy.
+Nápomocná je aj otázka na zvládanie, ktorá poukazuje na schopnosť pacienta
+50prekonávať prekážky: „Popíšte situáciu, ktorá sa vám zdala náročná, avšak nakoniec
+ste sa s ňou vysporiadal  Ako ste to zvládli?“.
+Cieľ rozhovoru sa líši prípad od prípadu. Treba sa snažiť o frakcionovaný rozhovor, kedy
+získavame informácie nie jednorazovo, ale minimálne z dvoch stretnutí. Umožní nám to
+sledovať dynamiku problému. Rozhovor je po formálnej stránke pomerne voľný, nedirektívny,
+nenásilne prechádzame od témy k téme. Rešpektujeme pacienta.
+Okrem psychologického rozhovoru je možné získať informácie o pacientovi aj z týchto
+zdrojov:
+Lekárska a iná dokumentácia: ponúka výsledky doteraz realizovaných medicínskych
+vyšetrení; poskytnutej farmakologickej liečbe (najmä psychiatrickej); informácie od
+zdravotníckeho personálu; iné psychologické správy.
+Informácie zo sociálneho prostredia: informácie, ktoré nám poskytnú rodinný príslušníci,
+ak je to možné, s ohľadom na rešpektovanie súkromia pacienta. Informácie od rodiny sa zvyknú
+nazývať tiež heteroanamnéza.
+Pozorovanie pacienta: je dobré si na pacientovi všimnúť:
+ 
+celkovo pacienta (sympatia – antipatia, estetický dojem, či je simplexný, integrovaný,
+kultivovaný, solídny, úprimný, zaujímavý),
+ zjav (postava, maskulinita – feminita, zdravie, mladosť, upravenosť, účes, odev)
+ motorika (držanie tela, pantomimika, mimika, nepokoj, tiky),
+ reč (tempo, kvantum, chyby, slovník, hlas),
+ emotivita (eufória – smútok – depresia, vzrušenie – pokoj, podráždenosť, apatia,
+rezignácia, zúfalstvo....),
+ 
+správanie sa k examinátorovi (kontakt, zhovorčivosť, závislosť – nezávislosť, hostilita,
+tréma, zdôverovanie sa),
+ 
+správanie sa pri testovom vyšetrení (kontakt, záujem, ambície, obavy, únik, frustrácia,
+kapitulácia, vytrvalosť, dôslednosť).
+51Je dôležité si všímať aj prvé reakcie pacienta. Či je napríklad kľudný alebo neistý, či unavený
+alebo úzkostný. Dojem „zo vzhľadu“ je diagnosticky cenný a často určuje to, ako ďalej
+s jedincom komunikujeme. Pozor však na nekritické dôsledky prvého dojmu.
+Anamnéza: často plní nielen informačnú, ale už aj intervenčnú úlohu, nakoľko vedie
+pacienta k utriedeniu si informácií o jeho živote a istému náhľadu (Mydlíková, Gabura,
+Schavel, 2002). Najviac pripomína psychiatrické vyšetrenie. V prípade rozhovoru vo výskume
+reprezentuje získavanie demografických údajov. Anamnestický rozhovor sa zameriava na
+oblasti, ktoré opisuje tabuľka 4. Je na odborníkovi, aby sa na základe problému v rozhovore
+pýtal len na istú oblasť anamnézy. To znamená, že môže istej oblasti anamnézy venovať viac
+pozornosti, inú vypustiť, prípadne doplniť nový okruh anamnestických údajov, ktorý v tabuľke
+nie je uvedený. Odpovede na otázky týkajúce sa anamnestického rozhovoru pacient dobre
+pozná, preto sú dôležité najmä pre psychológa. Treba mať na pamäti, že anamnestické údaje
+získané od pacienta môžu byť nespoľahlivé, lebo je bežné, že pacienti môžu skresľovať
+skutočnosť.
+Tabuľka 4 Oblasti anamnestického rozhovoru (spracované podľa Praško a kol.:, 2007; Kind,
+1997 )
+AnamnézaSledované témy
+Rodinná anamnéza- familiárny výskyt telesných a duševných
+ochorení
+- psychické problémy rodinných príslušníkov
+- liečba rodiny u psychiatra
+- problémy s alkoholom v rodine
+- samovražedný pokus v rodine
+- povaha matky a otca
+- spomienky na detstvo
+- popis súrodencov
+- súčasné vzťahy v rodine
+Osobná anamnéza
+- prekonané ochorenia, operácie úrazy
+52- súčasné lieky
+- návšteva psychiatra, neurológa
+- pravidelné sledovanie u nejakého lekára
+špecialistu
+- povaha v detstve a v dospelosti
+- vývinové medzníku psychomotorického
+vývinu (u detského pacienta)
+- nadväzovanie vzťahov s vrstovníkmi
+- súčasné a minulé priateľstvá
+- obdobie, keď sa cítil spokojný
+- čo robí jedinec sám, nezávisle od rodiny/
+priateľov
+Školská a profesionálna anamnéza
+- vychodené školy
+- úspešnosť v škole
+- profesionálna kvalifikácia
+- minulé a súčasné profesie
+- zmena zamestnania a dôvod
+- spokojnosť v zamestnaní
+- vzťahy s kolegami
+- spokojnosť s aktuálnym zamestnaním
+Sexualita, partnerské vzťahy a manželstvo
+- sexuálne skúsenosti v detstve a mladosti
+- sexuálne partnerstvá
+- manželstvo a sexualita
+- mimomanželský pomer
+- deviácie
+- spokojnosť so sexuálnym životom
+- čo by chcel v sexuálnom živote zmeniť
+Záujmy a hodnoty
+- súčasné záujmy a koníčky
+- frekvencia vykonávania záujmov
+53- záujmy pred problémom
+- hierarchia hodnôt
+- postoj k politike
+Plány do budúcnosti
+- plány do budúcnosti
+- želané zmeny v budúcnosti
+- ak by bol bez problému, čo by si prial do
+budúcnosti
+Získavanie anamnestických údajov môže byť realizovaný formou štruktúrovaného
+rozhovoru, kedy vyšetrovaný odpovedá v rozhovore na pripravené otázky. Taktiež môže
+pacient vyplniť anamnestické informácie do dopredu pripraveného formulára.
+6.2 Priebeh klinicko-psychologického vyšetrenia
+Predstavíme orientačnú odporúčanú štruktúru klinicko-psychologického vyšetrenia
+v jednotlivých postupných krokoch:
+1. Predbežné štúdium dokumentácie – aby sme získali ako taký obraz o pacientov 
+Najlepšie je realizovať štúdium dostupnej dokumentácie ešte pred samotným stretnutím
+s pacientom. Treba však myslieť aj na to, že prečítanie dokumentácie pred sedením môže
+vplývať naše vnímanie pacienta.
+2. Nadviazanie a udržanie kontaktu – Pri prvom kontakte je dobré, aby správanie
+psychológa bolo čo najľudskejšie. Preto treba myslieť na dôstojnosť pacienta, pozvať ho
+dnu, vyhnúť sa začiatku rozhovoru o probléme „medzi dverami“. Nasleduje podanie
+ruky (zdroj informácií o aktuálnom emocionálnom stave jedinca) a vzájomné
+predstavenie sa. Treba si dať pozor na to, aby sme si zapamätali meno pacienta a tiež
+naše predstavenie bolo jasné a zrozumiteľné. Prípadne mu môžeme odovzdať aj vizitku
+s našim menom a kontaktom na nás.
+Usadenie pacienta a krátky uvítací rozhovor. V prípade usadenia je dobré pacientovi
+naznačiť, kde sa má posadiť, avšak nechať na neho, nech si vyberie pre neho vhodné
+54miesto. Uvítací rozhovor = small talk slúži na „roztápanie ľadov“. Preto je dobré začať
+krátkym rozhovorom na jednoduchú, neutrálnu tému.
+Nasleduje objasnenie dôvodu stretnutia, teda hlavnej témy rozhovoru a následnej
+psychodiagnostiky. V rámci privítania a úvodných informácií je dobré pacientovi
+zverejniť aj dĺžku trvania stretnutia, charakter práce psychológa a objasniť prípadné
+nejasné predstavy o forme pomoc  Ozrejmiť cieľ stretnutia a podstatu spolupráce. Touto
+etapou si získavame pacienta k spoluprác 
+3. Samotný psychologický rozhovor – opísané predchádzajúcej podkapitole.
+4. Radenie psychodiagnostických techník – psychodiagnostické techniky je vhodné
+zaradiť do vyšetrenia až po aspoň krátkom rozhovore s pacientom. Špecificky u detského
+pacienta je vhodné začať kresebnými psychodiagnostickými metódam 
+5. Ukončenie vyšetrenia – je dobré ukončiť vyšetrenie s pozitívnym emocionálnym
+nábojom. Snažíme sa poukázať na niečo dobré u pacienta. Predstavíme výsledky
+vyšetrenia, pričom tie najzávažnejšie komunikujeme citlivo. Pokiaľ je to možné,
+informujeme pacienta o ďalšom priebehu pomoci alebo možnostiach nadväzujúcej
+odbornej intervencie (napr. možnosť navštíviť psychiatria, začať psychoterapiu)
+Vyjadrujeme sa zrozumiteľné, nie je dobré sa skrývať za odborný žargón. Výsledky
+vyšetrenia je dobré prezentovať vo forme praktických dôsledkov (napr. aké obmedzenia
+môže očakávať v práci). Vyslovenie psychiatrickej diagnózy nechávame na psychiatra.
+6.3 Psychodiagnostika
+Psychodiagnostika je aplikovaná psychologická disciplína, ktorej predmetom je
+pozorovanie,
+meranie
+a následná
+interpretácia
+získaných
+výsledkov.
+Cieľom
+psychodiagnostiky je zisťovanie a meranie psychických vlastnosti a stavov, konečné
+stanovenie alebo upresnenie diagnózy (Svoboda, Humpolíček, & Šmotek, 2013). Výsledkom
+psychodiagnostického vyšetrenia môže byť aj diferenciácia individuálnych charakteristík
+a dynamických zmien jednotlivca. Psychodiagnostika je jedna z najdôležitejších činností
+klinického psychológa. Jej realizácia predpokladá použitie špeciálnych psychologických
+55metód: klinických a testových. V súčasnosti dominuje pozitívna podoba psychodiagnostiky,
+ktorej cieľom je odhad mentálnych a osobnostných rezerv jedinca.
+Etapy psychodiagnostického vyšetrenia
+Psychodiagnostické vyšetrenia sa skladá z týchto etáp (Svoboda, Humpolíček, & Šmotek,
+2013):
+1) formulácia problému, kladenie otázok, stanovenie hypotéz
+2) výber adekvátnych metód – výber psychodiagnostických metód a postupov sa odvíja
+od:
+a) princíp overovania teórie (napr. predpokladám organické poškodenie)
+b) princíp zodpovedania otázky (pacient poslaný iným lekárom a ten kladie otázku)
+c) princíp vylúčenia diagnózy (vylučujem čo pacientovi nie je)
+d) princíp času a možností ďalšieho stretnutia
+e) individuálna voľba nástrojov zohľadňujúca vek, somatickú diagnózu (napr. ak
+nepočuje), mentálnu retardáciu
+3) vlastné vyšetrenie realizované dvoma skupinami metód:
+Klinické metódy – sú orientované na poznanie konkrétneho indivídua v jeho
+celistvosti a jedinečnost  Zachytávajú jedinca v dynamike vývinu a ponúkajú o ňom
+celkový obraz. Získané dáta majú skôr kvalitatívny charakter. Zaručujeme tu
+diagnostický rozhovor, pozorovanie, získavanie anamnestických údajov, hodnotenie
+spontánnych výtvorov pacienta.
+Testové metódy– použitie štandardizovaných testov, ktoré sú psychometricky
+podložené a sú psychometricky overené. Testové metódy nie je možné používať
+samostatne bez klinických metód. Testy dopĺňajú, upresňujú, objektivizujú poznatky
+získané z klinických metód; používajú cielené nástroje, ktoré umožňujú posúdenie
+výkonu, vlastností, správania.
+4) vyhodnotenie získaných dát, ich interpretácia a tvorba diagnózy – diagnóza od
+psychológa nemusí mať charakter konkrétneho ochorenia, preto môže mať podobu:
+a) určenia stupňa vývinu; b) stanovania príčin odchýlky od normy; c) určenia
+56individuálnych špecifík osobnosti; d) určenia príčin individuálnych rozdielov; e)
+odhadu prognózy alebo predikcie.
+Diagnóza má význam:
+- keď má zmysel, aby bol človek liečený,
+- keď umožňuje lepšie pochopenie druhého a lepšie dorozumenie sa s iným
+zdravotníkom,
+- keď má v živote pacienta primerané miesto (diagnóza sa pre neho nestane
+ústredným ospravedlnením, alebo prostriedkom na získanie niečoho,
+5) formulácia záveru a tvorba psychologického nálezu, návrh opatrení.
+Testové metódy psychodiagnostiky
+Pre používanie a administráciou psychodiagnostických testov je nutné, aby psychológ
+poznal jednotlivé psychické poruchy a ich symptómy. Na základe toho následne volil výber
+a zameranie psychodiagnostických testov. Napríklad ak viem, že sprievodným symptómom
+hyperkynetickej poruchy je porucha pozornosti, budem sa zameriavať na diagnostikovanie
+pozornost  Taktiež je dobré mať skúsenosť s administráciou testu, teda vedieť ako s ním
+pracovať, ako jednotlivé úlohy zadávať pacientov  Je veľmi dobré mať vybrané testy
+vyskúšané aj na sebe. Mať vedomosť pre akú vekovú skupinu sú testy určené. Napríklad nemá
+význam dávať test pre deti do 8 rokov starším študentom, lebo nebude meranie prevedené
+správne.
+Poznať
+tiež
+somatické
+problémy
+pacienta,
+ktoré
+by
+mohli
+ovplyvniť
+psychodiagnostiku alebo priamo determinovať výber testu. Napríklad ak pacient nosí okuliare
+na čítanie, je dobré aby ich mal počas vyšetrenia. Alebo ak je pacient nepočujúci, je potrebné
+očakávať, že bude mať problém porozumieť verbálnym testovým metódam. Je vždy lepšie byť
+prítomný pri administrácii testu, lebo ho vieme pozorovať. Možnosť pracovať a interpretovať
+psychodiagnostické testy je viazaná na ukončený magisterský stupeň štúdia psychológie.
+Zoznam aktuálnych slovenských psychodiagnostických testov je možné si pozrieť na stránke:
+https://psychodiagnostika.sk/.
+57V odbornej literatúr môžeme nájsť viaceré možnosti klasifikácie alebo triedenia testových
+metód
+psychodiagnostiky,
+my
+uvedieme
+triedenie
+spracované
+podľa
+www.
+psychodiagnostika.sk; Svoboda, Humpolíček, & Šmotek (2013):
+a) VÝKONOVÉ TESTY
+1. testy inteligencie
+jednodimenzionálne: vychádzajú z teórie všeobecnej inteligencie, preto merajú
+inteligenciu ako celok, napr. Kohsove kocky, Ravenove štandardné matice;
+komplexné: pozostávajú z viacerých subtestov, merajú viacero komponentov
+inteligencie, napr. Wechslerove skúšky inteligencie, Kaufmanova hodnotiaca batéria pre deti;
+2. testy špeciálnych schopností a jednotlivých psychických funkcií
+testy jednotlivých psychických funkcii: testy na meranie úrovne pamäti, pozornosti,
+napr. Názorové rady, Test kognitívnych schopností, Test koncentrácie pozornosti;
+test špeciálnych schopností: skúšky kreativity, skúšky verbálnych a matematických
+schopností, napr. Urbanov figurálny test tvorivého myslenia;
+testy vedomostí: napr. Skúška vedomostí predškolských detí.
+b) TESTY OSOBNOSTI
+1. objektívne testy osobnosti – nazývajú sa aj performačné skúšky, Objektívne testy osobnosti
+sú konštruované na zisťovanie osobnostných charakteristík jedinca, kedy je vyšetrovaná osoba
+vystavená úlohám alebo situáciám, pri ktorých riešení sa v jej správaní prejavia jej osobnostné
+rysy (Svoboda, Humpolíček, Šmotek, 2013). Napr. Stroopov Color-Word-Test, Zrkadlové
+kreslenie;
+2. dotazníky – reprezentujú sebavýpoveďové hodnotenie jedinca, sú závislé od ochoty jedinca
+prezradiť niečo o sebe a miere jeho vlastných informácií o sebe, nevýhodou je, že človek môže
+zavádzať v odpovediach.
+jednorozmerné: dotazníky merajúce len jeden rys alebo aspekt osobnosti, napr. Škála
+klasického strachu, sociálne-situačnej anxienty a trémy – KSAT, Neurotický dotazník
+N-5, Škála rodinného prostredia;
+viacrozmerné: snažia sa o zmapovanie osobnosti v čo najširšom kontexte, napr.
+Dotazník interpersonálnej diagnózy – ICL, Bellov dotazník prispôsobivosti, MMP 
+58d) PROJEKTÍVNE METÓDY
+Projekcia je proces kedy vyšetrovaná osobnou v reakcii na špecifické podnety (napr. machule)
+premieta svoje vnútorné obsahy navonok.
+1. asociačné projektívne metódy osoba reaguje na stimul, napr. Rorschachov test, Hand test;
+2. konštruktívne projektívne metódy – človek má niečo vytvoriť, napr. Tematický apercepčný
+test, Sceno test, Test sveta;
+3. doplňovacie projektívne testy – doplniť vetu, podnet, napr. Test doplňovania viet;
+4. projektívne meódy výberu a radenia – osoba vyberá podnety podľa preferencie, napr.
+Luscherova klinická diagnostika, Farebný pyramídový test;
+5. kresebné projektívne metódy – projekcia pomocou kresby, napr. Baum test, Kresba
+začarovanej rodiny.
+6.4 Klinicko-psychologický nález
+Posledným krokom klinicko-psychologického vyšetrenia je tvorba psychologického nálezu. Nález
+by mal interpretovať zistenia, výsledky klinických a testových psychodiagnostických metód. Jednotlivé
+získané informácie by mali byť syntetizované do jedného zmysluplného a pre adresáta zrozumiteľného
+celku (lekár, učiteľ, iný psychológ). Klinicko-psychologický nález je súčasťou zdravotnej dokumentácie
+pacienta, preto treba nález formulovať opatrne s dôrazom na jej možný dosah. Môže byť výsledkom
+jednorazového stretnutia s pacientom alebo dlhodobej spolupráce. Môže sa zameriavať na jednotliví
+dielčiu časť psychiky pacienta, alebo prinášať obraz o pacientovi ako celku. Psychologický nález slúži
+ako podklad pre prácu iných psychológov, je zdrojom informácií pre lekárov, slúži ako spätná väzba pre
+vyšetrujúceho psychológa.
+Psychologický nález obsahuje tieto dva druhy údajov:
+a)
+faktické
+informácie:
+anamnestické
+údaje,
+popis
+z pozorovania,
+výsledky
+psychodiagnostických testov,
+b)
+interpretačné informácie: porovnávanie, kategorizácia z faktických dát, psychologické
+predikcie a závery.
+Psychologický nález pozostáva z týchto častí:
+591.
+Osobné údaje pacienta (meno, priezvisko, dátum narodenia a vek, adresa a telefón, číslo
+zdravotnej poisťovne)
+2.
+Účel vyšetrenia a dátum vyšetrenia
+3. Použité psychodiagnostické metódy
+4. Informácie z anamnézy + súhrn doterajšieho vývinu problému (výťah z chorobopisu, údaje o
+doterajšej liečbe, pôvodná diagnóza, zdravotný stav)
+5. Aktuálne ťažkosti pacienta, pozorovanie, špecifiká jeho prejavu, komunikácie, prístup
+k vyšetreniu
+6. Výsledky použitých techník - vyjadrenie sa k jednotlivým psychologickým charakteristikám
+vo vzťahu k účelu vyšetrenia
+7. Záver klinicko-psychologického vyšetrenia je najčítanejšia časť psychologického nálezu.
+Preto má byť jasný a zrozumiteľný. Má priniesť odpoveď na účel vyšetrenia. Súčasťou nálezu
+bývajú aj najdôležitejšie interpersonálne vzťahy a ich povaha, osobnostné dispozície,
+kognitívne charakteristiky (IQ, percepcia), psychopatologické symptómy a prejavy. Okrem
+toho má byť zakončený odporúčaním pre ďalší postup, intervenciu alebo diagnostiku.
+6.5 Súhrn
+Prevedenie klinicko-psychologického vyšetrenia si vyžaduje prax. Predpokladá skĺbenie viacerých
+profesionálnych zručností ako je aktívne počúvanie, empatia, vedenie psychologického rozhovoru,
+pozorovanie alebo psychodiagnostika. Preto počas štúdia psychológie nepremeškajte a nepremárnite
+príležitosť trénovať si psychologické vyšetrenie. Častou otázkou od študentov, ktorú dostávam, keď
+vyučujem túto tému je, či je možné si robiť zápis počas stretnutia s pacientom. V tejto súvislosti
+odporúčam robenie si jednoduchých heslovitých poznámok počas sedenia. Dodatočná registrácia
+informácii po vyšetrení vedie k tomu, že strácame až 60% informácií. Je však dôležité pacienta
+upozorniť, že si poznámku počas rozhovoru ideme robiť a zapisovať si ich tak, aby sa nestrácal kontakt
+s pacientom.
+607. Výskum v klinickej psychológii
+Cieľom klinickej psychológie je poznávanie pacienta v jeho bio-psycho-sociálnych
+súvislostiach, na kontinuu zdravie a choroba. Preto je nevyhnutnou súčasťou klinickej
+psychológie ako vedeckej disciplíny aj výskum poznatkov a javov, využiteľných pri
+diagnostike a liečbe duševných porúch. Napriek tomu sa stáva, že absolventi štúdia psychológie
+chcú čo najrýchlejšie na výskum, metodológiu alebo štatistiku po štúdiu zabudnúť. Avšak
+Americká psychologická asociácia už v 40 rokoch 20. storočia zdôrazňovala, že výskum a jeho
+kvalitné prevedenie je neoddeliteľnou súčasťou klinickej praxe psychológa.
+Realizovanie výskumov a publikovanie výsledkov prináša autorovi – klinickému
+psychológovi nasledovné:
+•ponúka svoje zistenia širšiemu okruhu záujemcov,
+•otvára sa kritike, diskusii ale aj spolupráci s inými kolegami,
+•získava podnety pre ďalší výskum, ale sa aj zviditeľňuje,
+•sleduje najnovšie poznatky v danej oblasti,
+•odborne rastie.
+7.1 Výskum založený na dôkazoch vz. pseudoveda
+Výskum v oblasti medicíny a aj psychológie čelí v súčasnosti veľkej výzve. V duchu hesla
+„publikuj alebo zomri“ sa viacerí vedci utiekajú k neetickým praktikám výskumu alebo
+rýchlym bezproblémovým publikáciám v „predátorských“ časopisoch. Príkladom takého
+konania bola štúdia egyptských vedcov o účinkoch lieku Ivermectin na liečbu COVID-19, ktorá
+bola sfalšovaná (Bryant et al., 2021). Preto je veľmi dôležité pre klinických psychológov vedieť
+rozoznať, ktoré výsledky a zistenia sú vedecké, naopak ktoré sa len na vedeckosť hrajú a sú
+pseudovedecké.
+Pseudovedecké štúdie a výsledky majú tieto spoločné znaky (Hajduk, 2020):
+ absentuje testovanie vedeckých hypotéz,
+ spoľahlivosť dát je otázna, metodológia je nevedecká,
+61 ignorujú výsledky iných prác pri tvorbe teoretickej časti štúdie aj diskusii,
+ spoľahlivosť výsledkov sa dokladuje na základe „autority“ - obyčajne zakladateľa
+terapeutického smeru alebo objaviteľa liečebného postupu,
+ absentujú vedecké citované zdroje a prehľadný zoznam literatúry,
+ článok neprešiel nezávislým recenzným konaním,
+ diskusia neobsahuje limity štúdie,
+ štúdia ponúka jednoznačné odpovede na problémy, na ktoré súčasné vedecké autority
+nevedia odpovedať.
+Nekritická aplikácia pseudovedeckých zistení sa v klinickej psychologickej praxi prejavuje
+(Hajduk, 2020):
+ 
+preferenciou neoverených až bizarných psychoterapeutických postupov pri liečbe
+stresu a traumy,
+ používaním psychodiagnostických testov, ktoré nie sú psychometricky overené,
+ používaním psychodiagnostických testov, ktoré majú zastarané normy,
+ odporúčaním herbálnej medicíny pri liečbe depresie a úzkosti,
+ odporúčaním liečebných postupov z kníh pre osobný rozvoj.
+Výskum založený na dôkazoch integruje všetky dostupné dôkazy z konkrétnej
+psychologickej oblasti, porovnáva jednotlivé zistenia od rôznych autorov, preveruje uvádzané
+dáta a výsledky, podrobuje ich kritike a klinickej expertíze. Cieľom výskumu založeného na
+dôkazoch je ponúknuť také závery a odporúčania pre prax, ktoré sú založené na aktuálnych
+vedeckých zisteniach. Aby ste sa vedeli zorientovať v množstve vedeckých publikácií a ich
+kvalite, na obrázku 2 uvádzame hierarchicky odstupňované výskumné publikácie na základe
+ich kvality. Vrchol pyramídy tvoria postupy s najsilnejšou empirickou validitou,
+spoľahlivosťou. Jednotlivé typy štúdií z obrázka 2 budú predstavené v nasledujúcom texte v
+podkapitole: 7.2 Podoby výskumov v klinickej psychológ 
+Aby aj Váš výskum spĺňal požiadavky výskumu založeného na dôkazoch je najlepšie, keď
+zberu dát predchádza intenzívne štúdium literatúry a dostupných zistení v danej oblast 
+Následné štúdium Vás nasmeruje k formulácii hypotéz, ktoré je potrebné overiť. V klinickej
+praxi je možné sa stretnúť aj s výskumami, ktoré boli realizované len na základe pozorovania
+62istého javu, avšak neboli spojené s predchádzajúcim štúdiom odborných publikácií. Postup len
+na základe skúsenosti však môže priviesť výskumníka k tomu, že bude skúmať jav, ktorý je
+v literatúre dobre známy a vysvetlený.
+Metaanalýza
+Experimenty
+Observačné štúdie
+Kazuistika
+Názory autorít
+Obrázok 2 Hierarchizácia empirickej evidencie štúdií (Hajduk, 2020, s. 14)
+7.2 Podoby výskumov v klinickej psychológii
+V klinickej psychológii môžete natrafiť na špecifické typy výskumných plánov
+a metodologických riešení. V nasledujúcom texte si bližšie predstavíme kazuistiku, observačné
+štúdie a metaanalýzy.
+Názory autorít: v histórii klinickej psychológie bola spoľahlivosť vybraných teórií
+podložená len na základe autority jej autora (napr. Freudova teória nevedomia). Avšak rokmi
+boli publikované viaceré vedecké dôkazy, ktoré viaceré teórie takto vytvorené, napriek ich
+popularite, spochybnili alebo vyvrátil  Príkladom je teória psychosexuálneho vývinu Freuda,
+ktorá sa radí medzi historické, ale už dávno prekonané učenia.
+Kazuistika: má dlhú tradíciu. Kazuistikami sa začala písať história klinickej psychológie.
+Napríklad učenie Freuda je postavené na základe štúdií špecifických prípadov jeho pacientov
+(napr. Anna O). Kazuistiku je možné definovať ako intenzívne štúdium jedného prípadu. Tým
+jedným prípadom môže byť osoba, ale aj rodina, skupina. Kazuistika ponúka podrobné
+informácie o prípade vo forme narácie. Opisuje najmä špecifiká, jedinečnosť alebo zvláštnosti
+63určitých
+vybraných
+prípadov.
+Kazuistiky
+sa
+používajú
+hlavne
+v psychoterapii
+a neuropsychológ  Nevýhodou kazuistík je ich nemožnosť zovšeobecnenia záverov.
+Observačné štúdie: na rozdiel od laboratórneho výskumu nie je možné väčšinu javov
+v klinickej psychológii navodzovať experimentálne (napr. výskum traumy), preto sú v klinickej
+psychológii populárne observačné štúdie, ktoré skúmajú charakteristiky špecifickej klinickej
+populácie (napr. koreláty kvality života u pacientov s depresiou). Medzi observačné výskumy
+zaraďujeme prierezové štúdie, case-control štúdie a kohortové výskumy.
+a) Prierezové štúdie sú najčastejším typom observačných štúdií. Analyzujú premenné,
+ktoré majú vzťah k danému javu. Preto sú typom korelačného výskumu. Ponúkajú
+informácie o prevalencii javov, avšak nedokážu odhaliť príčinnosť javov (napr.
+ponúknu výsledok že obezita súvisí s vyšším príjmom kalórií). Výskumy realizované
+ako bakalárske alebo magisterské práce majú najčastejšie charakter prierezových štúdií.
+b) Case-control štúdie – porovnávajú skúmanú populáciu s kontrolnou skupinou. Tým
+pomáhajú odhaliť najmä rizikové alebo pretektívne faktory (napr. porovnanie
+zdravotného stavu v skupine pacientov s depresiou, ktorí podstupujú psychoterapiu, so
+skupinou depresívnych pacientov bez terapie). Sú retrospektívne a vhodné na skúmanie
+raritných javov, ako je väčšina tém klinickej psychológie a psychopatológie.
+c) Kohortné štúdie – typ longitudinálneho skúmania, kedy sledujeme špecifický jav
+opakovane, v priebehu určitého časového obdobia. Sledovanie musí byť zrealizované
+minimálne dva krát. Pomáha identifikovať javy, ktoré vedú k poruche alebo zhoršujú
+určitý problém (napr. vývin nadužívania návykových látok od pubescencie do
+dospelosti).
+Metaanalýza: ponúka systematický prehľad zistení už realizovaných štúdií. Výskumník
+zbiera, syntetizuje, porovnáva a sumarizuje dostupné zistenia a výsledky k danej téme.
+Následne ich podrobuje metaanalýze ako štatistickej procedúre. Metaanalýza ponúka vysoko
+odborné závery a odporúčania, ktoré vychádzajú z porovnaní a systemizácie výsledkov
+množstva realizovaných štúdií v danej oblast 
+Výskumný súbor v klinickej psychológii: v klinickej psychológii je bežné, že výskumník
+nemôže skúmať všetkých členov populácie, ktorá ho zaujíma. Získavanie účastníkov pre
+64klinický výskum je náročné a zdĺhavé. S ohľadom na toto špecifikum sa v observačnom
+výskume odporúča minimálne 30 účastníkov v skupine.
+7.3 Etika v klinicko-psychologickom výskume
+Aj výskum v klinickej psychológii má svoje špecifické etické zákonitosti najmä s cieľom
+ochrániť dobro, práva, dôstojnosť a zdravie skúmaných osôb. Obzvlášť dôležité je to
+v klinickom výskume, kde môžu byť účastníci výskumu zo skupín obzvlášť zraniteľných osôb
+(deti, zdravotne znevýhodnení, psychiatrickí pacienti). Klinicko-psychologický výskum sa
+zvykne zameriavať na problematiku psychických problémov a porúch, preto je jeho
+nevyhnutnou etickou súčasťou taktiež informovanie účastníkov o tom, kde je možné vyhľadať
+odbornú psychologickú pomoc alebo poradenstvo (napr. výskum zameraný na prevalenciu pitia
+u vysokoškolákov v závere uvádza kontakty na inštitúcie, ktoré pracujú so závislými).
+Etická komisia
+S ohľadom na spomenuté etické špecifiká klinicko-psychologického výskumu je vhodné,
+aby bol výskum ešte v čase pred spustením posúdený etickou komisiou. Etické komisie sú
+nezávislé orgány, ktoré pôsobia najčastejšie v nemocniciach, iných zdravotníckych
+organizáciách a na univerzitách. Ich cieľom je posudzovať etickosť predložených výskumných
+projektov najmä so zreteľom na ochranu práva, dôstojnosti a zdravia budúcich respondentov.
+Etická komisia zhodnocuje možné benefity a potenciálne riziká. Povinnosťou výskumníka je
+získať povolenie od etickej komisie už v čase pred zberom dát, pretože väčšina odborných
+časopisov vyžaduje toto potvrdenie ako doklad k publikovaniu štúdie.
+Informovaný súhlas
+Súčasťou každého výskumu by mal byť informovaný súhlas. Predkladáme ho účastníkom
+výskumu ešte pred začatím výskumu. Informovaný súhlas informuje účastníkov o všetkých
+okolnostiach výskumu. Preto má obsahovať dostatok informácií k tomu, aby sa účastník
+slobodne rozhodol, či bude súčasťou výskumu alebo nie.
+Informovaný súhlas by mal mať tieto body (Hajduk, 2020):
+65 cieľ výskumu
+ popis procedúr (dotazník, experiment)
+ riziká a nepríjemnosti spojené s výskumom (napr. nepríjemné pocity vyvolané
+otázkami vo výskume)
+ ekonomické aspekty (napr. odmena za účasť vo výskume)
+ spôsob nakladania s osobnými a citlivými údajmi (napr.: „Účasť na výskume je
+anonymná, osobné informácie budú prekódované do čísel“)
+ dobrovoľnosť participácie a možnosť ukončenia účasti (napr.: „Účastník výskumu
+môže kedykoľvek z výskumu odstúpiť.“)
+ otázky a ďalšie informácie (napr.: „V prípade otázok sa môže obrátiť na..“)
+ kontakt na zodpovednú osobu alebo inštitúciu
+Formálne má byť informovaný súhlas koncipovaný tak, aby mu potencionálny účastník
+rozumel. V prípade anonymizovaného výskumu sa nevyžaduje podpis účastníka. Zväčša sa tam
+uvádza formulka: „Účastník svojou účasťou vo výskume potvrdzuje oboznámenie sa
+s informovaným súhlasom.“. V prípade detského a dospievajúceho účastníka výskumu musí
+jeho zákonný zástupca udeliť súhlas s účasťou dieťaťa na štúd 
+7.4 Súhrn
+Súčasná doba je charakteristická prudkým nárastom hoaxov a dezinformác  Informácií je
+tak veľa, že je veľmi náročné sa v nich vyznať a vybrať si to čo zohľadniť, naopak čomu
+neveriť. Psychológ by mal skôr nedôverovať a následne preverovať, overovať svoje závery
+a zistenia. Kritické myslenie je nevyhnutnou súčasťou psychologickej praxe. Kritické myslenie
+reprezentuje schopnosť rozoznávať kvalitu informácií. Predpokladom kritického myslenia je
+schopnosť pozrieť sa na veci z nadhľadu, s odstupom, rozlišovať informácie centrálne od
+okrajových, pravdivé od nepravdivých.
+668. Psychologická problematika pacienta so somatickým ochorením
+Klinická psychológia sa primárne zameriava na intervenciu u pacientov s psychickými
+poruchami a problémam  Avšak častou pracovnou náplňou psychológa je aj starostlivosť
+o pacientov so somatickým ochorením. Pacienti pritom môžu trpieť celým spektrom
+somatických ťažkostí (napríklad kardiovaskulárne, kožné alebo gynekologické ochorenia).
+Potrebu a nevyhnutnosť psychologickej starostlivosti o somaticky chorého pacienta zdôrazňujú
+aj aktuálne zmeny v zdravotníctve. Trendom u nás, ale aj vo svete, sa stáva znižovanie počtu
+lôžok, obmedzenie dĺžky hospitalizácie na najnutnejšie minimum alebo umieranie výhradne v
+nemocnic  Na druhej strane, samotný pobyt pacienta v nemocnici vedie k dočasnému
+obmedzeniu jeho súkromia (napr. viacerí pacienti v izbe, vyšetrenia v prítomnosti študentov),
+k telesným, psychickým alebo osobným limitáciám (napr. zníženie sociálnych kontaktov,
+limitovaná pestrosť záujmov). Častou reakciou pacienta na uvedené okolnosti môže byť hnev,
+vzdor alebo nespolupráca. Úlohou klinického psychológa preto býva zlepšenie vzájomnej
+komunikácie medzi pacientom a personálom. Ponúknuť pacientovi podporu pri prekonávaní
+úskalí spojených so somatickým ochorením alebo podporovať pacientovo porozumenie
+zdravotného stavu.
+Po preštudovaní tejto kapitoly budete:
+1. rozumieť subjektívnej stránke somatického ochorenia,
+2. poznať zmeny potrieb pri somatickom ochorení,
+3. rozumieť psychologickým súvislostiam somatického ochorenia,
+4. vedieť ako komunikovať so špecifickým typom somaticky chorého pacienta,
+5. ovládať možnosti a techniky psychologickej predoperačnej prípravy.
+8.1 Subjektívna stránka somatického ochorenia
+Termín ochorenie sa vo všeobecnosti definuje ako narušenie homeostázy medzi organizmom
+a prostredím vedúci k fyziologickým, anatomickým, ale aj psychickým zmenám v organizme,
+prejavujúci sa typickými symptómam  Reprezentuje aktuálny stav orgánov vznikajúci
+pôsobením vonkajších a vnútorných okolností, ktoré narušujú jeho optimálne fungovanie.
+67Ochorenie ako poškodenie, oslabenie alebo znížená aktivita určitej fyziologickej činnost  Je to
+špecifické ohrozenie aktuálneho stavu pacienta, dôsledkom čoho sa obmedzujú jeho aktivity
+a ašpirácie. Zasahuje celého človeka v podobe zdravotnej nepohody, zvýšeného stresu,
+znemožnenia dosahovania cieľov a tiež sociálneho fungovania. Samotná diagnostika a liečba
+sú preto významný zdroj záťaže, čo môže zvýšiť riziko vývinu viacerých psychosociálnych
+problémov (Miller et al., 2009). Ochorenie so sebou často prináša aj nutnosť hospitalizácie
+pacienta, čo je zdrojom ďalšieho stresu, strachu, úzkosti a napätia.
+Ako vidíme, autori pristupujú k termínu ochorenie buď z pohľadu medicíny, ktorý
+zdôrazňuje jeho fyziologickú stránku, alebo z perspektívy psychológie, ktorá neopomína dopad
+zdravotných problémov na psychiku pacienta. Preto anglicky písaná odborná literatúra rozlišuje
+až dva termíny pomenúvajúce ochorenie a to: „illness“ a „disease“ (Křivohlavý, 2002; Mareš
+& Vachková, 2009). „Disease“ zastrešuje klasický klinický obraz ochorenia s typickou
+etiológiou, diagnostickými kľúčmi a liečebnými postupm  Naopak „illness“ reprezentuje
+subjektívne, individuálne, laické vnímanie ochorenia. Je to súhrn informácií, predstáv,
+očakávaní chorých aj zdravých jedincov o konkrétnom ochorení, ktoré ovplyvňujú kognitívnu,
+postojovú, afektívnu a behaviorálnu zložku organizmu (Mareš & Vachková, 2009) a
+samozrejme aj samotnú úspešnosť liečby. Diferenciácia termínov „disease“ a „illness“
+odzrkadľuje aktuálny preferovaný bio-psycho-sociálny prístup k téme ochorenia.
+Môžeme zhrnúť, že ochorenie reprezentuje aktuálny stav organizmu charakteristický
+obmedzením alebo oslabením životných funkcií, ktorý sa prejavuje typickými symptómami vo
+fyziologickej, ako aj psychologickej rovine fungovania pacienta. Predstavuje mimoriadne
+zaťaženie organizmu a špecifickú náročnú situáciu. Preto kladie zvýšené nároky nie len na
+adaptáciu, ale aj zvládanie. Je nevyhnutné rozlišovať medicínsky význam ochorenia v podobe
+„disease“ a psychologicko-sociálny v podobne „illness“.
+Subjektívny význam ochorenia sa odráža hlavne v týchto oblastiach, ktoré si postupne
+rozoberieme:
+ emocionálne prežívanie ochorenia,
+ psychické reakcie (sebapoňatie, postoj k chorobe, prežívanie),
+ kognitívne hodnotenie ochorenia,
+ kvalita života,
+68 
+zmena potrieb.
+Emocionálne prežívanie ochorenia
+U chorého dominuje negatívne prežívanie ochorenia. Úzkosť súvisí s ohrozením, depresia
+so stratou (napr. stratou zdravia, funkcie orgánu, obmedzenie možnosti pokračovať v určitej
+činnosti), alebo sa u pacienta objaví popretie súvisiace s obranou sebaobrazu. Pacient popiera,
+že je chorý. Reakcia závisí aj od rýchlosti zmien zdravotného stavu, pacientovho sebaobrazu
+a jeho zaužívaných copingových stratégií. Všetky tieto prejavy sú do určitej miery prirodzené
+a súvisia s adaptáciou na nový stav.
+V súvislosti s emocionálnym prežívaním ochorenia je aktuálny model od Kübler-Ross
+(2015), ktorý popisuje fázy vyrovnávania sa s faktom ťažkej diagnózy:
+1) Fáza neistoty pred stanovením diagnózy – uvažovanie o ochorení začína už pred
+vypuknutím samotného ochorenia, kedy človek spozoruje prvé príznaky. Jednotlivec
+si vytvára vlastnú teóriu o tom, čo by mu mohlo byť. Dominujú emócie ako úzkosť,
+obava. Táto fáza sa ukončí diagnostikovaním ochorenia.
+2) Fáza šoku a popretia – pacient neverí, že je jeho zdravotný stav vážny. Odmieta
+akceptovať svoj zdravotný stav, myslí si, že je zdravý. Na behaviorálnej úrovni sa to
+prejavuje tým, že pacient odmieta ísť na spresňujúce vyšetrenia. Zo strany
+zdravotníkov nemá význam ho detailne informovať o postupe liečby, pacient to
+neprijíma.
+3) Fáza generalizácie negatívneho hodnotenia – dominuje emócia hnevu. Pacient sa
+pýta prečo práve on ochorel, prečo sa to práve jemu stalo. Hnev smeruje proti sebe
+ale aj proti okoliu. Na behaviorálnej úrovni sa to môže prejavovať aj tým, že pacient
+sa snaží zvládať ochorenie svojimi silami (návšteva šamanov, liečiteľov)
+4) Fáza vyjednávania – prosenie o milosť, o viac času, vyjednávanie s osudom,
+lekárom, Bohom.
+5) Fáza postupnej akceptácie až zmierenia sa s diagnózou – akceptovanie choroby,
+pacient si vyhľadáva informácie o ochorení (diagnostika, testy, internet), postupne
+prispôsobuje svoj život ochoreniu, hľadá nový zmysel života aj ochorenia.
+Vyrovnanie sa s chorobou a objavenie zmysluplnosti utrpenia.
+69V nadväznosti na uvedené Novalis a kol (1999) opísali Štádiá „neprimeranej“ adaptácie na
+ochorenie
+ uvedomenie si choroby – možné reakcie: popretie, panika, psychóza
+ regresívna závislosť – nespolupráca, reverz, prílišná náročnosť vyžadovaná od iných,
+zmätenosť
+ 
+výsledky liečby – sú tu tri alternatívy:
+a) návrat k normálnemu fungovaniu (uzdravenie) – pacient sa vráti k činnosti
+predčasne alebo sa zdráha znova začať normálne fungovať,
+b) trvalo znížená úroveň fungovania/chronická choroba – neschopnosť
+adaptovať sa na invaliditu,
+c) zlyhanie liečby/umieranie – neschopnosť venovať sa rodinným, osobným,
+finančným záležitostiam.
+Úlohou zdravotníka a psychológa je akceptovať dominujúce negatívne emócie, ktoré sú
+prítomné najmä na začiatku ochorenia.
+Psychické reakcie na ochorenie
+V dôsledku ochorenia sa mení sebapoňatie pacienta (Vágnerová, 1999). Znižuje sa najmä
+jeho sebahodnotenie a miera jeho závislosti a nezávislosti od druhých. To sa odvíja od
+závažnosti ochorenia. V dôsledku toho môžu u pacienta narastať problémy s definovaním jeho
+sociálnych rolí, identity, dokonca môže dôjsť k zmene osobnost  Úlohou psychológa je
+pacientovi pomôcť predefinovať ochorením postihnuté sociálne role, identitu alebo sebaobraz.
+Spoločne ho smerovať k tomu, že ochorenie nie je konečný stav, ale jeho život a uplatnenie
+v ňou budú pokračovať. Sprevádzať pacienta pri objavovaní nových sociálnych rolí a možností
+uplatnenia sa napriek somatickým ťažkostiam a novovzniknutým limitom.
+Kognitívne hodnotenie ochorenia
+Kognitívne hodnotenie ochorenia býva často skreslené. Pacient má pocit, že o svojej chorobe
+vie málo, snaží sa dopĺňať so chýbajúce informácie („google pacient“). Väčšinou je však táto
+70snaha neúspešná, nakoľko jeho myslenie sa vyznačuje nekritickosťou a magickým
+uvažovaním. V tejto súvislosti môže zdravotnícky pracovník alebo psychológ pomôcť
+pacientovi tak, že mu opakovane poskytne informácie o ochorení, liečbe alebo ho naviguje na
+tie konkrétne internetové zdroje, ktoré mu budú nápomocné. Veľmi vhodné je aj nasmerovanie
+pacienta na vybrané suportívne pacientske skupiny alebo organizácie.
+U detského pacienta je kognitívne spracovanie ochorenia dané jeho vývinovou úrovňou.
+V období predškolského veku je vnímanie ochorenia ovplyvnené prelogickým uvažovaním
+dieťaťa, kde ho vníma najmä ako trest (výrok 5r. chlapca: „Mami to ja môžem za koronu, lebo
+som si dostatočne neumýval ruky po záchode.“). V školskom veku je subjektívne chápanie
+ochorenia racionálnejšie. Dieťa už akceptuje chorobu ako spôsob fungovania organizmu.
+V období puberty dospievajúci uvažujú o alternatívnych dôsledkoch ochorenia (výrok 17r
+chlapec s ťažkou poruchou sluchu s dobrou kompenzáciou načúvacím aparátom: „Som akoby
+medz  Nie som ani nepočujúci, ani počujúc  Komunita nepočujúcich ma nechce, počujúcimi
+nie vždy rozumejú.“). Uvažujú o chorobe aj v zmysle budúcich perspektív (výrok 18r dievča
+s ťažkou poruchou sluchu: „Ako budem počuť v noci, že mi plače dieťa, keď nebudem mať
+načúvací aparát“). V dôsledku toho môže u nich dôjsť k prijatiu zdravotného stavu, alebo
+búreniu sa.
+Kvalita života
+Kvalita života pacienta pri somatickom ochorení sa odvíja od: a) jeho psychodynamickej
+konfigurácie (vytvorená v detstve, napr. rola úzkostnej matky); b) vyvolávajúcej životnej
+udalosti (napr. strata sluchu oživí intrapsychický konflikt) a c) od telesných podmienok pacienta
+(vulnerabilita k určitému ochoreniu). Okrem toho je kvalita života významne determinovaná aj
+tým, ako somatické ochorenie zasiahne kvalitu života pacienta. U detského pacienta sa jeho
+sociálna rola môže dokonca zlepšiť tým, že vďaka ochoreniu mu dospelí začnú prisudzovať
+privilégiá (v škole, doma). Naopak, ochorenie ho môže obmedziť v plnení sociálne žiadúcich
+činností (napr. bude oslobodený z telesnej výchovy). Hyperprotektívny prístup rodičov povedie
+k tomu, že si dieťa skôr bude uvedomovať svoju odlišnosť. V dospelosti sa ochorenie
+v súvislosti s kvalitou života chápe ako sociálna deviácia. Choroba zasiahne chorého sociálne
+vzťahy, možné sociálne interakcie, môže zmeniť jeho sociálnu pozíciu a priniesť sociálnu
+71stigmatizáciu. Práve prekonanie a optimalizovanie týchto sociálnych dopadov by malo byť
+cieľom psychologickej intervencie pri somaticky chorom pacientov 
+Zmena potrieb
+Somatické ochorenie prirodzene smeruje k prestavbe potrieb pacienta:
+ 
+potreba stimulácie – mnohé podnety môžu pôsobiť rušivo, môžu chorého dráždiť
+či vyčerpávať. Chorý človek nemá potrebu zmeny, nových podnetov, lebo nemá dosť
+energie, aby na neho nepôsobili nepríjemne. Dlhodobo chorí pacienti môžu byť až
+podnetovo deprivovaní.
+ 
+potreba orientácie v situácii – chorý človek má potrebu sa vo svojej situácii
+orientovať, poznať svoj zdravotný stav, vedieť, čo ho čaká a prečo je to nutné,
+v opačnom prípade by mohlo hroziť riziko konfliktu. Orientácia v situácii zmenšuje
+riziko konfliktov a adaptačného zlyhania.
+ 
+potreba citovej istoty a bezpečia – sa pod vplyvom choroby zvyšuje. Cíti potrebu
+väčšej citovej podpory, ktorá by kompenzovala jeho zdravotné problémy. Vážne
+ochorenie vyvoláva obranné reakcie rôzneho druhu, napr. zvýšená fixácia na
+blízkych ľudí. Niekedy chorý chce, aby pri ňom blízky človek zostal a držal ho za
+ruku, neopúšťal ho v ťažkej situác  Ak je však chorý veľmi vyčerpaný, môže byť aj
+apatický.
+ 
+potreba sociálneho kontaktu – uspokojenie potreby sociálneho kontaktu je
+obmedzené obťažnosťou takú aktivitu vôbec realizovať, ale i zmenou hodnôt
+a záujmov; sociálny svet zúžený na členov rodiny, zdravotníkov a spolupacientov.
+ 
+potreba sebarealizácie – chorý sa veľa ambícií vzdáva, pretože vie, že sú pre neho
+nedostupné alebo stratili pre neho pôvodnú hodnotu. Môže dôjsť aj k zvýrazneniu
+nejakej ambície alebo potreby, ale je to veľmi vzácne. Človek sa snaží dosiahnuť
+nejaký cieľ práve preto, že jeho čas i možnosti sú obmedzené a on si to uvedomuje.
+ 
+potreba otvorenej budúcnosti – synonymicky potreba pozitívnej prognózy býva
+závažným ochorením vždycky viac či menej frustrovaná. Budúcnosť ťažko chorého
+človeka je nepriaznivá a chorí je nútený pod tlakom okolností zľavovať zo svojich
+72pôvodných predstáv. Anticipácia negatívnej budúcnosti je logickým dôsledkom
+pochopenia podstaty vlastného ochorenia. V závislosti od toho sa objavujú obranné
+reakcie typu – útok alebo únik.
+8.2 Psychologické súvislosti ochorenia
+Zastupujú viaceré faktory na strane pacienta, ktoré vstupujú a ovplyvňujú psychologickú
+stránku ochorenia. Patrí tu:
+ 
+Alexitýmia = Pinocchiov syndróm. Alexitymické správanie sa opisuje ako citová
+negramotnosť, neschopnosť popísať svoje vlastné pocity, operantné myslenie,
+chudobná slovná zásoba, znížená introspekcia, fantázia, schizoidné vzťahy. Celkovo
+je takýto človek viac náchylný na psychosomatické problémy.
+ 
+Diatéza = typ zraniteľnosti alebo vulnerabilita k určitej chorobe. Konštitučná
+predispozícia k ochoreniu, hlavne ak je ochorenie vnímané ako následok stresu.
+ 
+Syndróm bezmocnosti a beznádeje = presvedčenie, že pomoc nepríde; súvisí s
+naučenou bezmocnosťou. Obsahuje subjektívny znížený pocit schopnosti situáciu
+riešiť, pocit ohrozenia a menší pocit uspokojenia vo vzťahu k ostatným, tendenciu
+oživovať a znovu prežívať skoršie neúspechy. Vedie k zvýšenému riziku depresie.
+ 
+Kvalita rodinného zázemia – somatické ochorenie môže rodinu buď stmeliť alebo
+dochádza k rozpadu rodinného zázemia.
+ 
+Vonkajšie prejavy ochorenia/hendikepu – hanba za inkontinenciu, nemožnosť
+komunikácie napríklad pri strate sluchu, subjektívne vnímaná stigma.
+ 
+Pocit ohrozenia života – subjektívna miera strachu z umierania/ bolesti/osamelost 
+8.3 Komunikácia so somaticky chorým pacientom
+K hlavným zásadám profesionálnej práce klinického psychológa s akýmkoľvek typom
+pacienta patrí rešpektovať ľudskú dôstojnosť, schopnosť načúvať, chápať bez hodnotiacich
+komentárov, byť neutrálny v podobe kontroly vlastných emócií a zachovávať mlčanlivosť.
+Okrem toho netreba zabúdať na to, že „problémové“ správanie jedinca môže byť len jeho
+73reakciou na nekompetenciu alebo vnímané neporozumenie zo strany psychológa. Preto, ak sa
+aj správa „problémovo“, treba sa správať profesionálne a vyhnúť sa predčasnému nálepkovaniu
+alebo jeho hodnoteniu. Hlavne v prípade chronických, nádorových a nevyliečiteľných ochorení
+je komunikácia veľmi náročná. Komunikácia pri somatických ochoreniach sa bude týkať najmä
+týchto okolností:
+a) Oznámenie diagnózy – primerane, zrozumiteľne, ohľaduplne, spojiť s informáciou o
+možnostiach liečby (nie falošne „všetko dobre dopadne“..).
+b) Informácia o možnostiach liečby – primerane schopnostiam a vedomostiam pacienta,
+pacient musí nadobudnúť dôveru, pretože sa od toho odvíja úspešnosť liečby.
+Zamerať sa na objasnenie zákroku, priebehu zákroku, benefitov, rizík ale aj
+pozákrokovej starostlivosti pacienta. Nezabúdať spomenúť, čo sa bude očakávať od
+pacienta.
+c) Informácia o zlyhaní liečby – cieľom je aspoň znížiť prejavy ochorenia, zmiernenie
+bolesti, zachovanie kvality života pacienta. Poskytnúť informácie o možnej
+paliatívnej liečbe (tíšenie bolesti a zmiernenie utrpenia).
+V rámci psychologických rozhovorov je možné sa stretnúť s celou škálou problémov
+a rôznymi typmi pacientov. Nároky na vedenie rozhovoru sa zvyšujú pri práci s tzv.
+„špecifickým“ pacientom, ktorý si vyžaduje osobitý prístup. Predstavíme si úzkostný,
+hysterický typ, agresívny a pedantný typ pacienta. Taktiež si povieme o sťažovateľovi,
+návštevníkovi, mlčiacom jedincovi a pacientovi v odpore.
+Úzkostný/depresívny typ pacienta
+Ako ho poznať: schúlené a neisté držanie tela, vyhýbavý pohľad, pozeranie sa do zeme,
+neistá chôdza a gestá. V rozhovore sa objavuje ticho, váhanie, obavy a naliehanie na
+uisťovanie. Má strach urobiť sám rozhodnutie, preto necháva za seba rozhodovať iných, často
+volí stratégiu úniku. Prejavom je úzkosť z nezvládnutia situácie a bezmocnosť. Zvykne sa
+porovnávať s inými ľuďmi tak, že on je ten najhorší. Je citlivý voči kritike a nezáujmu.
+Ako s ním pracovať:
+ Hovoriť pomaly, zrozumiteľne, kľudným hlasom.
+74 Poskytnúť mu dostatok informácií, využívať metódu klarifikácie.
+ Nevyvíjať nátlak na jeho vlastné rozhodovanie.
+ Venovať mu dostatok času a podpory.
+ Jeho nevypovedané myšlienky môže psychológ verbalizovať.
+ Pracovať s jeho sebadôverou a asertivitou.
+V prípade depresívneho pacienta je nutné venovať pozornosť aj jeho samovražedným
+sklonom (Praško a kol., 2007). Ak nám prizná, že uvažuje o samovražde, treba sa sním o
+tom v pokoji porozprávať. Samovražda je reakcia na pocit neriešiteľnosti situácie a problémov.
+V diskusii je preto možné hľadať alternatívne riešenia alebo uzavrieť dohodu, že toto riešenie
+sa odsunie a počká sa na účinnosť terapie (Praško a kol., 2007).
+Hysterický typ
+Ako spoznať: rýchla chôdza, živá mimika a gestá, nápadné obliekanie a úprava zovňajška,
+neprehliadnuteľný. Prudký prejav emócií a upútavanie pozornost  Teatrálne správanie pri
+konflikte, trhanie oblečenia, prudké gestá a krik.
+Ako s ním pracovať:
+ Zabrániť prílišnej gestikulácii usadením pacienta alebo zavedením do tesnejších
+priestorov.
+ Odviesť mimo pozornosť iných osôb.
+ Nereagovať na jeho snahy odbočiť od témy a naopak vracať ho k téme.
+ Hovoriť stručne, jasne a jednoznačne, tak aby s nami nemohol polemizovať.
+Hysterické správanie môže byť tiež reakciou pacienta na neuspokojovanie jeho potrieb alebo
+neporozumenie zo strany psychológa/zdravotníka.
+Agresívny typ
+Agresívne vystupovanie môže mať samotný pacient, ako aj jeho rodinní príslušníc  Ako
+spoznať: rýchla chôdza, živá mimika a gestá, nápadné agresívne správanie, vyhrážanie sa,
+pohľad priamo do očí, podupávanie, zvieranie pästí.
+75Ako s ním pracovať (Lovašová, 2015):
+ Usadiť pacienta/ príbuzného tak, aby ste si videli „z očí do očí“.
+ Nebrať hnev pacienta/príbuzného osobne.
+ Hovoriť kľudne, vecne a zrozumiteľne.
+ Kontrolovať vlastnú tendenciu byť agresívny.
+ Neverbálne signalizovať sebadôveru a rozhodnosť.
+ Strážiť si gestikuláciu, aby to pacient nechápal ako výzvu k boju.
+ Možnosť použiť pracovný stôl ako prirodzenú bariéru.
+ Pozerať sa mu priamo do očí.
+ Vyvarovať sa poučovaniu a mentorovaniu.
+ V prípade potreby zabezpečiť možnosti úniku a bezpečia.
+Vymětal (1996) uvádza, že príčinou verbálnej agresie v priebehu psychologického
+rozhovoru môže byť nespokojnosť pacienta s doterajšou liečbou, frustrácia z dlhodobého
+nezlepšovania stavu alebo aj snaha provokovať autority. Agresívne prejavy môžu byť tiež jeho
+obranným mechanizmom.
+Pedantný typ
+Ako spoznať: priamy pohľad, uhladené gestá a úprava zovňajšku. Precízne vykonávanie
+činností, rituály. Nemenné zásady a zdržanlivosť voči novým veciam.
+Ako s ním pracovať:
+ Pri polemike apelovať na dôkazy, kazuistiky, skúsenosť a výsledky odborných štúdií.
+ Venovať mu pozornosť a čas.
+ Podať vyčerpávajúce informácie.
+ Používať odborný jazyk.
+ Hovoriť jasne a zrozumiteľne, primeraným tempom.
+ Vyvarovať sa bagatelizácii problému.
+ Vyvarovať sa nevšímavost 
+76Mlčiaci typ
+V priebehu psychologického rozhovoru sa môžu objavovať pasáže ticha, tak na strane
+pacienta ako aj psychológa. Mlčanliví jedinci v psychológovi často vyvolávajú netrpezlivosť
+a hnev, preto významu ticha treba rozumieť. Môžu byť dokonca zdrojom zneistenia
+u psychológa. V počiatočných fázach rozhovoru môže ticho zo strany pacienta signalizovať, že
+hľadá slová ako popísať svoje ťažkosti alebo jednoducho nevie, ako správne začať. Iným
+vysvetlením mlčania pacienta v počiatočných fázach rozhovoru je možnosť, že si ešte nie je
+istý a jednoducho si nás testuje, nie je pripravený na terapiu (Vymětal, 1996). V neskorších
+fázach rozhovoru môže ticho na strane pacienta reprezentovať jeho nesúhlas, odpor so slovami
+psychológa, alebo smútok a depresiu (Timuľák, 2006), taktiež problém s prenosom (Vymětal.
+1996). Timuľák (2006) odporúča reagovať na ticho opatrne pomocou reflexie napríklad:
+„Všimol som si, že častejšie mlčíte, môžete mi povedať ako sa v tichu cítite?“ alebo „Môžeme
+ostať chvíľu potichu, s tým že si premyslíte o čom sa budeme spolu rozprávať.“ alebo „Všimol
+som si, že ste sa odmlčali, môžete mi povedať niečo viac o tom, čo vám víri hlavou.“ alebo „Čo
+znamená Vaše mlčanie, je tu niečo nepríjemné o čom sa nechcete zhovárať?“.
+Opakom je vedomá práca psychológa s tichom, ako účinnou psychologickou technikou. Tu
+ide o tzv. plodné ticho, kedy jedinec premýšľa, sumarizuje alebo sa zameriava na svoje emócie.
+V tichu má pacient priestor premýšľať a zamerať sa na svoje vnútorné prežívanie. Ticho pôsobí
+ako provokatér a môže priniesť cenné informácie. U detí sa však používanie ticha neodporúča.
+Pacient v odpore
+Odpor pacienta môže byť vážnou prekážkou v rozhovore a práci s ním. Odpor sa prejavuje
+tým, že pacient z rôznych dôvodov odmieta alebo nechce spolupracovať (Pešek & Praško,
+Štípek, 2013), či už vedome alebo nevedome. Neodpovedá na psychológove otázky, mlčí, skáče
+do reči, zľahčuje problémy alebo sa nedokáže otvoriť. Snaží sa tak obrániť svoje ja. Často si
+problém buď nepripúšťa, alebo má snahu ho bagatelizovať (Mydlíková, Gabura, & Schavel,
+2002). Za každú cenu chce zotrvať v „svojej bezpečnej zóne“ a nič nemeniť napriek tomu, že
+vyhľadal odbornú pomoc.
+Leahy (2003) rozlišuje nasledovné typy odporov:
+ 
+odpor vyplývajúci z potreby uznania
+77 odpor vyplývajúci z postoja k vlastným emóciám
+ odpor založený na obrane vlastnej identity
+ depresívny odpor
+ morálny odpor
+ odpor plynúci zo sebaznehodnocovania.
+Odpor vyplývajúci z potreby uznania sa prejavuje u pacienta, ktorý síce veľmi intenzívne
+prežíva svoj problém, avšak nevníma podporu a prijatie zo strany psychológa. Pacient sa snaží
+záujem od psychológa získať: mlčaním, návštevou iných psychológov, sťažovaním sa,
+podceňovaním psychologickej intervencie. Psychológ by sa mal zachovať empaticky
+a pacientovi vyjadriť, že jeho pocitom a neistote rozumie. Napomôcť môže aj upozornenie:
+„..že dlhodobým ťažkostiam môže napomôcť pár stretnutí..“ (Wetzig-Würth & Müller, 2004, s.
+75).
+Odpor vyplývajúci z pacientovho postoja k vlastným emóciám je charakteristický
+presvedčením jedinca o tom, že prejavovanie emócií je zahanbujúce. Jedinec preto prežíva
+pocity viny. Psychológ by mu mal objasniť, že prejavovanie emócií je zdravé a žiadúce.
+Podstatou odporu založenom na obrane identity je presvedčenie pacienta, že sa nemôže
+vzdať vecí, do ktorých niečo investoval (čas, energiu, lásku do vzťahu). Psychológ by mu mal
+vysvetliť, že je v poriadku, že človek zvažuje vklady a straty, avšak ak nám niečo ubližuje, je
+dobré sa toho postupne vzdať.
+Depresívny odpor u pacienta sa prejavuje tým, že sa vyhýba nebezpečenstvu a odmieta
+riskovať. Súvisí to s jeho zásadovosťou a zodpovednosťou. V správaní sa to prejavuje
+vyhýbaním. Je dobré, aby to psychológ pomenoval a postupne na zmene u jedinca pracoval.
+Morálny odpor sa prejavuje bazírovaním na morálke a rigidných presvedčeniach. Pacient
+sa obviňuje za svoje nedostatky a vníma ich ako trest, prípadne obviňuje druhých. Typická je
+pre neho sebaľútosť. Je dobré, aby to psychológ pomenoval a postupne na zmene u pacienta
+pracoval.
+Odpor plynúci zo sebaznehodnocovania sa prejavuje negatívnym hodnotením seba
+u pacienta, podceňovaním a zľahčovaním vlastných predností a úspechov. Do tejto kategórie
+78odporu patrí aj perfekcionizmus. Opäť je dobré, aby to psychológ pomenoval a postupne na
+tom s pacientom pracoval 
+V prípade rozhovoru s pacientom v odpore je nutné najskôr pracovať so samotným
+odporom, až potom prejsť k inej psychologickej intervenc  Pri rozhovore je dobré problém
+s odporom jasne pomenovať a pracovať na ňom. V prípade, že to pacient odmieta, môže ho
+začať psychológ extrémne podporovať v jeho odpore, čím je pravdepodobné, že sa ním presýti
+(Mydlíková, Gabura, & Schavel, 2002). Posledná možnosť je odoslať pacienta k inému
+psychológov 
+Zraňujúca komunikácia zo strany zdravotníckeho personálu má tieto podoby:
+ nejasné, nepresné, útržkovité informácie o ochorení alebo prognóze,
+ vyjadrovanie sa zdravotníka príliš odborne,
+ neadekvátna (odmietajúca) neverbálna komunikácia zo strany zdravotníka,
+ požiadavky kladené na pacienta, ktoré nevie splniť (úzkostný pacient sa má doma
+presadiť),
+ 
+podávanie informácií, ktoré u pacienta vyvolajú obavy (bagatelizácia ťažkostí, len
+informácia o zhoršení nič viac),
+ 
+nevypočutie obáv pacienta.
+8.4 Psychologická stránka hospitalizácie
+Pobyt v nemocnici je z psychologického pohľadu pomerne náročné obdobie. U pacienta
+môže znamenať absenciu tak fyzických, psychických ako aj sociálnych potrieb:
+Telesné potreby – smäd, nedostatok čerstvého vzduchu, nedostatky v osobnej hygiene,
+problémy so spánkom, skoré budenie bez dôvodu, fyzická bolesť.
+Psychické potreby – neistota, strach, úzkosť, nuda, nedostatok aktivity, až senzorická a
+informačná subdeprivácia, znížená samostatnosť, znížená kvalita života – od nej
+závisí spolupráca pacienta a často aj priebeh a výsledok liečby.
+79Sociálne potreby – izolácia, minimum sociálnych a rodinných kontaktov, neúčasť na
+sociálnom živote.
+Preto môže pacient reagovať viacerými spôsobmi:
+1) Bezmocnosť a beznádej – rezignácia (vzdá sa), môže byť samovražedné jednanie,
+subjektívne vnímaná znížená možnosť vplyvu; subjektívna izolácia
+2) Protest - zaradí sa medzi „ťažkých“ pacientov, sťažuje sa, kritizuje
+3) Sekundárny zisk z ochorenia – účelové jednanie pre zisk z ochorenia
+4) Regresia – vzdorovitosť, zneschopnenie sa, infantilné požiadavky
+5) Obmedzenie príma prechodne ako nutnú súčasť – bez väčších problémov sa adaptuje
+6) Pobyt v nemocnici vníma ako pozitívnu sociálnu úlohu – väčšia pozornosť, uznanie
+z okolia
+8.5 Úloha psychológa v rámci predoperačnej prípravy
+Vo svete je významnou kompetenciou psychológia participovať na predoperačnej príprave
+pacienta. U nás sa táto pracovná náplň len pomaly dostáva do praxe.
+Predoperačná psychologická príprava pozostáva z týchto krokov (spracované podľa Trull,
+Prinstein, 2013):
+1) Psychologický rozhovor – trvanie obyčajne kratšie než klasické psychologické
+stretnutie. V priemere trvá 30 až 40 minút, často v deň prijatia pacienta na oddelenie
+(vtedy obyčajne pacient nemá iné vyšetrenia, alebo nie je premedikovaný). Obsahom
+psychologického rozhovoru sú najmä pacientove pocity bezprostredne pred
+operáciou, ale aj z dlhodobej perspektívy. Najčastejšou témou je emócia strachu
+a úzkost  Pacientovi objasňujeme, že táto emócia je v súvislosti s jeho aktuálnou
+životnou situáciou úplne normálna. Emócie strachu a úzkosti je možné znížiť aj:
+  opísaním priebehu zákroku
+– technicky (ako bude prevedený): najlepšie je ak už mu to
+v predstihu opísal lekár, a psychológ to len prerozpráva viac
+zrozumiteľných spôsobom.
+– emocionálne (čo bude pociťovať pacient): najčastejšie v podobe
+80sprostredkovania stretnutia s iným pacientom s podobnou alebo
+rovnakou diagnózou, akceptovať ak pacient nechce byť informovaný,
+u detí vysvetliť priebeh operácie cez hru (napríklad pomocou macka
+vo veľkosti dieťaťa),
+ 
+vysvetlením pacientovi aké správanie sa od neho očakáva, využiť
+možnosť nácviku želaného správania,
+ informovať ho o obmedzeniach, ktoré mu zákrok prinesie (aj písomne),
+ nácvikom relaxácie.
+Naopak absencia strachu u pacienta je častým signálom toho, že pacient bude
+nespokojný po operácii, alebo bude mať problém so spoluprácou so zdravotným
+personálom. Na zvládnutie strachu pred operáciou môžeme pacientovi ponúknuť
+nácvik krátkych relaxačných techník. Z repertoáru iných emócií sa môže pacient
+prejavovať prílišným humorom alebo žoviálnosťou, čo je obranný mechanizmus.
+Taktiež môžu byť prítomné emócie ako zmätenosť, dezorientácia až halucinácie –
+zvážiť konzultáciu s psychiatrom.
+2) Možnosť psychodiagnostiky osobnosti a aktuálneho psychického stavu pacienta –
+nie je to nevyhnutná súčasť predoperačnej prípravy, skôr v podobe administrácie
+krátkych škál na zistenie aktuálneho prežívania pacienta.
+3) Účasť na predoperačnej vizite – zväčša v trvaní 5 až 30 minút. Tematicky sa
+zameriavame na zodpovedanie pacientových otázok a zrekapitulujeme čo pacienta
+čaká po operácii, aké správanie sa od neho očakáva.
+4) Záverečný rozhovor – pred prepustením domov. Zrekapitulujeme témy a otázky
+týkajúce sa bezprostrednej budúcnosti a rehabilitácie pacienta. Niektorí pacienti sú
+sklamaní, že sa ich stav nezlepšuje dostatočne rýchlo, preto je tu priestor na
+prediskutovanie tejto témy.
+8.6 Súhrn
+V tejto kapitole bolo predstavené, že úloha psychológa aj pri somaticky chorom pacientovi
+má svoje nezastupiteľné miesto. Na rozdiel od lekárov, klinický psychológ má väčšie časové
+81možnosti rozprávať sa s pacientom. Okrem toho, prostriedky s ktorými pracuje a lieči sú
+neinvazívne a nefarmakologické, čo môže byť pri somaticky chorom pacientovi veľmi vítané
+a prospešné.
+829. Psychologická problematika pacienta so zdravotným znevýhodnením
+Patopsychológia
+ako
+špecifická
+klinicko-psychologická
+disciplína
+sa
+zaoberá
+psychologickými špecifikami u jedincov so zdravotným znevýhodnením. Zdravotné
+znevýhodnenie reprezentuje široký pojem, ktorý zahŕňa rozsiahlu škálu porúch, funkčných
+obmedzení a prekážok pri sociálnom fungovaní jedinca (WHO, 2001). Patopsychológia sa
+zameriava na psychologické charakteristiky jedincov so zmyslovým znevýhodnením, ako aj
+telesným znevýhodnením. Zatiaľ čo budúci psychológovia sú počas štúdia rozsiahle edukovaní
+o liečbe porúch duševného zdravia, len zriedka dostanú dostatok informácií o problematike
+zdravotného znevýhodnenia (Strike, Skovholt, & Hummel, 2004). Tento nedostatok vedomostí
+je následne možnou prekážkou poskytovania efektívnych služieb jedincom so zdravotným
+znevýhodnením. Zámerom kapitoly je ponúknuť všeobecné informácie o psychologických
+korelátoch znevýhodnenia ako takého. Taktiež sa špecificky zameriame na problematiku
+poruchy sluchu, nakoľko s ňou máme dlhoročné praktické skúsenost 
+Po preštudovaní tejto kapitoly budete:
+1. poznať obsahovú náplň patopsychológie,
+2. vedieť psychologické koreláty zdravotného znevýhodnenia ako takého,
+3. rozumieť psychologickým špecifikám sluchového znevýhodnenia,
+4. vedieť psychologicky pracovať s jedincom so sluchovým znevýhodnením.
+9.1 Zdravotné znevýhodnenie u psychológa
+Hoci zdravotné znevýhodnenie a znevýhodnenie je zdrojom viacerých frustrácií v živote
+človeka, každý pacient svoje obmedzenia vníma individuálne. Napriek tomu, vybrané prekážky
+v živote znevýhodnených, aspoň v krátkosti spomenie. Jedinci so znevýhodnením sú často viac
+sociálne izolovaní, ako ľudia bez znevýhodnenia. Zažívajú významnejšiu diskrimináciu a
+stigmatizáciu, čo môže prispieť k ich pocitom odlišnost  V prípade, že je ich znevýhodnenie
+viditeľné, môžu sa cítiť viac marginalizovaní. Naopak jedinci s neviditeľným znevýhodnením
+(napr. poruchy učenia, chronická bolesť) môžu mať problém presvedčiť ostatných, že majú
+83zdravotné ťažkost  Subjektívne vnímanie zdravotného znevýhodnenia závisí najmä od povahy
+znevýhodnenia, kvality sociálnej opory aj životných nárokov (Vash & Crewe, 2004). Osoby so
+zdravotným znevýhodnením, majú ako každý iný, svoje osobnostné charakteristiky, osobnú
+históriu a životné skúsenost  V tejto súvislosti je známy tzv. „efekt zovšeobecňovania“: efekt,
+kedy ostatní v kontakte so znevýhodneným majú tendenciu predpokladať, že každý človek so
+znevýhodnením má určité typické charakteristiky, vlastnosti aj životné skúsenosti (Wright,
+1983). Napríklad sa môžu domnievať, že osoba s poranenou miechou nemá záujem o sex.
+Preto, aby sa psychológovia vyhli efektu zovšeobecňovania a vedeli správne pracovať s
+ľuďmi so zdravotným znevýhodnením mali by:
+ 
+poznať ako určité znevýhodnenie ovplyvňuje psychickú pohodu a fungovanie
+pacienta,
+ 
+byť si vedomí svojich vlastných postojov, reakcií a predstáv o zdravotnom
+znevýhodnení, ktoré môžu ovplyvniť ich profesionálne vzťahy s pacientmi so
+zdravotným znevýhodnením,
+ 
+rešpektovať ľudskú dôstojnosť, s vedomím, že ľudia so zdravotným znevýhodnením
+majú
+právo
+na
+sebaurčenie,
+účasť
+v
+spoločnosti,
+spravodlivý
+prístup
+k psychologickej starostlivosti,
+ 
+uznávať, že ľudia so zdravotným znevýhodnením sú rôznorodí a majú jedinečné
+individuálne vlastnost 
+Okrem toho, treba mať na pamäti, že ľudia so zdravotným znevýhodnením sú častejšie
+v ohrození násilia a zneužívania (Hughes, 2005). V inštitucionálnom alebo komunitnom
+prostredí jednotlivci so zdravotným znevýhodnením, ktorí využívajú služby osobnej asistencie,
+zažívajú vysoký výskyt zanedbávania, verbálneho a/alebo fyzického zneužívania a finančného
+vykorisťovania zo strany svojich asistentov alebo rodiny (Powers, Curry, & Oschwald , 2002).
+Z tohto dôvodu by psychológovia mali (spracované podľa Nosek et al., 2001):
+ 
+poznať znaky, symptómy a dynamiku násilia súvisiaceho so zdravotným
+znevýhodnením;
+84 
+v prípade zneužívania a zanedbávania vedieť primerane zasiahnuť (možnosť nahlásenia
+na políciu);
+ viesť dokumentáciu o histórii zneužívania a zanedbávania;
+ diskutovať s pacientmi o ich bezpečnosti, ako aj možnostiach záložnej starostlivosti,
+možnostiach alternatívnej sociálnej pomoci a opory,
+ 
+poskytnúť znevýhodnenému aktuálne kontaktné informácie pre programy/ linky, ktoré
+sa zaoberajú domácim násilím.
+9.1.1 Psychodiagnostika zdravotne znevýhodneného pacienta
+Predtým ako klinický psychológ začne s psychodiagnostikou zdravotne znevýhodneného
+jedinca, je potrebné, aby bral do úvahy viaceré špecifiká, ktoré súvisia so zdravotným
+znevýhodnením testovaného jednotlivca.
+1) Závažnosť znevýhodnenia a aktuálny fyzický stav môžu významne vplývať na výsledky
+testovaného. Aj preto je jedným z opatrení porovnávať testovaného so samostatnými
+normami, ktoré boli vytvorené špecificky pre jedincov s príslušným znevýhodnením.
+Napríklad niektoré škály kvality života sú vyvinuté, normované a overené na
+populáciách, ktoré zahŕňajú pacientov so znevýhodnením alebo s určitým somatickým
+ochorením. Tieto normy zohľadňujú ich aktuálne obmedzenia, bolesti alebo únavu.
+Často stačí len pozorne čítať manuál k testu, kde sa informácie o podmienkach
+testovania jedincov so špecifickými potrebami alebo znevýhodnením nachádzajú.
+Naopak, ak sú testové výsledky jedinca so znevýhodnením porovnávané so zdravou
+populáciou, môže dochádzať k ich mylnej interpretácii a chybovost 
+Na Slovensku stále absentuje dostatok psychodiagnostických nástrojov so
+špecifickými normami pre špecifické znevýhodnenia, preto je dobré kontaktovať
+vydavateľov testu a upozorniť ich na potrebu reštandardizácie noriem pre vybrané
+populácie.
+2) Niekedy je preto pri testovaní pacientov možné prispôsobiť formálne prevedenie
+testovania. Napríklad test Ravenove progresívne matice si rozstriháme, aby sme ich
+85vedeli administrovať nepočujúcemu pacientovi bez verbálnej inštrukcie. Tento postup
+odporúča
+aj
+Americká
+psychologická
+asociácia
+(https://www.apa.org/pi/disability/resources/assessment-disabilities,
+citované
+APA
+dňa
+7.1.2022) s odôvodnením, že pri mnohých druhoch testov prispôsobenie formálneho
+prevedenia prinesie platné výsledky. Takéto prispôsobenie pomôže psychológovi
+otestovať a posúdiť pacientov s rôznou úrovňou schopností, čím sa sprístupní test aj
+jednotlivcom, ktorí by inak nemuseli byť schopní absolvovať meranie (APA,
+https://www.apa.org/pi/disability/resources/assessment-disabilities,
+citované
+dňa
+7.1.2022).
+Medzi formálne úpravy testov je možné zaradiť: (1) zmenu formátu prezentácie testu,
+(2) zmenu formátu odpovede, (3) zmenu časovej dotácie pre testovaného, (4) použitie
+iba častí testu a (5) použitie náhradných testov alebo alternatívneho hodnotenia.
+Napríklad test na papieri môže byť prepísaný do Braillovho písma alebo inštrukcie
+nahraté na audiozáznam. Niektorým testovaným môže pomôcť, že examinátor bude
+zaznamenávať ich odpovede do testovacieho hárku. Možnosť predĺžiť čas na dokončenie
+testu APA odporúča najmä v prípade testov intelektových schopností alebo
+akademických
+výsledkov
+(https://www.apa.org/pi/disability/resources/assessment-
+disabilities, citované dňa 7.1.2022).
+3) Psychodiagnostiku testovými metódami je nutné vždy doplniť klinickými metódami
+psychodiagnostiky (rozhovor, pozorovanie).
+Rozhovor sa môže týkať pacientových problémov, ktoré súvisia so znevýhodnením,
+a ich dopadov na jeho život. Psychológ sa môže pýtať na typ a pôvod zdravotného
+znevýhodnenia jedinca; jeho vnímanie silných stránok a obmedzení súvisiacich so
+znevýhodnením; funkčný dopad zdravotného znevýhodnenia; reakcie ostatných na jeho
+znevýhodnenie; požadované pomôcky, ubytovanie, ošetrenie a lieky; a nevyhnutné
+úpravy životného štýlu (Olkin, 1999).
+Pri pozorovaní, psychológ sleduje vonkajšie prejavy znevýhodnenia, ako je
+špecifické správanie, rečové ťažkosti, zdravotné symptómy či telesné anomálie. Taktiež
+psychomotorické a motorické funkcie, spoluprácu, interpersonálne zručnosti, kognície,
+86náladu, afekt a emocionálny stav, frustračnú toleranciu, zvládacie stratégie a nadhľad
+pacienta.
+4) Pri psychodiagnostike je nutné sa špecificky zameriavať na odhalenie silných a slabých
+stránok fungovania jedinca.
+9.1.2
+Psychologická intervencia u zdravotne znevýhodneného jedinca
+Predtým ako klinický psychológ začne s psychologickou intervenciou u zdravotne
+znevýhodneného jedinca je nutné, aby mal na zreteli, že zdravotné znevýhodnenie môže, ale aj
+nemusí súvisieť so zákazkou, s ktorou pacient ku psychológovi prichádza. Nakoľko zdravotné
+znevýhodnenie často zahŕňa motorické, kognitívne, zmyslové alebo duševné obmedzenia,
+psychológ môže nesprávne predpokladať, že pacient so znevýhodnením sa chce v terapii
+zamerať predovšetkým na spracovanie znevýhodnenia alebo jeho dôsledkov. Avšak, cieľ
+intervencie závisí od dôvodov pacienta, prečo vyhľadal psychologickú pomoc. Intervencia sa
+môže preto zameriavať napríklad na zvýšenie samostatnosti pacienta.
+V prípade, že zákazka súvisí so zdravotným znevýhodnením pacienta, je dobré aby si
+psychológ uvedomoval, že existuje široká škála individuálnych reakcií na zdravotné
+znevýhodnenie. Dokonca pacient vôbec nemusí emocionálne reagovať, ako sa to opisuje
+v Štádiách vyrovnávania sa s faktom ťažkej diagnózy (Kübler-Ross, 2015). Preto je základným
+cieľom psychologickej intervencie u zdravotne znevýhodnených jedincov nadviazanie
+bezpečného pracovného vzťahu, pochopenie jedincovho života a skúseností súvisiacich
+so znevýhodnením. Následne identifikovanie potrieb pacienta v oblasti liečby.
+APA
+odporúča
+znevýhodneným
+tieto
+dodatočné
+pacientom
+kroky psychologickej
+intervencie
+so zdravotne
+(https://www.apa.org/pi/disability/resources/assessment-
+disabilities, citované dňa 12.1.2022).
+ 
+dĺžku sedení určovať flexibilne tak, aby vyhovovala fyzickým a psychickým
+možnostiam pacienta. Napríklad, keď pacient pociťuje únavu v dôsledku chronickej
+bolesti, môže byť pre neho 50 minútová terapia príliš vyčerpávajúca;
+ 
+prispôsobiť počet, povahu a frekvenciu sedení pacientovej výdrži, rozsahu
+pozornosti, a schopnosti spolupracovať;
+87 
+akceptovať komunikačné obmedzenia pacientov tým, že bude intervencia
+vykonávaná s pomocou vizuálnych pomôcok, čí písomných súhrnov alebo
+zvukových záznamov;
+ 
+psychológ podporuje ašpirácie a samostatnosť pacienta so znevýhodnením tým, že
+ich zapája do plánovania intervencií a očakáva ich vlastné rozhodnutia;
+ 
+psychológ spolupracuje s organizáciami, ktoré poskytujú služby pre osoby so
+zdravotným znevýhodnením alebo podpornými sociálnymi sieťam 
+V praxi sa nám viackrát potvrdilo, že jedinci so zdravotným znevýhodnením chcú
+jednoducho žiť zdravý a nezávislý život, napriek ich zdravotným obmedzeniam. Preto si
+myslíme, že zdravotné znevýhodnenie nie je jednoduchým synonymom choroby, aj keď
+zdravotné znevýhodnenie predpokladá zvýšené riziko sekundárnych zdravotných komplikácií.
+9.2 Zdravotné znevýhodnenie u dieťaťa
+Starosti s deťmi majú všetci rodičia. Každé dieťa je niekedy choré, má chrípku alebo je
+nachladnuté, avšak vo väčšine prípadov sa vylieči bez trvalých následkov. Iná je ale situácia,
+keď sa dieťa narodí s nejakým vážnejším problémom alebo sa hendikep objaví kedykoľvek
+v priebehu detstva. Zistenie, že dieťa má vážnu diagnózu je jednou z najťažších situácií, ktoré
+môžu postretnúť rodičov. Je to skúška, na ktorú nie sú rodičia často vôbec pripravení. Samotné
+poznanie, že dieťa má vážne problémy, pôsobí ako šok sprevádzaný frustráciou, beznádejou
+a stratou istoty. Oznámenie závažnej diagnózy reprezentuje ohrozenie rodičovskej úlohy.
+Rodičia nechápu, prečo je práve ich dieťa iné, často si kladú otázky, či sa budú vedieť o neho
+postarať, či vôbec zvládnu výchovu. Okrem toho aj následná liečba a korekcia znevýhodnenia
+so sebou prináša ďalšiu radu prekážok a stresujúcich situácií. Deti s hendikepom kladú zvýšené
+nároky na čas rodičov, fyzickú námahu a tiež finančný rozpočet, čo do rodiny prináša napätie
+a záťaž, ktorá môže pretrvávať aj dlhé obdobie (Matejček, 2001). Rodičia sú úzkostnejší,
+citlivejší voči slovám a reakciám okolia.
+Rodičia reagujú kombináciami rôznych emócií (Špatenková a kol., 2001):
+ 
+úzkosťou a strachom, ktorý sa vzťahuje k predstave ďalšieho ohrozenia dieťaťa,
+88 hnevom, súvisiacim s uvedomením straty prežívanej ako nespravodlivej,
+ smútkom, až depresiou, vyplývajúcej z vedomia obmedzených možností ochrániť
+svoje dieťa,
+ 
+stratou kontroly nad situáciou - časté bezúčelové jednanie v podobe prehnanej
+aktivity alebo naopak ustrnutia a neschopnosti čokoľvek robiť,
+ 
+sociálnej stigmy – „naša rodina sa odlišuje...“
+Vždy je dobré ak rodina pozná diagnózu čo najskôr, ako je to možné. Každá rodina si
+následne vytvára vlastný zdieľaný význam o pôvode ochorenia, ktorý nemusí úplne
+zodpovedať realite. Rodina môže mať tieto vysvetlenia o pôvode ochorenia dieťaťa:
+a) biomedicínske: genetické/ prenatálne okolnosti,
+b) environmentálne: toxické látky, znečistenie,
+c) náboženské: od Boha/ urieknutie..,
+d) osud: je to tak určené,
+e) neznáma príčina: neistota, ktorá veľmi zaťažuje,
+f) obviňovanie seba/iných: často pri nedostatku informácií.
+Úloha psychológa závisí od samotného znevýhodnenia, ale vo všeobecnosti psychológ učí
+rodinných príslušníkov, ako sa dieťaťa dotýkať, ako s ním komunikovať alebo ako sa o dieťa
+špecificky starať. Môže rodičom ponúknuť nácvik situácie oznámenia diagnózy dieťaťa širšej
+rodine. Psychológ im tiež sprostredkúva informácie o podporných komunitách, združeniach.
+Reakcia spoločnosti:
+ choroba dieťaťa vyvoláva v spoločnosti súcit a vzbudzuje protektívne reakcie,
+ na dieťa je braný ohľad, je mu prejavovaná sympatia, trpezlivosť,
+ choré deti majú obmedzené rôzne funkcie (šport, hry, konzumácia niektorých
+potravín) a preto sú častokrát z kolektívov vyčleňované.
+899.3 Porucha sluchu
+Dosah poruchy sluchu v živote človeka závisí od viacerých faktorov. Najvýznamnejšie ho
+ovplyvňuje vek, v ktorom došlo k poruche sluchu, typ, miera a príčiny poruchy sluchu,
+prítomnosť resp. neprítomnosť viacnásobného znevýhodnenia, ale aj výchovné, edukačné
+a širšie environmentálne faktory, nevynímajúc postoj spoločnosti k sluchovo znevýhodneným.
+Sluchové funkcie predstavujú jednu z najnevyhnutejších podmienok pre osvojenie si reč 
+Z tohto pohľadu má najzávažnejšie dôsledky prelingválna ťažká porucha sluchu, ktorá sa
+objavuje v predrečovom období vývinu dieťaťa, čím mu znemožňuje osvojiť si reč prirodzeným
+spôsobom. Postlingválna hluchota nastupuje v dobe, keď je rečový vývin človeka ukončený,
+avšak predstavuje zvýšené nároky na jeho adaptáciu. Je to skoro úplná strata sluchu, s ktorou
+sa pacienti veľmi ťažko vyrovnávajú.
+9.3.1 Typológia poruchy sluchu
+V odbornej literatúre nachádzame viacero delení porúch sluchu na základe viacerých
+kritérií. My ponúkame uvedené tri kategórie spracované podľa Kovaľ (2009).
+a)
+Na základe závažnosti straty sluchu v dB
+1.normálny sluch0 – 25 dB
+2.ľahký stupeň26 – 40 dB
+3.stredný stupeň41 – 55 dB
+4.stredne ťažký stupeň56 – 70 dB
+5.ťažký stupeň71 – 90 dB
+6.hluchotanad 91 dB
+Hranica prijateľnej sluchovej funkcie, ktorá je nevyhnutná pre osvojenie hovorenej reči, je
+v pásme stredne ťažkej nedoslýchavosti (60 - 70 dB)
+b)
+Na základe miesta poruchy sluchu
+1. Prevodová vada – porucha vnútorného a stredného ucha. Jedná sa o poruchu
+v mechanickej časti sluchovej dráhy, ktorá vedie k narušeniu prevodu zvukových
+vibrácií do slimáka. V týchto prípadoch porucha sluchu nebýva závažná, pohybuje sa
+90v pásme ľahkého až stredného stupňa nedoslýchavosti, dochádza len k zoslabeniu
+sluchového vnemu, poruche vnímania melódie a dynamiky hlasu, ktoré môže byť
+dôležitou súčasťou neverbálnej komunikácie. Človek s touto poruchou s pomocou
+načúvacieho aparátu počuje a rozumie hovorenej reči, pokiaľ ho nerušia ďalšie zvuky.
+2. Percepčná vada – porucha citlivých buniek vnútorného ucha. Dôsledkom je nie len
+zníženie schopnosti vnímať zvuky, ale i podstatné skreslenie sluchových vnemov,
+predovšetkým vysokých tónov. Percepcia reči je neúplná a chýbajú v nej niektoré
+zvuky. Percepčné poruchy sú trvalé a z hľadiska závažnosti ide o poruchu v pásme od
+stredného stupňa nedoslýchavosti až po hluchotu.
+3. Kortikálna porucha sluchových funkcií – vzniká ako následok poškodených oblastí
+CNS. Prejavuje sa problémami v poznávaní zvukov a v určení ich významu, ide
+o sluchovú dysgnóziu či agnóziu.
+c)
+Na základe veku
+1. Prelingválna hluchota - pred osvojením reči, do 3 - 4 roka dieťaťa, narúša celkový rozvoj
+dieťaťa.
+2. Postlingválna hluchota – strata sluchu po osvojení reči, uchováva si obmedzenú
+schopnosť hovoriť.
+9.3.2
+Špecifiká psychologickej intervencie pri poruche sluchu
+Psychologický dopad straty sluchu a s tým spojené intervenčné špecifiká je nutné zohľadniť
+najmä u pacientov so stredne ťažkou poruchou sluchu (71‒90 dB) alebo stratou počutia na
+úrovni hluchoty (nad 91 dB). Z týchto dôvodov sa v nasledujúcom texte zameriame na
+psychologické špecifiká prelingválne ťažko sluchovo znevýhodnených detí, prelingválne
+hluchých dospelých a postlingválne nepočujúcich dospelých.
+Pre prelingválne ťažko sluchovo znevýhodneného dieťa je typické, že sa mu artikulovaná
+reč nevyvíja spontánne, myšlienkové operácie sa opierajú predovšetkým o konkrétne činnost 
+Pokiaľ sa nepozerajú, nemajú žiadne informácie, žijú vo svete rozdelenom „na úseky“.
+Sprevádza ich komunikačná bariéra. Nie sú schopné plnohodnotne vyjadriť svoje potreby
+a emócie. Z týchto dôvodov sa v rámci psychologickej intervencie nezameriavame len na
+91sledovania oneskorenia v oblasti vývinu, ale aj na jeho korekciu. Sústredíme sa hlavne na vývin
+reči a sociálne porozumenie. Nevyhnutná je aktívna a intenzívna spolupráca s rodičm  Tí často
+prichádzajú vo fáze šoku s množstvom nereálnych očakávaní a otázok týkajúcich sa výchovy
+dieťaťa. Rodičia si často musia osvojiť úplne nové vedomosti a schopnost  Zatiaľ čo počujúce
+deti si osvojujú jazyk prirodzene, na základe kontaktu s okolím, sluchovo znevýhodnení jedinci
+môžu rozvinúť svoje jazykové schopnosti len prostredníctvom intenzívnej starostlivost 
+Rodinní príslušníci sú nútení úplne zmeniť spôsob komunikácie, nepostačuje ho len
+prispôsobiť.
+Pre osobnosť preligválne nepočujúceho dospelého je charakteristická sociálna nezrelosť,
+infantilnosť, impulzivita, egocentrickosť, znížená sebaúcta a vzťahovačnosť. V priebehu
+psychologickej intervencie sa zameriavame na podporu samostatnosti, zvýšenie sebaúcty
+a rozvoj techník sebakontroly.
+Najzávažnejší problém postlingválnej hluchoty sa spája s porozumením zvukovej reč 
+Nevyhnutnosťou sa stáva odzeranie z pier, neporozumenie vedie k frustrácii v oblasti
+komunikačných potrieb v rodinnom, ale aj v pracovnom prostredí. Preto býva adaptácia na
+poruchu sluchu často nefunkčná, vyúsťuje do zníženého sebavedomia, poklesu ašpirácií,
+prejavov hnevu, zvýšenej dráždivost  Sekundárne sa objavuje patologická symptomatika
+(depresia, paranoidné tendencie, neurotickosť).
+S ohľadom na spomenuté psychologické špecifiká prelingválne ťažko sluchovo
+znevýhodnených detí, prelingválne hluchých dospelých, postlingválne nepočujúcich dospelých
+a ich obmedzenia vo verbálnej komunikácii, ale aj porozumení, je veľkou výzvou
+psychodiagnostika. „Diagnostika pacientov s ťažkou poruchou sluchu predstavuje pre
+psychológa tŕnistý problém“ (Kaufman & Vonkomer, 1999, s. 40). Psychológ musí u týchto
+pacientov zohľadniť ich depriváciu v oblasti sluchových podnetov, zníženú úroveň rečových
+schopností najmä u prelingválne nepočujúcich a absenciu plnohodnotného porozumenia
+písaného textu, či verbálnej inštrukcie. Dôkladné psychodiagnostické vyšetrenie nepočujúceho
+je veľmi problematické a náročné. Preto si vyžaduje špecifické diagnostické metódy a postupy,
+praktickú skúsenosť a trpezlivosť. V psychodiagnostike sa preto odporúča použitie najmä
+neverbálnych testov a projektívnych metód.
+92Špecificky v prípade detského pacienta je dôležité zamerať sa na diagnostiku úrovne
+schopností, ktoré predpokladajú optimálny rozvoj reč  Preto pri diagnostike vnímame dieťa
+komplexne, tak z hľadiska jeho osobnostných čŕt, či priebehu emocionálneho a sociálneho
+vývinu. Súčasťou psychologického diagnostického procesu u sluchovo znevýhodnených detí je
+špecifická diagnostika praxie (koordinácia a integrácia jemných motorických aktivít), ktorej je
+podľa odborníkov prisudzovaný zásadný význam v procese tvorby reči (Luterman, 1999).
+Zvládnutie reči totiž predpokladá aj primeraný stupeň vývinu jemnej motoriky. Nemenej
+dôležité miesto má aj diagnostika pamäťových procesov. Nedostatočné pamäťové schopnosti
+môžu byť príčinou ťažkostí v neskorších vzdelávacích aktivitách, aj keď vývin intelektu
+prebieha v norme (Nováková, 1995). Dôležité je tiež poznať charakter rodinného prostredia,
+ktoré je hlavným stimulom intelektového a rečového vývinu dieťaťa (Matejček, 2001).
+9.4 Súhrn
+V tejto kapitole bolo predstavené, že práca psychológa so zdravotne znevýhodneným
+jedincom
+je
+pomerne
+náročná,
+s viacerými
+limitmi
+v dostupnosti
+vhodných
+psychodiagnostických testov a intervencií. Preto psychológovia, ktorí pracujú s pacientmi so
+zdravotným znevýhodnením, by mali neustále rozvíjať svoje zručnosti a vedomosti aktívnym
+vyhľadávaním školení, vzdelávania a konzultácií súvisiacich s akýmkoľvek zdravotným
+znevýhodnením.
+9310. Psychologická problematika starnutia
+Životné obdobie staroby so sebou prináša tak pozitívne, ako aj negatívne zmeny. Človek vo
+vyššom veku je nositeľom nenahraditeľnej životnej skúsenosti, ktorú sa snaží posúvať tým
+mladším. Odchod do dôchodku býva spojený s pocitom neistoty, avšak aj očakávaním, že si
+konečne nájde čas pre seba a svoje záľuby. Na druhej strane starnutie sprevádza nezadržateľný
+úbytok fyzických a psychických síl, čo môže človeka aj vystrašiť. Občasne zabudne kde si dal
+okuliare, či zamkol, vypol plyn alebo pri ovládaní mobilného telefónu je potrebná pomoc
+malých vnúčat. To môže vyvolávať otázku, či sú tieto prejavy len prirodzeným dôsledkom
+zvyšujúceho sa veku, alebo je nutné už vyhľadať lekára.
+Preto budú v tejto kapitole postupne predstavené jednotlivé klinicko-psychologické témy,
+ktoré sprevádzajú obdobie starnutia. Vysvetlíme, aké ochorenia sa skrývajú pod termínom
+demencia, aké závislosti sú typické pre vyšší vek, ako sa prejavuje depresia, prípadne čo je to
+Diogenesov syndróm. Pomocou tabuliek, obrázkov a kazuistík objasníme aj ich jednotlivé
+prejavy a symptómy. Okrem toho sú pre Vás pripravené aj jednoduché cvičenia a zaujímavá
+video ukážka. Poslaním kapitoly je poskytnúť prehľad a porozumenie základných psychických
+porúch a ochorení, ktoré sa spájajú s vývinovým obdobím starnutia. Priblížiť ich hlavné
+charakteristiky a prejavy.
+Po preštudovaní tejto kapitoly získate:
+ základný prehľad o psychických poruchách v starobe,
+ pochopenie najdôležitejších charakteristík jednotlivých psychických porúch,
+ odpoveď na otázku, ktoré prejavy sú prirodzeným dôsledkom zvyšujúceho sa veku,
+a ktoré signálom psychických ťažkostí.
+10.1 Ľahká kognitívna porucha
+Pacient s ľahkou kognitívnou poruchou sa sťažuje na subjektívne zhoršenie pamäťových
+schopností, ktoré sú často výsledkom len prirodzeného vplyvu pribúdajúceho veku („Zabudol
+som zamknúť; nechal som svietiť svetlo, neviem kde som si odložil okuliare.“). Napriek tomu
+ostáva sebestačný, schopný dodržiavať primeraný denný režim. Ľahká kognitívna porucha
+94môže, ale nemusí, u niektorých jedincov viesť k rozvoju demencie. Preto je dobré, aby bola
+pamäť neustále trénovaná, čo je určitá forma prevencie.
+TRÉNING PAMÄTE
+Prostredníctvom nasledujúcich cvičení si ukážeme ako si môžete precvičiť pamäť rýchlo
+a jednoducho.
+1. V priebehu 20 sekúnd spočítajte koľko vidíte šestiek na obrázku........................................
+2. Vypočítajte:
+Koľko prstov má trojčlenná rodina?..........................................
+Koľko hláv sedí v kaviarni, keď je tam 8 žien, 7 mužov, dve deti a čašník?................
+3. Doplňte do slov chýbajúce písmená tak, aby mali význam
+HORE_RONIE
+ÚS_IT
+O_UPÁCIA
+V_ECKO
+4. Pri najbližšej ceste do obchodu si skúste zapamätať 4 nápisy v okolí
+10.2 Demencia
+Demencia zastrešuje súbor porúch a symptómov, ktorých najvýznamnejším spoločným
+prejavom je úbytok už rozvinutých kognitívnych funkcií (predovšetkým pamäte a inteligencie).
+Preto reprezentuje získané poškodenie mozgu. Postihnuté musia byť najmenej dve kognitívne
+funkcie (napr. pamäť, reč, pozornosť). Je charakteristická postupným a nenápadným začiatkom
+s dlhoročným priebehom, často u predtým úplne zdravých ľudí. Hanisková (2006) dopĺňa, že
+postihuje približne 5% populácie nad 65 rokov.
+95Prejavy demencie (spracované podľa Bartko a kol., 2008; Vágnerová, 2012):
+  porucha intelektových funkcií (orientácia, abstrakcia, schopnosť učiť sa, krátkodobá
+pamäť, dlhodobá pamäť),
+  porucha pamäte (najmä problém s osvojovaním nových informácií, postupná strata aj
+vedomostí skôr naučených, napr. meno manželky),
+  strata schopnosti aktívne riešiť problémy (nevie čo má robiť v konkrétnej situácii, strata
+iniciatívy),
+  znížená emocionálna kontrola (impulzivita alebo apatia),
+  postupná strata sociálnych návykov (nedodržiavanie osobnej hygieny, čistoty v
+domácnosti),
+  dezorientácia miestom a časom,
+  porucha osobnosti a správania (agresivita; možná prítomnosť halucinácií napr. niekto mi
+kradne peniaze),
+  apraxia (úpadok motorických schopností napr. ako držať príbor),
+  poruchy reči (nevie si spomenúť na slová, prestáva rozumieť povedanému alebo
+napísanému),
+  poruchy spánku (napr. nočná aktivita a denná ospalosť).
+Diagnostika
+Na presnú diagnostiku demencie ako takej sa používa množstvo klinických škál, tiež je
+nevyhnutné neurologické vyšetrenie. Na urobenie jednoduchého orientačného testovania
+kognitívnych funkcií je možné využiť nasledujúce jednoduché úlohy: Test kreslenia hodín
+alebo Krátka škála kognitívnych funkcií. Tie si môžete teraz vyskúšať.
+TEST KRESLENIA HODÍN (Hanisková. 2006)
+Inštrukcia:
+Do pripraveného kruhu zakreslite ciferník (1-12), následne doň vyznačte čas trištvrte na štyr 
+96Hodnotenie:
+1. Bezchybné zakreslenie ciferníka hodín aj ručičiek = všetko je v poriadku
+2. Ľahká priestorová chyba ciferníka hodín, čas je správne zakreslený = pre istotu
+vyhľadajte lekára (psychiater, neurológ)
+3. Priestorové usporiadanie ciferníka nie je správne, nesprávny je čas, alebo čas vôbec nie
+je zaznamenaný = vyhľadajte lekára
+4. Ciferník chýba aj ručičky chýbajú = vyhľadajte lekára
+KRÁTKA ŠKÁLA KOGNITÍVNYCH FUNKCIÍ (Pidrman & Kolibáš, 2005)
+Inštrukcia: Odpovedajte na nasledujúce otázky
+Otázky
+Aký je dnes dátum?
+Ktorý deň v týždni je dnes?
+Ako sa volá miesto, kde sa nachádzame?
+Aká je Vaša adresa?
+Koľko máte rokov?
+Kedy ste sa narodili?
+Ako sa volá náš prezident?
+Ako sa volá predchádzajúci prezident?
+Ako sa volala Vaša mama za slobodna?
+Odpočítavajte opakovane 3 od 20.
+Hodnotenie:
+0-2 chyby = norma
+973-4 chyby = trénujte pamäť
+5-10 chýb = vyhľadajte lekára
+Rozoznávame nasledujúce základné typy demencií, ktoré si postupne priblížime
+A. Demencia Alzheimerovho typuC. Demencia s Lewyho telieskami
+B. Vaskulárna demenciaD. Frontotemporálna demencia
+Samozrejme existujú aj iné typy demencií, ale tie sa vyskytujú zriedkavejšie. Ich detailné
+predstavenie by presiahlo zámer kapitoly a textu.
+A. Demencia Alzheimerovho typu
+Patrí medzi najčastejšie sa vyskytujúce typy demencie. Bartko a kol. (2006) uvádzajú, že
+tvorí až 60% prípadov ochorení u pacientov s demenciou. Prvýkrát bola identifikovaná v roku
+1907 nemeckým lekárom Alojzom Alzheimerom, ktorý popísal prejavy svojej pacientky
+Augusty D. Vývin tohto ochorenia je pozvoľný, jednotlivé prejavy sa vyskytujú postupne, zo
+začiatku celkom nenápadne. Pri tomto ochorení dochádza k atrofii (zníženie funkcie, zmenšenie
+bunky, tkaniva, orgánu) mozgovej kôry.
+Prejavy demencie Alzheimerovho typu:
+  strata krátkodobej pamäte – jeden z prvých príznakov,
+  strata dlhodobej pamäti (nespomenutie na dátum narodenia),
+  narušenie uvažovania, logiky (oblečie si najskôr sveter až potom spodné prádlo),
+  poruchy reči (nevie si spomenúť na slová, prestáva rozumieť povedanému alebo
+napísanému),
+  apraxia (neschopnosť zapnúť si košeľu, zips),
+  dezorientácia miestom a časom (netrafí známu cestu k autobusu),
+  zmeny osobnosti (egocentrizmus, apatia, podozrievavosť).
+98KAZUISTIKA (Mauer, Volk, & Gerbaldo, 1997)
+Pre ilustráciu a lepšie zapamätanie prejavov demencie Alzheimerovho typu si prečítajte ukážku
+rozhovoru doktora Alzheimera so svojou pacientkou Augustou D., ktorá trpela týmto
+ochorením.
+29.11.1911
+Pacientka sedí na stoličke a v tvári má výraz bezmocnost 
+(L): „Ako sa voláte?“ (P): „Augusta.“; (L): „Aké je Vaše priezvisko?“ (P): „Augusta.“
+(L): „Aký máme teraz mesiac?“ (P): „Jedenásty.“ (L): „Ako sa ten mesiac volá“ (P):
+„Myslím, že posledný.“
+(L): „Na akej ulici bývate?“ (P): „To vám môžem povedať ale musím chvíľu počkať“ (P):
+„Frankfurt nad Mohanom.“; (L): „Kde sa teraz nachádzate?“ (P): „ U mňa doma“
+B. Vaskulárna demencia
+Reprezentuje druhý najčastejší typ demencie. Sprevádza ju výskyt somatických ochorení
+ako je diabetes, vysoký krvný tlak, prípadne ischemická choroba srdca. Pre toto ochorenie je
+typické, že deficit kognitívnych funkcií nie je rovnomerný, preto pamäť býva postihnutá, avšak
+logické uvažovanie ostáva zachované. Depresívna symptomatika býva častým sprievodným
+javom. Na rozdiel od demencie Alzheimerovho typu začiatok býva náhly, často nasleduje po
+cievnej mozgovej príhode.
+Prejavy
+vaskulárnej
+demencie
+(spracované
+podľa
+Pribišová
+2013):
+  strata krátkodobej pamäte (neschopnosť pamätať si nové informácie)
+  dlhodobá pamäť pomerne zachovaná,
+  pokles inteligenčného kvocientu,
+  zvýšená unaviteľnosť, znížená výkonnosť,
+  rigidné myslenie,
+  emočná labilita ‒ zvýšená depresívna a úzkostná symptomatika,
+  apraxia (nevie vykonávať praktické činnosti),
+99
+&
+Špalek,  poruchy reči (nevie si spomenúť na slová, prestáva rozumieť povedanému alebo
+napísanému),
+  zmeny osobnosti pomalé.
+KAZUISTIKA (Vágnerová, 2012)
+Pre ilustráciu a lepšie zapamätanie prejavov Vaskulárnej demencie si prečítajte uvedenú
+kazuistiku
+OA: Žena, vdova (76 rokov), vysoký krvný tlak, prekonanie dvoch cievnych príhod,
+emočná labilita.
+Z vyšetrenia:
+Pacientka úzkostná, plačlivá, pocity menejcennosti, spomalené psychomotorické tempo,
+nedokončuje vec  Predtým spoločensky aktívna a ohľaduplná, teraz nedokáže primerane
+iniciovať sociálny kontakt, naučila sa k tomu využívať sťažovanie sa na aktuálny zdravotný
+stav. Rozhovor sústredí len na seba. Zveličuje, aby dosiahla žiaducu pozornosť. Strata
+pôvodných záujmov, nebaví ju sledovať televíziu, často nerozumie, o čom sa v televízii
+rozpráva.
+C. Demencia s Lewyho telieskami
+Demencia s Lewyho telieskami patrí medzi tretí najrozšírenejší typ demencie. Vyznačuje sa
+patologickým nálezom na Lewyho telieskach v mozgu. Typickým sprievodným znakom tohto
+typu demencie sú halucinácie. Pacient napríklad vidí ľudí, zvieratá, často ich nedokáže
+rozoznať od skutočnej reality. Pre diagnostiku je dôležité, že sa tieto halucinácie predtým
+v živote jedinca neobjavili a sú prítomné až vo vyššom veku.
+D. Frontotemporálna demencia
+Frontotemporálna demencia patrí medzi ďalší typ demencie. Vyznačuje sa typickými
+príznakmi
+ako
+pri
+demencii
+všeobecne.
+Okrem
+toho,
+v dôsledku
+degenerácie
+vo frontotemporálnej časti mozgu, sa u pacienta objavujú nápadné zmeny v správaní, afektivite
+a reč  Jedinec stráca záujem o osobnú hygienu, správa sa bez taktu (vulgárne nadávanie,
+sexuálne narážky), často sa dopúšťa drobných deliktov, napríklad v podobe krádež 
+100Starostlivosť o pacienta s demenciou
+Nakoľko opatera pacienta s demenciou prebieha predovšetkým v domácom prostredí,
+v nasledujúcej podkapitole si predstavíme aj niekoľko odporúčaní týkajúcich sa domácej
+starostlivost 
+Zabezpečenie bezpečného prostredia pre pacienta s demenciou (spracované podľa Hrozenská,
+Gabrielová, 2011):
+  odstránenie možných prekážok v byte, pozor na nábytok s ostrými hranami, radiátory
+by mali byt kryté,
+  podlahy a schody by mali byť protišmykové,
+  zabezpečenie okien a dverí, aby pacient nemohol svojvoľne odísť,
+  kľúče vo dverách WC a kúpeľne by nemali byť v zámke, aby sa človek nemohol
+zamknúť,
+  držadlá pri vani, WC,
+  farebné označenie sklenených predmetov a objektov (napr. skleník),
+  prilepenie koberčekov o podlahu,
+  pre pacienta s demenciou je veľmi prospešný stály denný režim.
+KOMUNIKÁCIA S PACIENTOM S DEMENCIOU (Klimová a kol., 2013)
+Všeobecná komunikácia
+- pokojná, nerušená (bez TV, rádia)
+- pozeranie do očí
+- rozhovor pomalý, krátke vety, pokojný tón hlasu
+- používať skôr uzavreté otázky (odpoveď áno/
+nie)
+- neklásť naraz viac otázok, počkať kým zodpovie
+jednu
+Podráždený/ agresívny pacient
+- ostať pokojný, nenadávať
+- spýtať sa na príčinu
+101- odkloniť jeho pozornosť (napr. pustiť mu
+televíziu)
+- zabezpečiť mu činnosť (napr. ručné práce)
+- ak časté záchvaty zlosti, vyhľadať lekára
+Apatický/ úzkostný pacient
+- opýtať sa ho, čo ho trápi, znepokojuje
+- nespochybňovať jeho trápenie, ale ubezpečiť ho,
+že ste pri ňom
+- prejaviť mu porozumenie, lásku
+Pacient s halucináciami
+- nespochybňovať jeho tvrdenia
+- upokojiť ho
+- odviesť jeho pozornosť na niečo iné
+- vyhľadať lekára
+10.3 Závislosti od psychoaktívnych látok u seniorov
+Alkohol a lieky patria medzi najčastejšie užívané psychoaktívne látky vo vyššom veku.
+V tomto období dochádza často k zvýšenej senzitivite voči týmto látkam hlavne z dôvodov
+sociálnej izolácie, straty partnera, pocitu osamelosti ale tiež častým chronickým ochoreniam
+alebo výskytu chronickej bolest  V prípade alkoholu sa za nerizikové dávky považuje 24g
+alkoholu u mužov (pol litra 12° piva, 2dcl vína alebo 50ml destilátu) a 16g alkoholu u žien
+(Krombholz & Drástová, 2010). Za rizikové sa považuje už dvojnásobné prekročenie tejto
+dávky. V prípade vyššieho veku je typická skôr preferencia menších dávok alkoholu
+rozdelených počas dňa. Nadužívanie alkoholu môže viesť k vzniku závislosti, objaveniu
+zdravotných problémov až k alkoholickej demencii (výrazný pokles intelektových funkcií
+v dôsledku užívania alkoholu). Časté bývajú aj náhle úmrtia v podobe úrazov z dôsledku užitia
+alkoholu. Z liekov dominuje užívanie medikamentov na tíšenie bolesti, prípadne na spánok.
+Veľmi nebezpečná býva tiež kombinácia alkoholu a liekov, čo môže vyvolať halucinácie,
+prípadne vedie až k ohrozeniu života.
+102Prejavy závislosti (spracované podľa Krombholz & Drástová, 2010):
+ potreba stále vyššej dávky látky k dosiahnutiu žiaduceho účinku,
+ prítomnosť abstinenčných príznakov pri absencii látky,
+ látka sa užíva dlhšie alebo vo väčšom množstve, než bolo pôvodne zamýšľané,
+ redukcia sociálnych, pracovných alebo záujmových aktivít,
+ prítomnosť trvalej túžby po látke sprevádzaná neschopnosťou s ňou prestať alebo začať
+ju kontrolovať,
+ získavane a užívanie látky zaberá veľa času,
+ v užívaní sa pokračuje napriek vedomosti o škodlivosti látky.
+10.4 Afektívne poruchy
+Afektívne poruchy zastrešujú psychické ochorenia, ktoré postihujú náladu a emócie.
+Typickým prejavom je patologická nálada, teda nálada v podobe nadmerného smútku alebo
+nadmernej radost  Do kategórie afektívne poruchy spadá depresia (nadmerný smútok) na jednej
+strane a mánia (nadmerná radosť a aktivita) na strane druhej. Afektívne poruchy sa môžu
+objaviť v akomkoľvek veku, ale najzraniteľnejší sú starší ľudia.
+Vo vyššom veku stúpa predovšetkým riziko depresie. Depresia starších ľudí vyplýva
+z pocitu nepotrebnosti, samoty, straty partnera, rolí alebo energie, prítomnosti somatických
+ochorení. V tomto vývinovom období sa príznaky depresie ako smútok a nedostatok energie
+prehliadajú a zamieňajú s typickým priebehom starnutia. Okrem toho užívanie niektorých
+liekov môže viesť k prekrývaniu patologického smútku (Křivohlavý, 1997). Preto je jej
+identifikácia vo vyššom veku náročná, dokonca sa depresia prejavuje inak ako v mladšom veku.
+Varovnými signálmi v prípade starnutia je apatia, odmietanie jedla a nechutenstvo, poruchy spánku
+(nespavosť, alebo nadmerné spanie), výber negatívnych tém v rozhovore.
+Kolibáš, Kořínková, & Novotný (2005) dopĺňajú, že u starších ľudí výrazne stúpa aj častosť
+samovražedných myšlienok v porovnaní s mladým  Podobne viaceré štúdie poukázali na vyšší
+výskyt samovrážd v starobe. Spúšťačom môže byť strata blízkeho, zlá socioekonomická
+situácia, vidina bezvýchodiskovosti, prítomnosť chronického ochorenia alebo iných
+zdravotných ťažkostí. V prípade, že máte u Vášho blízkeho podozrenie, že uvažuje
+103o samovražde, určite treba s ním o tom hovoriť. Rozprávať o jeho pocitoch, čo mu beží hlavou,
+vyjadriť mu porozumenie a sociálnu oporu, prípadne vyhľadať odbornú pomoc.
+Prejavy depresie všeobecne (spracované podľa Praško & Prašková, 2003)
+Psychické prejavyTelesné prejavy
+  strata schopnosti tešiť sa poruchy spánku
+  nadmerný smútok znížená chuť do jedla
+  strata záujmov úbytok hmotnosti
+  strata motivácie slabosť a vyčerpanosť
+  pocit beznádeje strata energie
+  čierno-biele myslenie (všetko je u mňa
+zlé a u iných perfektné)
+  poruchy pamäte a koncentrácie
+  spomalené myslenie
+  samovražedné myšlienky
+V prípade starnutia je potrebné k týmto symptómom priradiť ešte prejavy ako (Novotná,
+Balková, & Mrosková, 2004; Kolibáš, Kořínková, & Novotný, 2005)
+  vedomé odmietanie depresie
+  dominancia somatických ťažkostí bez príčiny (napr. bolesti hlavy, svalov, ťažkosť
+dolných končatín)
+  skoré ranné budenie ale ospalosť cez deň
+  smútok a plačlivosť bez príčiny
+  výber len negatívnych tém pre rozhovor
+  nechutenstvo, apatia
+  neschopnosť plánovať, pracovať krokovo
+  poruchy pamäte
+Práve poruchy pamäte alebo neschopnosť plánovať sa môžu zamieňať s prejavmi demencie.
+10410.5 Úzkostné poruchy
+Úzkosť je jedným z najčastejších symptómov pozorovaných u starších ľudí. Úzkosť
+u seniorov je častejšia ako depresia a kognitívne poruchy. Najčastejšou úzkostnou poruchou
+pozorovanou u seniorov je generalizovaná úzkostná porucha (GAD), po ktorej nasledujú fóbie,
+panická porucha a obsedantno-kompulzívna porucha. U starších sa úzkostné poruchy
+vyskytujú častejšie z týchto dôvodov:
+ starší ľudia prežili viac veľkých životnými udalostí a stresorov,
+ trpia častejšími fyzickými bolesťami a chronickými chorobami,
+ užívajú väčšie množstvo liekov,
+ trpia častejči Alzheimerovou demenciou, kde je úzkosť častou komorbiditou.
+Prejavy úzkostných porúch vo vyššom veku sú (spracované podľa Franková, 2013):
+  Nadmerné obavy v podobe:
+ nadmerné obavy o telesné zdravie,
+ nadmerné obavy zo zhoršenej pamäti, zo straty orientácie pri opustení bytu, z
+neschopnosti sledovať konverzáciu,
+ nadmerné obavy o finančné, rodinné problémy, telesné zdravie príbuzných,
+ nadmerné obavy spojené s narušeným myslením (napr. paranoidita, bludy),
+ nadmerné obavy vyvolané maličkosťami (opakovane sa dožaduje pozornosti kvôli
+malichernostem).
+  Úzkostlivosť a ostražitosť ako:
+ vystrašené a úzkostné správanie,
+ precitlivenosť na hluk,
+ poruchy spánku (problémy so zaspávaním, plytký spánok),
+ podráždenosť (ľahko sa rozčúli a vybuchne).
+  Sprievodná vegetatívna aktivita:
+ tachykardia, arytmia,
+ sucho v ústach (nevyvolané liekmi), pocit prázdneho žalúdku,
+105 hyperventilácia (i bez námahy),
+ závraty,
+ potenie, pocity tepla či zimy, zníženie citlivosti prstov.
+10.6 Diogenesov syndróm
+Diogenesov syndróm je poruchou správania, ktorá sa vyskytuje vo vyššom veku.
+Najjednoduchšie by mohol byť charakterizovaný ako stresom podmienená zmena starostlivosti
+o seba, svoje prostredie a úpadok osobnost  Typickým prejavom je hromadenie vecí. Názov je
+inšpirovaný starogréckym filozofom Diogenesom zo Sinopi (4. stor. pred.n.l.,), ktorý za základ
+šťastia pokladal opovrhovanie spoločenskými normami, obhajoval princípy radikálnej
+jednoduchosti života.
+Najčastejšie sa objavuje po 60. roku života, obyčajne u ľudí slobodných alebo vdovcov.
+Mnohí boli v minulosti nadpriemerne inteligentní, úspešní v práci a mali stabilné rodinné
+zázemie.
+Prejavy (spracované podľa Hanisková, 2007):
+ extrémne sebazanedbávanie, špinavá domácnosť,
+ nadmerné hromadenie vecí, často odpadkov,
+ izolácia zo širšieho sociálneho prostredia,
+ odmietanie pomoci,
+ deficit vitamínov ,ale aj vody,
+ riziko vzniku ochorení, infekcií (veľmi zlá prognóza liečby, lebo odmietajú pomoc),
+ kožné ochorenia,
+ riziko vzbĺknutia nahromadených vecí, odpadkov.
+V prípade, že poznáte človeka, ktorý chorobne zhromažďuje veci, nestará sa o seba a svoju
+domácnosť, je veľmi ťažké mu pomôcť. Svoj problém si neuvedomuje, nevie ani o zdravotných
+dopadoch tohto ochorenia. Odmieta pomoc, izoluje sa, nikoho k sebe nepúšťa. Preto často
+106umiera sám na dôsledky infekčných ochorení zo zanedbanej hygieny alebo na iné pridružené
+ochorenia.
+10.7 Súhrn
+Klinicko-psychologické problémy, ktoré sa môžu objaviť vo vyššom veku sú závažné
+a náročné na liečbu. Veľmi nápomocná a dôležitá býva prevencia. Jedným z účinných spôsobov
+predchádzania ochoreniam vo vyššom veku je aj udržanie si zdravého a optimistického pohľadu
+na zvyšujúci sa vek a príprava na starobu
