@@ -61,4 +61,22 @@ input_texts_details = [
         "output_prefix_name": "oliver_october",
         "language": "en"
     },
+    {
+        "input_filename": "corpus_slk.txt",
+        "full_name": "Korpus textov Ministerstva kultúry Slovenskej republiky",
+        "output_prefix_name": "corpus_slk",
+        "language": "sk"
+    },
+    {
+        "input_filename": "collection_historicky_casopis.txt",
+        "full_name": "Kolekcia volnepristupnych clankov z castopisu Historicky casopis",
+        "output_prefix_name": "collection_historicky_casopis",
+        "language": "sk"
+    },
+    {
+        "input_filename": "collection_UPJS_free_books.txt",
+        "full_name": "Kolekcia volnepristupnych knih z kniznice UPJS.",
+        "output_prefix_name": "collection_UPJS_free_books",
+        "language": "sk"
+    },
 ]

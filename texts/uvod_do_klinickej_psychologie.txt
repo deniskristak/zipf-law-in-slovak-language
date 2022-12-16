@@ -8,7 +8,7 @@ Text je rozdelený do dvoch častí. Prvá časť sa venuje všeobecným otázka
 psychológie: jej obsahu, histórii, profesionálnej náplni praxe klinického psychológa, teóriám
 vzniku a klasifikáciám psychických porúch, či špecifikám výskumu v klinickej psychológ 
 Nezabúda na témy etickej práce a podmienky vzdelávania budúcich klinických psychológov.
-Druhá časť sa zameriava na problematiku klinicko-psychologickej práxe v psychodiagnostike,
+Druhá časť sa zameriava na problemmatiku klinicko-psychologickej práxe v psychodiagnostike,
 špecifíká klinicko-psychologickej práce s pacientom so somatickým ochorením a zdravotným
 znevýhodnením. Publikácia sa nevenuje popisu psychopatológie, psychodiagnostiky
 a psychoterapie psychickým porúch.
@@ -465,7 +465,7 @@ Kritéria abnormality (Heretik & Heretik, 2016)
 Komplementárne ku kritériám normality musíme uvažovať aj o kritériách abnormality:
  
 subjektívne utrpenie – určitá emocionálna bolesť a psychická tieseň sú v živote bežné.
-Problematické sa stávajú vtedy, ak ich intenzita je natoľko vysoká, že zasahujú do
+Problemmatické sa stávajú vtedy, ak ich intenzita je natoľko vysoká, že zasahujú do
 22každodenného života jedinca a znemožňuje jeho každodenné činnost  Subjektívne
 utrpenie je najčastejší dôvod prečo človek vyhľadá psychologickú pomoc. Pacient
 subjektívne pociťuje psychickú nepohodu, trpí, nevie ako ďalej. Najčastejšie je táto
@@ -719,7 +719,7 @@ skutočnosť, že máloktorý psychický problém je spôsobený hrubou poruchou
 líši od mozgu zdravého jedinca. Avšak väčšina psychických porúch má narušený najmä
 mechanizmus na úrovni neurotranmiterov (prenášačov nervového vzruchu), čo
 zobrazovacie metódy nezachytia.
-S problematikou neuroanatómie a neurofyziológie mozgu pri psychických poruchách
+S problemmatikou neuroanatómie a neurofyziológie mozgu pri psychických poruchách
 súvisia aj rizikové faktory, ktoré môžu viesť k poškodeniu mozgu počas tehotenstva
 (prenatálne riziká), v priebehu pôrodu (perinatálne riziká) alebo tesne po narodení
 dieťaťa (postnatálne riziká). Preto v tabuľke 3 uvádzame zoznam týchto rizikových
@@ -808,7 +808,7 @@ nadmerné potenie, potreba močenia, zmeny v tepovej frekvencii
 psychické zmeny: únava, vyčerpanosť, netrpezlivosť, chybné výkony, rôzne
 emocionálne stavy (úzkosť, hnev, depresia, apatia)
 Určitú hladinu stresu k životu potrebuje, práve preto, že nás stres nabudzuje
-a aktivizuje. Problematický z pohľadu klinickej psychológie je najmä chronický
+a aktivizuje. Problemmatický z pohľadu klinickej psychológie je najmä chronický
 (dlhotrvajúci) stres, kedy stres vystupuje často ako spúšťač viacerých psychických
 problémov (napr. depresia, schizofrénia, psychosomatické ochorenia). Práve pri
 schizofrénii a depresívnej poruche platí, že človek môže mať istú biologickú
@@ -1720,7 +1720,7 @@ Aj výskum v klinickej psychológii má svoje špecifické etické zákonitosti 
 ochrániť dobro, práva, dôstojnosť a zdravie skúmaných osôb. Obzvlášť dôležité je to
 v klinickom výskume, kde môžu byť účastníci výskumu zo skupín obzvlášť zraniteľných osôb
 (deti, zdravotne znevýhodnení, psychiatrickí pacienti). Klinicko-psychologický výskum sa
-zvykne zameriavať na problematiku psychických problémov a porúch, preto je jeho
+zvykne zameriavať na problemmatiku psychických problémov a porúch, preto je jeho
 nevyhnutnou etickou súčasťou taktiež informovanie účastníkov o tom, kde je možné vyhľadať
 odbornú psychologickú pomoc alebo poradenstvo (napr. výskum zameraný na prevalenciu pitia
 u vysokoškolákov v závere uvádza kontakty na inštitúcie, ktoré pracujú so závislými).
@@ -1763,7 +1763,7 @@ a zistenia. Kritické myslenie je nevyhnutnou súčasťou psychologickej praxe. 
 reprezentuje schopnosť rozoznávať kvalitu informácií. Predpokladom kritického myslenia je
 schopnosť pozrieť sa na veci z nadhľadu, s odstupom, rozlišovať informácie centrálne od
 okrajových, pravdivé od nepravdivých.
-668. Psychologická problematika pacienta so somatickým ochorením
+668. Psychologická problemmatika pacienta so somatickým ochorením
 Klinická psychológia sa primárne zameriava na intervenciu u pacientov s psychickými
 poruchami a problémam  Avšak častou pracovnou náplňou psychológa je aj starostlivosť
 o pacientov so somatickým ochorením. Pacienti pritom môžu trpieť celým spektrom
@@ -2197,7 +2197,7 @@ má svoje nezastupiteľné miesto. Na rozdiel od lekárov, klinický psychológ 
 81možnosti rozprávať sa s pacientom. Okrem toho, prostriedky s ktorými pracuje a lieči sú
 neinvazívne a nefarmakologické, čo môže byť pri somaticky chorom pacientovi veľmi vítané
 a prospešné.
-829. Psychologická problematika pacienta so zdravotným znevýhodnením
+829. Psychologická problemmatika pacienta so zdravotným znevýhodnením
 Patopsychológia
 ako
 špecifická
@@ -2210,11 +2210,11 @@ znevýhodnenie reprezentuje široký pojem, ktorý zahŕňa rozsiahlu škálu po
 obmedzení a prekážok pri sociálnom fungovaní jedinca (WHO, 2001). Patopsychológia sa
 zameriava na psychologické charakteristiky jedincov so zmyslovým znevýhodnením, ako aj
 telesným znevýhodnením. Zatiaľ čo budúci psychológovia sú počas štúdia rozsiahle edukovaní
-o liečbe porúch duševného zdravia, len zriedka dostanú dostatok informácií o problematike
+o liečbe porúch duševného zdravia, len zriedka dostanú dostatok informácií o problemmatike
 zdravotného znevýhodnenia (Strike, Skovholt, & Hummel, 2004). Tento nedostatok vedomostí
 je následne možnou prekážkou poskytovania efektívnych služieb jedincom so zdravotným
 znevýhodnením. Zámerom kapitoly je ponúknuť všeobecné informácie o psychologických
-korelátoch znevýhodnenia ako takého. Taktiež sa špecificky zameriame na problematiku
+korelátoch znevýhodnenia ako takého. Taktiež sa špecificky zameriame na problemmatiku
 poruchy sluchu, nakoľko s ňou máme dlhoročné praktické skúsenost 
 Po preštudovaní tejto kapitoly budete:
 1. poznať obsahovú náplň patopsychológie,
@@ -2519,7 +2519,7 @@ psychológa tŕnistý problém“ (Kaufman & Vonkomer, 1999, s. 40). Psychológ 
 pacientov zohľadniť ich depriváciu v oblasti sluchových podnetov, zníženú úroveň rečových
 schopností najmä u prelingválne nepočujúcich a absenciu plnohodnotného porozumenia
 písaného textu, či verbálnej inštrukcie. Dôkladné psychodiagnostické vyšetrenie nepočujúceho
-je veľmi problematické a náročné. Preto si vyžaduje špecifické diagnostické metódy a postupy,
+je veľmi problemmatické a náročné. Preto si vyžaduje špecifické diagnostické metódy a postupy,
 praktickú skúsenosť a trpezlivosť. V psychodiagnostike sa preto odporúča použitie najmä
 neverbálnych testov a projektívnych metód.
 92Špecificky v prípade detského pacienta je dôležité zamerať sa na diagnostiku úrovne
@@ -2547,7 +2547,7 @@ psychodiagnostických testov a intervencií. Preto psychológovia, ktorí pracuj
 zdravotným znevýhodnením, by mali neustále rozvíjať svoje zručnosti a vedomosti aktívnym
 vyhľadávaním školení, vzdelávania a konzultácií súvisiacich s akýmkoľvek zdravotným
 znevýhodnením.
-9310. Psychologická problematika starnutia
+9310. Psychologická problemmatika starnutia
 Životné obdobie staroby so sebou prináša tak pozitívne, ako aj negatívne zmeny. Človek vo
 vyššom veku je nositeľom nenahraditeľnej životnej skúsenosti, ktorú sa snaží posúvať tým
 mladším. Odchod do dôchodku býva spojený s pocitom neistoty, avšak aj očakávaním, že si

@@ -523,7 +523,7 @@ respondent udeľuje súhlas dobrovoľne, že bol oboznámený so všetkými deta
 že si je vedomý, že kedykoľvek môže zo štúdie vystúpiť. Mal by tiež osahovať dátum,
 meno respondenta a jeho podpis a znenie zákona o ochrane osobných údajov.
 21Zabezpečenie anonymity, súkromia, dôvernosti môže byť v niektorých
-podmienkach problematické, napríklad v utečeneckých táboroch. V našich
+podmienkach problemmatické, napríklad v utečeneckých táboroch. V našich
 podmienkach je však vo väčšine prípadov možné túto podmienku splniť. Potrebujeme
 teda zabezpečiť, aby mal respondent pokojné, nerušené miesto, kde môže zodpovedať
 naše otázky, kde nie je prítomný nikto, kto by mohol odpovede na naše otázky
@@ -1173,7 +1173,7 @@ Grantová schéma je potom finančný nástroj (resp. fond), založený za jasne
 definovaným účelom, ktorý sa môže použiť na poskytnutie podpory jednotlivcom,
 organizáciám alebo inštitúciám. Pokiaľ ide o grantové schémy, ich zameranie je rôzne
 a záleží od grantových agentúr, aký bude ich záber. Častokrát tieto schémy reflektujú
-aktuálne problematické oblasti, aktuálne potreby, napr. podpora spolupráce
+aktuálne problemmatické oblasti, aktuálne potreby, napr. podpora spolupráce
 niektorých krajín, alebo podpora výskumu v špecifickej oblasti, napr. COVID-19. Z
 tohto pohľadu môžu byť grantové schémy všeobecné, a teda otvorené pre akúkoľvek
 oblasť výskumu, alebo špecifické, resp. cielené. V súčasnosti je tomu tak napr. v
@@ -1887,7 +1887,7 @@ Pokiaľ ide o účel, vypracováva sa jednak pre vlastné potreby - interný
 výskumný protokol, ktorý nám slúži ako scenár pre vypracovanie výskumnej štúdie
 (detailed roadmap)
 alebo sa tiež vypracováva pre kontrolné orgány v rámci
-univerzity, prípadne iných inštitúcií. Najčastejšie ide o etické komisie. Problematike
+univerzity, prípadne iných inštitúcií. Najčastejšie ide o etické komisie. Problemmatike
 etických komisí sa venuje Kapitola 2 tejto publikácie. Teraz sa však vrátime späť
 k výskumnému protokolu.
 V porovnaní s výskumným návrhom je výskumný protokol konkrétnejší.
@@ -2436,7 +2436,7 @@ respondentov, teda o tom ako ich uskladniť, prenášať a zdieľať. Priblíži
 o princípoch autorstva, ktoré by mali byť naplnené na to, aby bol výskumník
 považovaný za autora alebo spoluautora daného výstupu. Taktiež si objasníme, čo to
 znamená, ak je alebo nie je výskum reprodukovateľný a ako to súvisí s etikou.
-Načrtneme si problematiku financovania výskumu a konfliktu záujmov. A napokon si
+Načrtneme si problemmatiku financovania výskumu a konfliktu záujmov. A napokon si
 vymenujeme a popíšeme nevhodné praktiky vo výskume a načrtneme možné dopady
 takéhoto porušenia etiky.
 8.1 Ochrana identity a bezpečné skladovanie
@@ -2588,7 +2588,7 @@ jeho kredit za túto asistenciu
 Takéto objednávanie si služby by nemuselo byť úplne neetické, pokiaľ by sa títo
 ghostwriteri stali legitímnymi členmi a členkami výskumných tímov a boli zapojení do
 všetkých procesov, ktoré predchádzajú publikovaniu výstupov.
-104K tejto problematike si odporúčame prezrieť webovú stránku Komisie pre
+104K tejto problemmatike si odporúčame prezrieť webovú stránku Komisie pre
 etické publikovanie (https://publicationethics.org/). Nájdete tu prípadové štúdie,
 rôzne usmernenia či odkazy na semináre, prostredníctvom ktorých sa táto organizácia
 snaží podporovať a vzdelávať jednotlivcov a inštitúcie v zodpovedných a etických
@@ -2628,7 +2628,7 @@ ako vynálezca tohto lieku a neziskovka, ktorej je riaditeľom, nedávno oznámi
 čakajú na schválenie klinických pokusov s liekom X v klinickom stave B. Povedal tiež,
 že tento autor spoluvlastnil obchodnú spoločnosť, s ktorou neziskovka obchoduje.
 Autori boli teda požiadaní o vysvetlenie. Zastavme sa na chvíľu a zamyslime sa, čo je
-v tomto prípade problematické a ako by mal byť daný prípad riešený, aby boli splnené
+v tomto prípade problemmatické a ako by mal byť daný prípad riešený, aby boli splnené
 etické štandardy.
 Na konflikte záujmov nie je nič zlé, treba ho však priznať. Stanovisko, ktoré by
 malo zaznieť v kolonke Konflikt záujmov pri publikovaní štúdie a teda aj v danom
@@ -2759,7 +2759,7 @@ Ešte sa stručne pozrime na dôvody stiahnutia článkov. Za posledných zhruba
 dôvody sa v posledných rokoch objavujú častejšie než predtým, ako je napríklad
 plagiarizmus a duplikovanie. Taktiež autori oveľa častejšie vedome podvádzajú.
 Každopádne s takýmto vývojom je stále viac na mieste hovoriť o etike vo výskume a
-my pevne veríme, že ste si vďaka tejto kapitole utvorili obraz o tejto problematike a že
+my pevne veríme, že ste si vďaka tejto kapitole utvorili obraz o tejto problemmatike a že
 110sa budete vo svojej ďalšej výskumnej práci snažiť napĺňať zásady a pravidlá dobrej
 praxe etického výskumu a publikovania.
 111Zadanie problémového učenia PU2 – Výskumný protokol
@@ -2899,7 +2899,7 @@ vypublikovaný, rovnako ako ten predchádzajúci.
 116Obrázok 30 Abstrakt - príklad
 V tomto prípade ide o prácu, ktorá skúmala vzťah medzi negatívnymi
 zážitkami z detstva a emocionálnymi a behaviorálnymi problémami, a či je tento
-vzťah moderovaný problematickou komunikáciou s rodičmi. Metódy nám zhrňujú
+vzťah moderovaný problemmatickou komunikáciou s rodičmi. Metódy nám zhrňujú
 základné informácie o našej vzorke, vrátane jej veľkosti, vekového zloženia,
 priemerného veku a aké konkrétne štatistické postupy boli použité pri spracovaní
 údajov. Ako už bolo spomenuté, vo výsledkovej časti sa uvádzajú len hlavné zistenia,
@@ -3092,7 +3092,7 @@ Limitáciami môžu byť napr. dizajn štúdie, skreslenia, ako napr. seba-posud
 (self-reported data), sociálne žiadúce odpovede, či chýbajúce informácie. Limitácie nám
 môžu poslúžiť ako odrazový mostík pre popis implikácií pre ďalší výskum. Tie majú
 čitateľovi priblížiť akým spôsobom je možné v tejto téme pokračovať ďalej, kam sa
-vieme ešte posunúť v skúmaní danej problematiky. Implikácie pre prax sa zasa
+vieme ešte posunúť v skúmaní danej problemmatiky. Implikácie pre prax sa zasa
 zameriavajú na teoretické alebo klinické využitie našich zistení v praxi, ktoré by mali
 byť špecificky formulované a mali by zohľadňovať aj zameranie časopisu, kde chceme
 zaslať našu práce pre posúdenie.
@@ -3127,7 +3127,7 @@ začať, o čom by sme mohli písať, čo by mohlo byť našou témou, ktorá bu
 či ako postupovať pri rozhodovaní. V prvom rade je potrebné si uvedomiť, že vedecký
 článok musí zaujať. Musí zaujať nielen tých, ktorí budú túto prácu posudzovať v
 konkrétnom časopise, ale aj ďalších odborníkov-čitateľov, ktorí sa venujú danej
-problematike, a ktorí by vedeli zúžitkovať naše zistenia ďalej vo svojej práci, čo nám
+problemmatike, a ktorí by vedeli zúžitkovať naše zistenia ďalej vo svojej práci, čo nám
 pomôže pri zviditeľňovaní našej práce. Je ptorebné mať teda na pamäti, že vždy nám
 ide o predanie dobrého a zaujímavého príbehu, nie len o popis faktov, ktorým chýba
 kontext, či ďalšie využitie v rámci výskmu a praxe.
@@ -3980,7 +3980,7 @@ vyžiadať si vysvetlenie od korešpondujúceho autora. Ak jeho vysvetlenie nevy
 podozrenie, redakcia časopisu informuje spoluautorov a zástupcov ich pracovísk,
 inštitúcií. Ak sa podozrenie potvrdí, práca ostáva v databázach, ale je označená, že
 bola stiahnutá. Existujú aj databázy stiahnutých publikácií. Publikačné domy, ale aj
-redakcie časopisov si vytvárajú zoznamy problematických autorov, problematických
+redakcie časopisov si vytvárajú zoznamy problemmatických autorov, problemmatických
 regiónov a vymieňajú si skúseností, takže je málo pravdepodobné, že sa pochybenie
 utají a nebude mať vplyv na celú kariéru.
 13.6 Finálna príprava vedeckej práce pred zaslaním do časopisu
@@ -4487,7 +4487,7 @@ nové výzvy, byť oporou pre editorov i posudzovateľov. Aj v tejto kapitole sa
 o definície a odporúčania formulované medzinárodnou komisiou editorov
 medicínskych časopisov. Odporúčame navštíviť a preštudovať si aj stránky komisie
 pre etické publikovanie, ktorá poskytuje aktívnu podporu a poradenstvo v
-problematických situáciách, ponúka algoritmy riešenia a publikuje aj kazuistiky. Je to
+problemmatických situáciách, ponúka algoritmy riešenia a publikuje aj kazuistiky. Je to
 veľmi užitočný zdroj pomoci pre editorov, posudzovateľov i autorov.
 Niektoré publikačné domy a edičné rady zavádzajú istý druh pred-kontroly
 alebo odporúčajú autorom a posudzovateľom vykonať tento druh pred-kontroly
@@ -4843,7 +4843,7 @@ svojich výsledkov schopná popísať je existujúci vzťah, resp. súvislosť m
 druhú. V tomto bode je tiež dobré sa zamyslieť, či nám dizajn našej štúdie umožňuje
 generalizáciu (zovšeobecnenie) výsledkov.
 Takýmto spôsobom, v týchto troch bodoch je možné v článku odprezentovať
-silné a slabé stránky štúdie, ktoré dávajú čitateľovi ešte lepší vhľad do problematiky a
+silné a slabé stránky štúdie, ktoré dávajú čitateľovi ešte lepší vhľad do problemmatiky a
 súčasne reviewerom naznačujú, že autorský kolektív je dostatočne korektný a
 výsledky svojej štúdie interpretuje so zreteľom na limitácie.
 15.8 Ako sa inšpirovať?
