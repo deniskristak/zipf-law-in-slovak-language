@@ -16,7 +16,6 @@ pipenv install
 pipenv shell
 ```
 
-
 # Usage:
 1. Pick a book/article/recipe... in any supported language and copy it's text. If there is anything obvious that would mess up with the result (like name of the book on every page), try to remove it using e.g. text editor. Save the text in the "texts" folder.
 2. Write simple details about the book (mostly for you to find the output easily) in `texts_details.py` (be sure to name the text file correctly)
@@ -24,22 +23,28 @@ pipenv shell
 ```bash
 python run.py
 ```
-## Output:
-CSV files - one `.csv` file per text file entry (specified in `texts_details.py`)
+# Output:
+## Explained
+There are two main types of output:
 
-Graphs - exported graphs that compare occurrence and rank in 3 different flavours:
-1. Plotting full output dataset on linear scale.
-    - `y-axis` - number of occurences of particular word
-    - `x-axis` - rank of 'commonness' the word is on (most common word is on the left, progressing towards least common on the right)
-    - note: as we are handling very large number of disctinct words, it's impossible to label each one of them in the graph - that is why we only use rank.
-2. Plotting full output dataset on logarithmic scale.
-    - same as above, except both `y-axis` and `x-axis` are converted to logarithmic scale
-3. Bar graph of most common words
-    - mostly for fun
-    - you can specify number of words to depict here in `config.py`
+CSV files
+- One `.csv` file per text file entry (specified in `texts_details.py`)
+- Each containes order pairs of `word`:`number_of_occurrences` of each word inside a proccessed textfile.
 
-Output files:
-- Outputs are sub-divided according to the `language` of the processed text
+Graphs
+- exported graphs that compare occurrence and rank in 3 different flavours:
+    1. Plotting full output dataset on **linear scale**.
+        - `y-axis` - number of occurences of particular word
+        - `x-axis` - rank of 'commonness' the word is on (most common word is on the left, progressing towards least common on the right)
+        - note: as we are handling very large number of disctinct words, it's impossible to label each one of them in the graph - that is why we only use rank.
+    2. Plotting full output dataset on **logarithmic scale**.
+        - same as above, except both `y-axis` and `x-axis` are converted to logarithmic scale
+    3. Bar graph of **most common words**
+        - mostly for fun
+        - you can specify number of words to depict here in `config.py`
+
+## Output files:
+- Outputs are sub-divided according to the **type** of output and according to the `language` of the processed text
 - Default folder is `./output`
 - Subfolders:
     - `plots/`
@@ -56,7 +61,7 @@ Output files:
         - `sk/`
         - `en/`
 
-# Config:
+# Configuration:
 ## All the relevant configuration is in the folder `config.py`.
 Here is an overview of configuration with default values:
 ```python

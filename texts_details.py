@@ -79,4 +79,10 @@ input_texts_details = [
         "output_prefix_name": "collection_UPJS_free_books",
         "language": "sk"
     },
+    # {
+    #     "input_filename": "obycajne_zazraky.txt",
+    #     "full_name": "Samuel Kovacik - Obycajne Zazraky.",
+    #     "output_prefix_name": "obycajne_zazraky",
+    #     "language": "sk"
+    # },
 ]
