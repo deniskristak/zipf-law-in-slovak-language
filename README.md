@@ -85,6 +85,10 @@ MOST_COMMON_WORDS_LIMIT = 50
 # Only mark a point if <this number> of occurences  (or higher) are present (prevents cluttering the graph)
 MINIMUM_OCCURENCES_TO_PLOT = 10
 ```
+```python
+# should all warnings be printed?
+VERBOSE = False
+```
 
 # Supported languages:
 For support for multiple languages, please consult https://github.com/adbar/simplemma#supported-languages , since `simplemma` takes crucial part in the functionality of this project.
