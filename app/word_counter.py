@@ -3,7 +3,8 @@ import re
 from config import FOLDER_TO_SAVE_CSV
 import csv
 from .lemmatiser.slovak_lemmatiser import Lemmatiser
-
+from nltk.tokenize import RegexpTokenizer
+import sys
 
 class WordCounter:
     def __init__(self, text_to_process):
@@ -58,54 +59,20 @@ class WordCounter:
         self.text_normalized = re.sub(numbers_regex, "", self.text_normalized)
 
         # removing special strings
-        # order is important here (e.g. '.com' must come before '.')
         strings_to_remove = [
-            "!",
-            "?",
-            ":",
-            "'",
-            '"',
-            "“",
-            "„",
-            "-",
-            ",",
-            "‘",
             "www",
             "https",
             "http",
             ".com",
             ".sk",
-            "/",
-            "\\",
-            "(",
-            ")",
-            "%",
-            "$",
-            "#",
-            "@",
-            "&",
-            "*",
-            "+",
-            "=",
-            "§",
-            "_",
-            "€",
-            ".",
-            "–",
-            "▪",
         ]
         for special_string in strings_to_remove:
+            # using space as replacement to not concat words accidentally
             self.text_normalized = self.text_normalized.replace(special_string, " ")
 
-        # removing newlines (windows + linux + mac newlines)
-        self.text_normalized = self.text_normalized.replace("\r", "")
-        self.text_normalized = self.text_normalized.replace("\n", " ")
-
-        # removing unnecessary whitespaces
-        self.text_normalized = re.sub(r"(\s)\1{1,}", r"\1", self.text_normalized)
-
-        # transforming normalised string into list with single whitespace as a separator
-        self.text_normalized_list = self.text_normalized.split(" ")
+        # using nltk library to only pick up words
+        tokenizer = RegexpTokenizer(r'\w+')
+        self.text_normalized_list = tokenizer.tokenize(self.text_normalized)
 
     def lemmatize_text(self):
         for w in self.text_normalized_list:
@@ -142,7 +109,7 @@ class WordCounter:
         )
         try:
             with open(filename, "w", newline="") as csvfile:
-                # write the JSON string to the file
+                # write the output to CSV file
                 writer = csv.writer(csvfile)
                 writer.writerow(["word", "number_of_occurences"])
                 for row in self.word_count_final_tuples:

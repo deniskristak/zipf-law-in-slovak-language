@@ -1,14 +1,14 @@
 word,number_of_occurences
-byť,1273
+byť,1275
 a,1110
 sa,1047
 na,690
-to,647
+to,649
 v,473
 že,457
 on,457
-ten,418
-ale,398
+ten,419
+ale,400
 čo,307
 tak,282
 ako,262
@@ -25,7 +25,7 @@ do,189
 človek,183
 ho,167
 by,164
-vedieť,163
+vedieť,164
 bola,155
 jeho,142
 keď,135
@@ -35,7 +35,7 @@ nie,123
 ich,122
 ani,118
 ja,112
-tento,107
+tento,108
 za,107
 bentas,107
 môcť,100
@@ -49,11 +49,11 @@ po,86
 niečo,86
 tá,85
 no,85
+teraz,84
 ty,84
 chcieť,84
 možno,84
 my,83
-teraz,82
 ešte,82
 jeden,80
 kto,79
@@ -64,7 +64,7 @@ predsa,74
 mal,73
 nemať,73
 nebyť,72
-nejaký,69
+nejaký,70
 nič,69
 k,69
 stále,66
@@ -109,11 +109,11 @@ každý,42
 akýsi,42
 sám,42
 ben,42
+čosi,42
 dokonca,41
 taký,41
 veľký,41
 oko,41
-čosi,41
 laimon,41
 pocit,40
 čas,38
@@ -153,21 +153,21 @@ chvíľa,30
 vyzerať,30
 vlastne,30
 deň,29
+pravda,29
 síce,29
 často,29
 sekunda,29
 áno,29
 žiť,28
 telo,28
-pravda,28
 hneď,28
 povedať,28
+kameň,28
 prísť,27
 vlastný,27
 nechať,27
 planéta,27
 hviezda,27
-kameň,27
 zmeniť,26
 desať,26
 chvost,26
@@ -368,6 +368,7 @@ pomoc,11
 zlé,11
 načo,11
 nôž,11
+stretnúť,11
 akosi,11
 týždeň,11
 ostatný,11
@@ -405,7 +406,6 @@ loukas,10
 poslať,10
 usmiať,10
 mimo,10
-stretnúť,10
 doteraz,10
 necítiť,10
 pravý,10
@@ -422,6 +422,7 @@ nik,10
 odkiaľ,10
 smer,10
 pekný,10
+mäso,10
 motor,10
 neznámy,9
 hľadať,9
@@ -439,6 +440,7 @@ dvadsať,9
 žena,9
 rýchlo,9
 poriadne,9
+baviť,9
 nechápať,9
 blížiť,9
 občas,9
@@ -468,7 +470,6 @@ vedec,9
 sopka,9
 logika,9
 váš,9
-mäso,9
 udica,9
 aukarei,9
 modul,9
@@ -494,7 +495,6 @@ katastrofa,8
 štyri,8
 zajtra,8
 zvládnuť,8
-baviť,8
 opäť,8
 jednoducho,8
 bod,8
@@ -526,6 +526,7 @@ zbaviť,8
 rád,8
 návnada,8
 dotknúť,8
+prípad,8
 chytať,8
 spánok,8
 stan,8
@@ -556,6 +557,7 @@ nediať,7
 kamsi,7
 mladý,7
 prevodovka,7
+kniha,7
 samozrejme,7
 šťava,7
 veru,7
@@ -603,7 +605,6 @@ skúsiť,7
 vnímať,7
 doba,7
 film,7
-prípad,7
 rybár,7
 priveľa,6
 rodina,6
@@ -638,7 +639,6 @@ nešťastný,6
 čoraz,6
 rovnako,6
 supernovu,6
-kniha,6
 počúvať,6
 pán,6
 nemyslieť,6
@@ -704,6 +704,7 @@ znak,6
 rozšíriť,5
 približne,5
 živý,5
+hádam,5
 choroba,5
 virtuálny,5
 autonómny,5
@@ -791,6 +792,7 @@ súčasť,5
 nepochopiť,5
 hm,5
 správanie,5
+mimozemšťan,5
 nevšímať,5
 signál,5
 vycítiť,5
@@ -804,6 +806,7 @@ pätiť,5
 vplyv,5
 úzkosť,5
 test,5
+pekne,5
 ráno,5
 ukazovať,5
 smiať,5
@@ -841,7 +844,6 @@ zasiahnuť,4
 uzavrieť,4
 karanténa,4
 necelý,4
-hádam,4
 temno,4
 forma,4
 očakávať,4
@@ -937,6 +939,7 @@ zadívať,4
 jasne,4
 isto,4
 supernovy,4
+vravieť,4
 pozorovať,4
 doma,4
 diať,4
@@ -965,7 +968,6 @@ skutočnosť,4
 jednak,4
 oblečenie,4
 ba,4
-mimozemšťan,4
 chrbtica,4
 zvláštne,4
 krátky,4
@@ -978,12 +980,13 @@ pýtať,4
 moment,4
 okamih,4
 použiť,4
+prebudiť,4
 miesiť,4
 smiech,4
 trápiť,4
-pekne,4
 netešiť,4
 pokoj,4
+samý,4
 nepamätať,4
 rozrušený,4
 platiť,4
@@ -1195,7 +1198,6 @@ dokončiť,3
 nevrátiť,3
 litovčan,3
 miestnosť,3
-vravieť,3
 inokedy,3
 pád,3
 múdry,3
@@ -1281,7 +1283,6 @@ mechanizmus,3
 ozvať,3
 stlačiť,3
 blízkosť,3
-prebudiť,3
 navyše,3
 upadať,3
 náročný,3
@@ -1293,7 +1294,6 @@ mattom,3
 nádej,3
 plocha,3
 zbabrať,3
-samý,3
 kokpite,3
 nálada,3
 tvrdé,3
@@ -1427,6 +1427,7 @@ kovovošedá,3
 vlnenie,3
 linka,3
 hmlistý,3
+kompresia,3
 znenazdajky,3
 nápev,3
 zlyhať,3
@@ -1536,6 +1537,7 @@ večer,2
 vlastník,2
 neblázniť,2
 poriadny,2
+uniforma,2
 počastovať,2
 kompletne,2
 juniorský,2
@@ -1635,7 +1637,6 @@ mena,2
 chystať,2
 masáž,2
 mister,2
-je…,2
 júl,2
 nudiť,2
 zapaľovať,2
@@ -1697,6 +1698,7 @@ dočasný,2
 žiariť,2
 žiarivý,2
 dočasne,2
+dačo,2
 skúmať,2
 záblesk,2
 nenastať,2
@@ -1713,7 +1715,6 @@ zamrznúť,2
 napočítať,2
 obrazec,2
 neúspešne,2
-to…,2
 zopakovať,2
 neriskovať,2
 dohodnúť,2
@@ -1739,6 +1740,7 @@ hviezdny,2
 akréciou,2
 ľud,2
 dovidieť,2
+zanedbateľný,2
 skrývať,2
 šikovný,2
 odolný,2
@@ -1828,6 +1830,7 @@ jav,2
 b,2
 úvaha,2
 teplomer,2
+c,2
 slovný,2
 netradičný,2
 európe,2
@@ -1888,6 +1891,7 @@ hľadáčik,2
 stotisíc,2
 objekt,2
 ťah,2
+program,2
 databáza,2
 prezerať,2
 súvis,2
@@ -1896,7 +1900,6 @@ elektromagnetický,2
 žiarenie,2
 zblázniť,2
 aktivita,2
-ale…,2
 kúpiť,2
 čaj,2
 imponovať,2
@@ -1991,6 +1994,7 @@ javiť,2
 biologický,2
 viditeľne,2
 odkryť,2
+žilka,2
 blesk,2
 moji,2
 familiárne,2
@@ -2147,7 +2151,6 @@ nervózny,2
 neskutočný,2
 pochybovať,2
 modrá,2
-teraz…,2
 tenký,2
 svitanie,2
 hosť,2
@@ -2260,7 +2263,6 @@ vnútorný,2
 napätie,2
 lacný,2
 podlažie,2
-kompresia,2
 nefungovať,2
 stály,2
 ničota,2
@@ -2581,7 +2583,6 @@ nevykrúcať,1
 otcovsky,1
 pokarhať,1
 schôdzka,1
-uniforme…,1
 skúmavý,1
 vykašlať,1
 pokašleš,1
@@ -2616,7 +2617,6 @@ zadrbávať,1
 automechanik,1
 najať,1
 nestarať,1
-bavili…,1
 cesnak,1
 elán,1
 odbiť,1
@@ -2940,9 +2940,8 @@ vorvaň,1
 divebomb,1
 znať,1
 divebomby,1
-ricciarda…,1
+ricciarda,1
 naproti,1
-tomu…,1
 nedopovedať,1
 prilepený,1
 duchaprítomne,1
@@ -2968,7 +2967,6 @@ nabádať,1
 otrasený,1
 zamrkať,1
 neostro,1
-dačo,1
 netárať,1
 astronomický,1
 oddych,1
@@ -3007,7 +3005,6 @@ obzor,1
 mak,1
 vylúčený,1
 frajer,1
-dačo…,1
 mĺkvo,1
 zažiariť,1
 explózia,1
@@ -3054,8 +3051,6 @@ vybuchujúcej,1
 vydolovať,1
 nemerateľné,1
 hélium,1
-zanedbateľná…,1
-zanedbateľný,1
 henten,1
 neexpandovať,1
 zabudnutý,1
@@ -3064,7 +3059,6 @@ doslova,1
 potrhať,1
 vygravírované,1
 čiernozlatej,1
-uniforma,1
 hrozivo,1
 neučiť,1
 xȇᴕ,1
@@ -3298,11 +3292,10 @@ pomenovaný,1
 vzplanúť,1
 zaspať,1
 nevybuchnúť,1
-načasovanie…,1
+načasovanie,1
 deväťdesiat,1
 rozpínanie,1
 ortuť,1
-°c,1
 ustálený,1
 spojenie,1
 ortuťový,1
@@ -3451,7 +3444,6 @@ chybný,1
 šachista,1
 úmera,1
 počítania,1
-program,1
 naprogramovať,1
 zadávať,1
 metadáta,1
@@ -3500,14 +3492,11 @@ krivo,1
 ubrániť,1
 odtiaľto,1
 prízvuk,1
-tohto…,1
 prevetrať,1
 nepríjemný,1
 prekvapovať,1
 oboje,1
 lemovaný,1
-samými…,1
-pekne…,1
 experimentami,1
 zapýriť,1
 brožúrka,1
@@ -3516,7 +3505,6 @@ vtip,1
 paleta,1
 hádanka,1
 napočúvala,1
-pravda…,1
 vaši,1
 klonov,1
 prenesený,1
@@ -3768,7 +3756,6 @@ nadávka,1
 gréčtina,1
 spočiatku,1
 začmudený,1
-žilka,1
 vystreliť,1
 nechute,1
 pohŕdanie,1
@@ -3859,7 +3846,6 @@ satelit,1
 ovládnutie,1
 zakrytý,1
 nahrnúť,1
-stretnem…,1
 vzorec,1
 nezapadať,1
 vyzvonili,1
@@ -4154,7 +4140,7 @@ reštart,1
 ultimátum,1
 fraška,1
 najavo,1
-podľahla…,1
+podľahnúť,1
 vyhrážka,1
 pobrežie,1
 vyplávať,1
@@ -4185,7 +4171,6 @@ burácať,1
 liečivý,1
 príšera,1
 tábor,1
-knihy…,1
 regenerácia,1
 nepravdivý,1
 vidina,1
@@ -4226,7 +4211,6 @@ strašidelne,1
 zotmieť,1
 nepriateľsky,1
 diabolský,1
-mäso…,1
 vyslanec,1
 posmrtný,1
 zvedavý,1
@@ -4405,7 +4389,7 @@ zväzok,1
 sexrobotov,1
 oplodnením,1
 vynosením,1
-matkou…,1
+matka,1
 popisovať,1
 predvčerom,1
 príspevok,1
@@ -4463,7 +4447,6 @@ smelo,1
 zaškeriť,1
 smiešny,1
 zhodiť,1
-…,1
 podvádzať,1
 partnerka,1
 paralelne,1
@@ -4471,7 +4454,6 @@ vznikať,1
 súložná,1
 nerovnosť,1
 volebný,1
-programe…,1
 voľba,1
 zabodovať,1
 mládež,1
@@ -4681,7 +4663,6 @@ nožík,1
 dohľad,1
 vyslobodený,1
 nefajčiť,1
-vedel…,1
 napáliť,1
 prefíkaný,1
 voľajaký,1
@@ -4742,13 +4723,11 @@ horúci,1
 vztýčený,1
 ukazovák,1
 zohnúť,1
-hádam…,1
 gúľať,1
 kocka,1
 kalcit,1
 veľkostne,1
 bleskový,1
-žilky…,1
 ulomiť,1
 pravidelný,1
 štruktúra,1
@@ -4895,18 +4874,15 @@ vyzerajúceho,1
 palubný,1
 rachot,1
 vypraviť,1
-kameň…,1
 prchký,1
 popud,1
 otáčať,1
 lišiakovu,1
-spojazdnili…,1
+spojazdniť,1
 ujasniť,1
 spoločný,1
-vravel…,1
 neufujazdiť,1
 nakaziť,1
-prebudíme…,1
 uvedomovať,1
 rozuzlenie,1
 opísať,1
@@ -4932,7 +4908,6 @@ nenosiť,1
 čože,1
 žltý,1
 náramkový,1
-nejaké…,1
 silnejúce,1
 tympan,1
 železný,1
@@ -4979,14 +4954,12 @@ strop,1
 pokľak,1
 hmýriť,1
 precediť,1
-prípad…,1
 drgať,1
 kino,1
 zamilovaný,1
 párik,1
 láskaním,1
 vypadnúť,1
-kompresia…,1
 poskrúcaný,1
 croisant,1
 kľučka,1
@@ -4998,7 +4971,7 @@ chodba,1
 kolkovaný,1
 žiadosť,1
 skalopevne,1
-presvedčený…,1
+presvedčený,1
 bezrozmerný,1
 vypotácal,1
 natiahnuť,1
@@ -5023,7 +4996,7 @@ sled,1
 ohohó,1
 potácať,1
 hmla,1
-azda…,1
+azda,1
 dohora,1
 superšportovom,1
 podložie,1
@@ -5083,7 +5056,7 @@ krívať,1
 vôľa,1
 výmysel,1
 opiť,1
-podušku…,1
+poduška,1
 nevydarený,1
 strih,1
 lacnieť,1
@@ -5349,7 +5322,6 @@ pomyselný,1
 ohnúť,1
 nepreniknuteľný,1
 prepožičiavať,1
-c,1
 embryo,1
 dejiny,1
 sekta,1
@@ -5369,7 +5341,6 @@ civilizačný,1
 svetotvoriča,1
 vcucnúť,1
 anihiláciou,1
-čohosi…,1
 nezačínať,1
 prediktore,1
 udiať,1
@@ -5379,7 +5350,7 @@ skeptický,1
 podriadiť,1
 nevedomky,1
 laimonsov,1
-zinakadiaľ…,1
+zinakadiaľ,1
 chodievať,1
 maskovanie,1
 sexuálny,1
@@ -5399,7 +5370,6 @@ vyspelo,1
 zámka,1
 pevne,1
 zákonite,1
-mimozemšťania…,1
 táranina,1
 nevedomosť,1
 neohrozovať,1

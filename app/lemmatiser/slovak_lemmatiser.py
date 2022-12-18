@@ -1,5 +1,5 @@
 import pickle
-
+from config import VERBOSE
 
 # lemmatiser for slovak language based on morphology database
 # by institution "Jazykovedny ustav ludovita stura"
@@ -19,5 +19,6 @@ class Lemmatiser:
             word_lemmatised = self.__lemmas_dict[word]
         except KeyError:
             word_lemmatised = word
-            print("Warning: Cant lemmatise word '" + word + "'")
+            if VERBOSE:
+                print("Warning: Cant lemmatise word '" + word + "'")
         return word_lemmatised

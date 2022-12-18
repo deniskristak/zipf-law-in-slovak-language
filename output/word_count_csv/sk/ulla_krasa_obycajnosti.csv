@@ -148,6 +148,7 @@ hnedý,6
 nad,6
 akýsi,6
 mam,6
+veľký,6
 líce,6
 vy,6
 šťastný,6
@@ -186,7 +187,6 @@ celá,5
 voda,5
 usmievať,5
 pocítiť,5
-veľký,5
 pán,5
 medza,5
 takýto,5
@@ -214,6 +214,7 @@ chodiť,5
 prvý,5
 celý,5
 považovať,5
+nový,5
 čas,5
 obraz,5
 potrebovať,5
@@ -288,7 +289,6 @@ skrývať,4
 vrátiť,4
 hovoriť,4
 myšlienka,4
-nový,4
 predavačka,4
 ukázať,4
 zraz,4
@@ -466,6 +466,7 @@ odtiaľ,2
 motorest,2
 diaľnica,2
 dôležitý,2
+trať,2
 pole,2
 pracovný,2
 tempo,2
@@ -519,6 +520,7 @@ odchod,2
 miestnosť,2
 stena,2
 stály,2
+lampa,2
 knižka,2
 visieť,2
 samozrejme,2
@@ -690,6 +692,7 @@ slastne,2
 spočívať,2
 šanca,2
 urobiť,2
+šperk,2
 dúhový,2
 drahokam,2
 ďakovať,2
@@ -866,7 +869,6 @@ chtivý,1
 nerozvitého,1
 dychtivý,1
 pookriatie,1
-veľké;,1
 problém,1
 celkový,1
 nespokojnosť,1
@@ -899,7 +901,6 @@ mesačne,1
 nesťažovať,1
 zadarmo,1
 neďaleko,1
-trate;,1
 upokojujúci,1
 prechádzka,1
 rozsiahly,1
@@ -919,7 +920,6 @@ siahajúce,1
 pochabosť,1
 vkročiť,1
 potok,1
-trať,1
 čľapotať,1
 vystrekovať,1
 máčať,1
@@ -1050,10 +1050,8 @@ zívať,1
 spávať,1
 úzky,1
 svietiť,1
-lampa,1
 klásť,1
 okrem,1
-lampe;,1
 zažať,1
 žltý,1
 svetlo,1
@@ -1386,7 +1384,7 @@ iniciatíva,1
 papierik,1
 telefónny,1
 vzdialiť,1
-jasala;,1
+jasať,1
 čiernistý,1
 padajúci,1
 strnisko,1
@@ -1435,7 +1433,6 @@ lacný,1
 záležitosť,1
 za_on,1
 vydať,1
-nové;,1
 zrelosť,1
 dievčenský,1
 šarm,1
@@ -1704,7 +1701,6 @@ prezrieť,1
 tovar,1
 jastriť,1
 škatuľa,1
-šperk,1
 nádherne,1
 ligotať,1
 farbistý,1
@@ -1749,7 +1745,6 @@ kaviarnička,1
 hostia,1
 prestať,1
 všímať,1
-šperk;,1
 námornícky,1
 popretkávané,1
 šípový,1
