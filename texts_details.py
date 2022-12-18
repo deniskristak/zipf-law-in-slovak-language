@@ -79,10 +79,17 @@ input_texts_details = [
         "output_prefix_name": "collection_UPJS_free_books",
         "language": "sk"
     },
+    # this is not free book, so though I own it and analysed it, I can't push any part of it to github
     # {
     #     "input_filename": "obycajne_zazraky.txt",
     #     "full_name": "Samuel Kovacik - Obycajne Zazraky.",
     #     "output_prefix_name": "obycajne_zazraky",
     #     "language": "sk"
     # },
+    {
+        "input_filename": "dom_v_strani.txt",
+        "full_name": "M. Kukucin - Dom v strani",
+        "output_prefix_name": "dom_v_strani",
+        "language": "sk"
+    },
 ]

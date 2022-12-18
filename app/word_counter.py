@@ -2,6 +2,7 @@ import simplemma
 import re
 from config import FOLDER_TO_SAVE_CSV
 import csv
+from .lemmatiser.slovak_lemmatiser import Lemmatiser
 
 
 class WordCounter:
@@ -14,6 +15,8 @@ class WordCounter:
         self.words_lemmatized = []
         self.word_count_assorted = {}
         self.word_count_final_tuples = []
+        self.lemmatiser = Lemmatiser()
+
 
     def get_word_count(self) -> list[tuple[str]]:
         """Main method - returns dictionary with words as keys and number of occurrences as values
@@ -107,9 +110,14 @@ class WordCounter:
     def lemmatize_text(self):
         for w in self.text_normalized_list:
             if w != "":
-                self.words_lemmatized.append(
-                    simplemma.lemmatize(w, lang=self.text_to_process.get("language"))
-                )
+                
+                # if language is SK, cutom-made lematiser (more precise) is used, else use the fairly good pypi package
+                if self.text_to_process.get("language") == "sk":
+                    word_lemmatised = self.lemmatiser.lemmatise(w)
+                else:
+                    word_lemmatised = simplemma.lemmatize(w, lang=self.text_to_process.get("language"))
+
+                self.words_lemmatized.append(word_lemmatised)
 
     # create a dict like {<word>:<number_of_occurrences>}
     def get_word_count_assorted(self):

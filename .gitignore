@@ -1,2 +1,4 @@
 __pycache__/
 app/__pycache__/
+app/lemmatiser/__pycache__/
+cant_push/
