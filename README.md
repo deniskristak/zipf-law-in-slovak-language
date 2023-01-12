@@ -105,5 +105,4 @@ To use other language, simply write it's `Code` (pick one from supported languag
     - it will also attempt to lemmatize each word
 
 # TODO:
-- think about grouping words in different gender form like 'ktorý', 'ktorá', 'ktoré' into one (there is lemmation DB for Slovak language which does it that way - http://korpus.juls.savba.sk/morphology_database.html)
 - create / implement pdf parser that will ignore footers and headers of pages
