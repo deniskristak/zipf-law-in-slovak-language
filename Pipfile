@@ -7,6 +7,7 @@ name = "pypi"
 simplemma = "*"
 matplotlib = "*"
 nltk = "*"
+requests = "*"
 
 [dev-packages]
 black = "*"

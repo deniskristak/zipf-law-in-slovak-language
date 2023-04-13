@@ -1,7 +1,7 @@
 word,number_of_occurences
 a,691
 byť,688
-v,507
+v,509
 sa,429
 na,350
 s,289
@@ -16,7 +16,7 @@ klinický,146
 psychologický,145
 môcť,142
 psychológ,133
-o,127
+o,128
 z,121
 ochorenie,118
 k,117
@@ -2969,7 +2969,8 @@ finálny,1
 index,1
 php,1
 option,1
-com_content,1
+com,1
+content,1
 view,1
 article,1
 id,1
@@ -3145,7 +3146,7 @@ legislativa,1
 eticky,1
 kodex,1
 pes,1
-chologa_v,1
+chologa,1
 pdf,1
 vplývajúce,1
 uvedomovanie,1
@@ -4239,10 +4240,12 @@ kaviareň,1
 čašník,1
 slov,1
 písmeno,1
-hore_ronie,1
-ús_it,1
-o_upácia,1
-v_ecko,1
+hora,1
+ronie,1
+ús,1
+it,1
+upácia,1
+ecko,1
 obchod,1
 rozvinutý,1
 nenápadný,1

@@ -1,20 +1,20 @@
 word,number_of_occurences
 the,4595
-be,3420
+be,3429
 to,2746
-I,2641
+I,2643
 a,2553
 he,2508
 of,2311
 and,2282
-you,1837
+you,1843
 in,1610
-that,1443
-have,1378
-it,1375
-his,1073
-s,1054
-t,961
+that,1444
+have,1380
+it,1376
+his,1074
+s,1056
+t,965
 say,926
 she,742
 Mr,742
@@ -25,9 +25,9 @@ with,639
 on,598
 her,547
 they,543
-do,518
-not,506
-will,504
+do,523
+not,509
+will,505
 at,487
 all,444
 get,427
@@ -35,8 +35,8 @@ up,426
 if,416
 this,411
 out,411
-what,397
-my,379
+what,399
+my,380
 but,375
 go,355
 or,327
@@ -48,11 +48,11 @@ we,323
 baxter,312
 man,312
 good,311
-so,304
+so,305
 know,301
+old,298
 come,298
 about,297
-old,297
 see,297
 don,295
 your,271
@@ -78,16 +78,16 @@ down,191
 who,190
 just,189
 now,187
-little,180
+little,181
 look,178
-make,176
+make,177
 day,172
-any,168
+any,169
 way,168
 night,157
 how,154
+never,153
 more,152
-never,151
 year,150
 right,149
 after,149
@@ -101,14 +101,14 @@ link,140
 father,139
 two,139
 could,137
-thing,134
+thing,135
 other,133
 very,132
 d,132
 then,130
 house,125
 woman,125
-want,124
+want,125
 sammy,123
 rumley,122
 off,122
@@ -133,10 +133,10 @@ something,101
 upon,99
 head,99
 uncle,97
+anything,96
 wend,95
 mean,95
 mind,95
-anything,94
 being,93
 keep,91
 seem,90
@@ -156,10 +156,10 @@ people,84
 yes,84
 last,83
 thought,83
+must,82
 room,82
 lansing,82
 town,81
-must,81
 begin,81
 great,80
 far,80
@@ -168,11 +168,11 @@ gypsy,79
 minute,79
 stand,78
 own,77
+every,76
 much,76
+dear,76
 may,75
 ollie,75
-dear,75
-every,74
 step,74
 swamp,73
 himself,73
@@ -181,14 +181,14 @@ around,73
 which,72
 word,72
 even,72
+ain,72
 wait,72
 place,71
 love,71
 guess,71
 again,71
 em,71
-ain,70
-wouldn,69
+wouldn,70
 still,68
 won,68
 quite,68
@@ -286,12 +286,12 @@ hang,43
 wonder,43
 same,43
 husband,43
+everything,43
 happen,42
 hour,42
 since,42
 pretty,42
 suppose,42
-everything,42
 arm,42
 money,42
 because,42
@@ -310,13 +310,13 @@ course,40
 couldn,40
 sitting,40
 lose,40
+ought,40
 next,40
 fool,39
 forget,39
 leave,39
 bite,39
 inquire,39
-ought,39
 suddenly,39
 wish,39
 talk,39
@@ -360,6 +360,7 @@ our,35
 heart,35
 star,35
 o,34
+baby,34
 kind,34
 haven,34
 stay,34
@@ -379,14 +380,13 @@ judge,33
 till,33
 silence,33
 lord,33
+reason,33
 play,33
 rather,32
-baby,32
 deal,32
 joseph,32
 hair,32
 certainly,32
-reason,32
 clear,32
 drop,31
 rest,31
@@ -544,6 +544,7 @@ doing,21
 alone,21
 church,20
 above,20
+bad,20
 top,20
 blow,20
 tall,20
@@ -562,7 +563,6 @@ strong,20
 spend,20
 eighth,20
 seven,19
-bad,19
 herself,19
 sweep,19
 witness,19
@@ -600,6 +600,7 @@ yard,18
 fire,18
 pull,18
 whose,18
+somebody,18
 past,18
 neck,18
 telegram,18
@@ -623,7 +624,6 @@ city,17
 decide,17
 stair,17
 goodness,17
-somebody,17
 tooth,17
 sh,17
 bottom,17
@@ -729,6 +729,7 @@ dozen,14
 ring,14
 early,14
 pray,14
+slow,14
 soft,14
 utter,14
 kick,14
@@ -770,7 +771,6 @@ prayer,13
 force,13
 shook,13
 succeed,13
-slow,13
 stage,13
 million,13
 sha,13
@@ -957,6 +957,7 @@ seventy,10
 stone,10
 dinner,10
 sell,10
+sink,10
 bannester,10
 below,9
 birth,9
@@ -976,6 +977,7 @@ inside,9
 grave,9
 color,9
 mystery,9
+elect,9
 considerable,9
 cellar,9
 bound,9
@@ -1044,7 +1046,6 @@ pace,9
 trunk,9
 boss,9
 grim,9
-sink,9
 mire,9
 chairman,9
 marmaduke,9
@@ -1066,7 +1067,6 @@ apology,8
 oblige,8
 nevertheless,8
 fairly,8
-elect,8
 curse,8
 lock,8
 building,8
@@ -1418,7 +1418,6 @@ deliver,6
 regular,6
 arthur,6
 idiot,6
-_you_,6
 engagement,6
 stir,6
 interfere,6
@@ -1454,6 +1453,7 @@ brain,6
 grab,6
 pleasure,6
 gun,6
+despatch,6
 laura,6
 kid,6
 strangely,6
@@ -1811,7 +1811,6 @@ interpose,4
 drove,4
 vigorously,4
 dodgasted,4
-t_,4
 jaw,4
 drug,4
 nasty,4
@@ -1860,7 +1859,6 @@ beautiful,4
 creature,4
 huddle,4
 scarlet,4
-_was_,4
 discussion,4
 savior,4
 chase,4
@@ -1969,7 +1967,6 @@ sentence,4
 daddy,4
 plant,4
 china,4
-_despatch_,4
 announcement,4
 hustle,4
 persuade,4
@@ -2188,7 +2185,6 @@ awkward,3
 render,3
 beatific,3
 politician,3
-_not_,3
 argument,3
 ensue,3
 classify,3
@@ -2343,6 +2339,7 @@ region,3
 unfortunate,3
 distinction,3
 grewsome,3
+brave,3
 siree,3
 nut,3
 dealing,3
@@ -2528,7 +2525,7 @@ quake,3
 haul,3
 burn,3
 lap,3
-_baltic_,3
+baltic,3
 cock,3
 banker,3
 bicycle,3
@@ -2708,9 +2705,6 @@ thumb,2
 ingratiate,2
 insert,2
 scarf,2
-_what_,2
-_ain,2
-_baby_,2
 simultaneously,2
 roam,2
 replace,2
@@ -2910,7 +2904,6 @@ measure,2
 image,2
 finality,2
 rob,2
-_is_,2
 meagre,2
 soak,2
 personage,2
@@ -2980,7 +2973,6 @@ fascinate,2
 heartily,2
 nowadays,2
 eyebrow,2
-_do_,2
 mountain,2
 hill,2
 unpardonable,2
@@ -3012,7 +3004,6 @@ obvious,2
 growe,2
 outbuilding,2
 reign,2
-s_,2
 false,2
 marshal,2
 sullenly,2
@@ -3024,7 +3015,6 @@ imperative,2
 commendable,2
 tut,2
 towards,2
-brave,2
 hickory,2
 smack,2
 fighter,2
@@ -3097,7 +3087,6 @@ pictorial,2
 shapely,2
 amuse,2
 constantly,2
-_never_,2
 strict,2
 circus,2
 sill,2
@@ -3226,6 +3215,7 @@ smoke,2
 prone,2
 indignation,2
 idleness,2
+bay,2
 sponge,2
 melt,2
 agony,2
@@ -3282,9 +3272,7 @@ nuisance,2
 upside,2
 stupid,2
 burden,2
-_are_,2
 potato,2
-_every_,2
 wound,2
 particle,2
 ouch,2
@@ -3398,13 +3386,11 @@ superlatively,2
 prefer,2
 occupant,2
 pursue,2
-_anything_,2
 perch,2
 reserve,2
 society,2
 distinct,2
 element,2
-despatch_,2
 wive,2
 glimpse,2
 gathering,2
@@ -3477,7 +3463,7 @@ attempt,2
 meanwhile,2
 tighten,2
 affidavit,2
-tribune_,2
+tribune,2
 hint,2
 wildfire,2
 judicially,2
@@ -3520,7 +3506,6 @@ scarcely,2
 steadily,2
 indication,2
 horribly,2
-_,2
 stubbornly,2
 footfall,2
 weed,2
@@ -3555,7 +3540,6 @@ expert,2
 emphatically,2
 deposit,2
 loon,2
-_did_,2
 hunting,2
 faithfully,2
 fatten,2
@@ -3944,7 +3928,6 @@ revert,1
 amplify,1
 effectiveness,1
 beer,1
-_dear_,1
 penitent,1
 backslide,1
 whoop,1
@@ -3954,7 +3937,6 @@ wool,1
 spill,1
 bean,1
 culprit,1
-_little_,1
 admonition,1
 abrupt,1
 sneeze,1
@@ -4030,7 +4012,6 @@ turning,1
 snare,1
 pitfall,1
 disease,1
-_me_,1
 snicker,1
 brilliant,1
 pervade,1
@@ -4225,7 +4206,6 @@ disagree,1
 dictatorially,1
 blaspheme,1
 mystify,1
-_has_,1
 mole,1
 reprehensible,1
 boyhood,1
@@ -4305,8 +4285,7 @@ ordeal,1
 wrassle,1
 peaceful,1
 foller,1
-_braver_,1
-_dern_,1
+dern,1
 customer,1
 prizefighter,1
 vi,1
@@ -4337,9 +4316,7 @@ uncomfortably,1
 trundle,1
 foretell,1
 miraculous,1
-_must_,1
 resistance,1
-_ought_,1
 turneth,1
 counseling,1
 ast,1
@@ -4413,7 +4390,6 @@ trustee,1
 violate,1
 generation,1
 minimum,1
-_bad_,1
 typhoid,1
 untimely,1
 inexorable,1
@@ -4480,7 +4456,6 @@ marvelous,1
 acrobatics,1
 doubtful,1
 fulsome,1
-_had_,1
 roundabout,1
 barnum,1
 anticipation,1
@@ -4657,7 +4632,6 @@ originally,1
 nativity,1
 rapidity,1
 achieve,1
-_slow_,1
 quaveringly,1
 pon,1
 spar,1
@@ -4726,7 +4700,6 @@ lamentation,1
 injustice,1
 rankle,1
 indispensables,1
-_his_,1
 welch,1
 longing,1
 background,1
@@ -4735,7 +4708,6 @@ mix,1
 bunch,1
 sour,1
 grub,1
-bay,1
 government,1
 retail,1
 afterward,1
@@ -4869,7 +4841,7 @@ fatal,1
 prevent,1
 unmistakable,1
 simulate,1
-trop_,1
+trop,1
 constraint,1
 brunt,1
 inarticulate,1
@@ -4961,7 +4933,6 @@ thorn,1
 irritable,1
 unreasonable,1
 squarely,1
-reason_,1
 curiously,1
 colloquy,1
 twitch,1
@@ -4996,7 +4967,6 @@ verify,1
 stray,1
 xii,1
 universal,1
-_sinking_,1
 sunlit,1
 comb,1
 prompt,1
@@ -5127,8 +5097,6 @@ nap,1
 brake,1
 earthquake,1
 exultingly,1
-_somebody_,1
-_elect_,1
 player,1
 youthful,1
 philanthropist,1
@@ -5154,7 +5122,6 @@ incorrectly,1
 booze,1
 gravy,1
 waffle,1
-_made_,1
 drawback,1
 savage,1
 xiv,1
@@ -5251,12 +5218,10 @@ recede,1
 supreme,1
 idaho,1
 chestnut,1
-_bay_,1
 prayin,1
 dod,1
 gast,1
 partial,1
-_i_,1
 accommodation,1
 xvi,1
 function,1
@@ -5418,7 +5383,6 @@ cop,1
 retract,1
 lump,1
 heatedly,1
-_that_,1
 swipe,1
 bulldoze,1
 loftily,1
@@ -5627,7 +5591,6 @@ camille,1
 title,1
 rôle,1
 register,1
-_wouldn,1
 province,1
 revival,1
 applaud,1
@@ -5740,8 +5703,8 @@ tag,1
 blighter,1
 handkerchief,1
 pungent,1
-_nuit,1
-chine_,1
+nuit,1
+chine,1
 limelight,1
 pry,1
 rot,1
@@ -5766,7 +5729,6 @@ fess,1
 expire,1
 traitor,1
 reputable,1
-_so_,1
 literary,1
 radius,1
 tremulously,1
@@ -5795,7 +5757,6 @@ jubilantly,1
 embankment,1
 hateful,1
 unfair,1
-_want_,1
 daytime,1
 grisly,1
 tenderly,1
@@ -5807,7 +5768,6 @@ duration,1
 craze,1
 vice,1
 proceeds,1
-_old_,1
 devoutly,1
 signally,1
 spellbound,1
@@ -5860,11 +5820,9 @@ char,1
 match,1
 alert,1
 handshakings,1
-_my_,1
 ornery,1
 lifed,1
 lurch,1
-_be_,1
 amble,1
 ruthlessly,1
 frost,1
@@ -5874,7 +5832,6 @@ nineteenth,1
 nothin,1
 feelin,1
 beatin,1
-_does_,1
 conscientious,1
 worryin,1
 ferocity,1
@@ -5891,7 +5848,6 @@ stitch,1
 weightily,1
 moisten,1
 newsbearer,1
-_it_,1
 hatchet,1
 mudhole,1
 scoop,1
@@ -5947,7 +5903,6 @@ familiarly,1
 william,1
 judicial,1
 sunshiny,1
-_will_,1
 acquit,1
 unknow,1
 unidentify,1
@@ -5981,8 +5936,8 @@ bray,1
 uninterrupted,1
 hog,1
 license,1
-_en,1
-masse_,1
+en,1
+masse,1
 stillness,1
 afoot,1
 windshield,1
@@ -6135,7 +6090,6 @@ emerge,1
 knuckle,1
 grizzle,1
 unlock,1
-any_thing_,1
 spryness,1
 reassuringly,1
 irresolute,1
@@ -6197,7 +6151,6 @@ tobias,1
 spink,1
 anxiety,1
 ingratiatingly,1
-_everything_,1
 ruin,1
 caravan,1
 horsetrader,1

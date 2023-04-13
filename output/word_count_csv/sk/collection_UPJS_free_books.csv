@@ -1,21 +1,21 @@
 word,number_of_occurences
-a,7249
-v,4317
+a,7255
+v,4321
 byť,4073
-na,3600
+na,3605
 sa,2680
-the,2639
-s,2288
+the,2654
+s,2290
 ktorý,1696
 z,1598
-of,1582
-in,1330
+of,1584
+in,1338
 and,1231
 to,1198
-o,1187
+o,1189
 ako,1146
 aj,1132
-k,896
+k,898
 že,794
 pre,778
 do,726
@@ -55,9 +55,9 @@ rozpočet,311
 cieľ,310
 samospráva,310
 vzdelávanie,309
+pandemic,302
 po,300
 m,299
-pandemic,296
 nový,293
 systém,292
 úroveň,291
@@ -66,11 +66,11 @@ jeho,280
 táto,279
 medza,277
 verejný,276
+strana,269
 obec,268
-strana,268
 príjem,263
+stať,261
 for,259
-stať,259
 už,257
 pojem,254
 vláda,252
@@ -78,7 +78,7 @@ j,251
 biologický,247
 is,246
 ďalší,244
-p,241
+p,242
 človek,240
 však,238
 základný,235
@@ -107,15 +107,15 @@ prostriedok,198
 hodnotenie,198
 nie,194
 keď,194
+prvý,193
 činnosť,193
 výdavok,192
 ak,192
-prvý,191
 as,191
+r,189
 výsledok,188
 prostredie,188
 prípad,187
-r,186
 nástroj,185
 politický,184
 štátny,183
@@ -131,10 +131,10 @@ zručnosť,178
 kde,174
 život,171
 spôsob,170
+e,169
 ísť,169
 len,168
 situácia,168
-e,167
 new,166
 spoločnosť,165
 teda,164
@@ -163,9 +163,9 @@ daný,150
 niektorý,149
 model,149
 predstavovať,148
+sr,148
 organizmus,147
 rozvoj,146
-sr,146
 č,146
 predmet,146
 informácia,146
@@ -216,40 +216,41 @@ schopnosť,118
 organizácia,117
 projekt,117
 u,116
+test,116
 dva,116
 funkcia,116
 metóda,116
 počet,115
+at,115
 se,114
-test,114
 európsky,114
 kraj,114
 kráľ,114
+slovensku,113
 this,113
 počas,113
 časť,113
-at,113
 be,112
 výkon,112
 bez,111
 región,111
 krehkosť,111
 napr,110
-slovensku,109
 text,109
 preto,109
 štruktúra,109
 objekt,108
 viesť,108
 školstvo,108
+zariadenie,107
 pred,106
 dať,106
 local,105
 štandard,105
-zariadenie,105
 fotografia,105
 sociálny,104
 možnosť,104
+hungary,104
 veľmi,104
 určitý,103
 opatrenie,103
@@ -268,6 +269,7 @@ vedecký,97
 začať,97
 proti,97
 pandémie,97
+t,97
 stupeň,97
 vedomosť,97
 doprava,97
@@ -275,8 +277,6 @@ prax,96
 political,96
 bratislava,96
 viacero,96
-t,96
-hungary,96
 ho,96
 eú,96
 hasiť,95
@@ -286,21 +286,21 @@ druhá,94
 global,94
 pričom,94
 znak,94
+states,93
 samosprávny,93
 zároveň,92
 osoba,92
 coronavirus,92
 takýto,92
 miestny,92
-states,92
 územie,91
+n,91
 system,91
 were,91
 priebeh,91
 odborný,90
 orgán,90
 patriť,90
-n,90
 okrem,90
 predpis,90
 volebný,90
@@ -315,6 +315,7 @@ prostredníctvo,88
 druh,88
 regionálny,87
 tzv,87
+emergency,87
 tvoriť,87
 an,86
 možno,86
@@ -322,7 +323,6 @@ získať,86
 hodina,86
 public,85
 záujem,85
-emergency,85
 dan,85
 vplyv,85
 smrť,85
@@ -367,6 +367,7 @@ občan,76
 kol,76
 zásada,76
 china,76
+balkans,76
 iba,76
 výnos,76
 b,75
@@ -383,10 +384,10 @@ western,74
 rovnako,74
 rozdiel,74
 health,73
-balkans,73
 konkrétny,73
 hovoriť,73
 medzinárodný,72
+g,72
 analýza,72
 vol,72
 považovať,72
@@ -402,16 +403,16 @@ spolu,71
 kritérium,71
 ďalej,71
 podpor,71
+tvorba,71
 technológia,71
 demokracia,70
-g,70
 princíp,70
 ani,70
 americký,70
 its,69
+europe,69
 súvisieť,69
 rozhovor,69
-tvorba,69
 tri,69
 manželstvo,69
 príroda,69
@@ -419,7 +420,6 @@ senior,69
 učiť,68
 praha,68
 resp,68
-europe,68
 country,68
 učebnica,68
 samizdat,68
@@ -517,6 +517,7 @@ majetok,57
 výchova,57
 aktuálne,56
 will,56
+vybraný,56
 politik,56
 during,56
 moc,56
@@ -531,13 +532,13 @@ klíma,56
 mier,55
 záver,55
 istý,55
+sk,55
 zámer,55
 umožňovať,55
 obsahovať,55
 odbor,55
 teória,54
 štúdia,54
-vybraný,54
 rozsah,54
 l,54
 termín,54
@@ -617,14 +618,15 @@ právny,50
 platiť,50
 liečba,50
 podporovať,50
-sk,50
 sobáš,50
 kmeň,50
 daň,50
 post,49
 charakter,49
+rad,49
 osobnosť,49
 prevencia,49
+part,49
 naopak,49
 priestor,49
 postavenie,49
@@ -644,12 +646,11 @@ rovnaký,48
 história,48
 väzba,48
 svadobný,48
+biology,48
 pandémia,47
-rad,47
 univerzita,47
 social,47
 príprava,47
-part,47
 first,47
 response,47
 all,47
@@ -681,7 +682,6 @@ kráľovský,46
 román,46
 príbeh,46
 vysvetliť,46
-biology,46
 formatívny,46
 syndróm,46
 určený,45
@@ -708,11 +708,13 @@ venovať,44
 následne,44
 ohľad,44
 been,44
+en,44
 sweden,44
 legal,44
 svetový,44
 známa,44
 sociálne,44
+bscs,44
 ročník,43
 malý,43
 overiť,43
@@ -757,7 +759,6 @@ dejiny,42
 prenesený,42
 žena,42
 sekundárny,42
-bscs,42
 mrna,42
 účasť,41
 polarizace,41
@@ -834,6 +835,7 @@ translácie,38
 moderný,37
 self,37
 operácia,37
+sprava,37
 slovenska,37
 definovať,37
 rokovanie,37
@@ -883,6 +885,7 @@ virtuálny,36
 zahraničný,35
 ústav,35
 odlišný,35
+dokument,35
 situation,35
 uploads,35
 tretí,35
@@ -905,7 +908,6 @@ rozhodovať,34
 populácia,34
 obmedzenie,34
 predovšetkým,34
-sprava,34
 under,34
 skoro,34
 malá,34
@@ -960,7 +962,6 @@ bezpečnostný,32
 powers,32
 nachádzať,32
 predstaviť,32
-dokument,32
 zaviesť,32
 úprava,32
 takmer,32
@@ -973,7 +974,6 @@ article,32
 orientovaný,32
 avšak,32
 europa,32
-en,32
 pozorovať,32
 samostatný,32
 dohoda,32
@@ -1060,6 +1060,7 @@ pocit,29
 democratic,29
 ekonomika,29
 cez,29
+data,29
 stávať,29
 blízky,29
 national,29
@@ -1120,6 +1121,7 @@ pomôcť,28
 dosiahnutie,28
 diplomacia,28
 štúdium,28
+ipcc,28
 rozšíriť,28
 presne,28
 uplatňovať,28
@@ -1146,8 +1148,8 @@ charakteristický,27
 podstatný,27
 stud,27
 gov,27
+wp,27
 population,27
-data,27
 security,27
 totiž,27
 označenie,27
@@ -1166,11 +1168,13 @@ charakteristika,27
 najprv,27
 prezentácia,27
 preklad,27
+dobový,27
 delikt,27
 informovať,27
 úhrada,27
 ústredný,26
 prispievať,26
+paper,26
 pandemie,26
 sars,26
 definovaný,26
@@ -1181,7 +1185,7 @@ rozhodnúť,26
 prijať,26
 zníženie,26
 výnimka,26
-wp,26
+polovica,26
 úspešný,26
 prejaviť,26
 dom,26
@@ -1196,6 +1200,7 @@ institutions,26
 some,26
 what,26
 diplomacy,26
+report,26
 pokrok,26
 týkajúci,26
 organizovať,26
@@ -1228,7 +1233,6 @@ kolo,25
 konať,25
 schopný,25
 riadenie,25
-polovica,25
 spôsobený,25
 ii,25
 pád,25
@@ -1245,6 +1249,7 @@ epidemic,25
 responses,25
 bod,25
 recommendations,25
+stop,25
 hu,25
 charakterizovať,25
 iniciatíva,25
@@ -1261,7 +1266,6 @@ sav,25
 auto,25
 rímsky,25
 opis,25
-dobový,25
 prsteň,25
 poprava,25
 šmahel,25
@@ -1271,7 +1275,6 @@ koeficient,25
 spôsobiť,24
 fakulta,24
 združenie,24
-paper,24
 násilie,24
 takto,24
 jednať,24
@@ -1294,7 +1297,6 @@ however,24
 strategy,24
 march,24
 measures,24
-report,24
 úvaha,24
 covax,24
 výroba,24
@@ -1302,7 +1304,6 @@ srbsko,24
 kandidát,24
 strata,24
 úver,24
-ipcc,24
 dostávať,24
 technika,24
 kombinovať,24
@@ -1323,6 +1324,7 @@ aplikovaný,24
 mikroskop,24
 poznávanie,24
 október,23
+pro,23
 celebrita,23
 november,23
 treba,23
@@ -1344,7 +1346,6 @@ control,23
 east,23
 medical,23
 united,23
-stop,23
 tasks,23
 deficit,23
 líšiť,23
@@ -1434,7 +1435,6 @@ partner,21
 group,21
 cov,21
 jak,21
-pro,21
 účinok,21
 pravidelný,21
 písanie,21
@@ -1503,7 +1503,6 @@ slabý,20
 tendencia,20
 plniť,20
 úspech,20
-_,20
 pozitívne,20
 minister,20
 regionálne,20
@@ -1521,6 +1520,7 @@ making,20
 spread,20
 economy,20
 long,20
+special,20
 historical,20
 municipalities,20
 objectives,20
@@ -1587,7 +1587,6 @@ real,19
 than,19
 south,19
 while,19
-special,19
 transition,19
 priorita,19
 vyvíjať,19
@@ -1847,6 +1846,7 @@ koronavírus,16
 geografický,16
 zameriavať,16
 posilnenie,16
+ns,16
 kontrolný,16
 predpokladať,16
 zvýšiť,16
@@ -1919,6 +1919,7 @@ znižovanie,15
 kontakt,15
 ods,15
 actions,15
+digital,15
 encyclopedia,15
 methods,15
 platforma,15
@@ -2058,6 +2059,7 @@ academic,14
 death,14
 according,14
 deaths,14
+he,14
 functions,14
 set,14
 geopolitics,14
@@ -2079,6 +2081,7 @@ navzájom,14
 značný,14
 spôsobovať,14
 bývalá,14
+kosovo,14
 komparácia,14
 zoznam,14
 splniť,14
@@ -2200,7 +2203,6 @@ fight,13
 area,13
 although,13
 consequences,13
-digital,13
 anti,13
 sjezd,13
 voliť,13
@@ -2221,7 +2223,6 @@ analysis,13
 infected,13
 info,13
 his,13
-he,13
 schools,13
 kingdom,13
 each,13
@@ -2341,6 +2342,7 @@ respond,12
 trends,12
 zásadný,12
 sito,12
+pp,12
 know,12
 využívaný,12
 rules,12
@@ -2352,6 +2354,7 @@ total,12
 domestic,12
 created,12
 restrictions,12
+full,12
 necessary,12
 service,12
 php,12
@@ -2371,6 +2374,7 @@ strong,12
 integration,12
 four,12
 celosvetový,12
+story,12
 obzvlášť,12
 int,12
 podnecovať,12
@@ -2381,7 +2385,6 @@ posilniť,12
 albánsko,12
 bosna,12
 macedónsko,12
-kosovo,12
 hlasovať,12
 zastúpenie,12
 prebiehajúci,12
@@ -2433,6 +2436,7 @@ portfólio,12
 československý,12
 záujmový,12
 stroj,12
+book,12
 fatima,12
 dokumentácia,12
 rozdeľovanie,12
@@ -2491,6 +2495,7 @@ sociálních,11
 internetový,11
 sociologický,11
 debata,11
+ke,11
 principles,11
 wave,11
 resulted,11
@@ -2564,6 +2569,7 @@ introduced,11
 become,11
 borders,11
 form,11
+questions,11
 un,11
 relationship,11
 centralised,11
@@ -2630,7 +2636,6 @@ hellström,11
 ramberg,11
 reiter,11
 tracing,11
-ns,11
 sd,11
 revolúcia,11
 írsky,11
@@ -2745,7 +2750,6 @@ foreign,10
 risks,10
 community,10
 creating,10
-pp,10
 higher,10
 care,10
 asia,10
@@ -2831,6 +2835,7 @@ nässén,10
 marginalised,10
 myseľ,10
 zreteľ,10
+fbid,10
 slov,10
 publikovať,10
 britský,10
@@ -2890,7 +2895,6 @@ automobilizmus,10
 tlačiareň,10
 drobné,10
 motorový,10
-book,10
 pretekár,10
 jozef,10
 výsluch,10
@@ -2947,6 +2951,7 @@ dvojdimenzionálny,10
 kodóny,10
 ješková,10
 webový,10
+pisa,10
 malnutrícia,10
 starecký,10
 okruh,9
@@ -2960,7 +2965,6 @@ tyto,9
 terrorism,9
 již,9
 papers,9
-ke,9
 nebo,9
 protipandemických,9
 absentovať,9
@@ -2993,6 +2997,7 @@ let,9
 poukazovať,9
 externý,9
 podporovaný,9
+web,9
 podobnosť,9
 návrat,9
 comparative,9
@@ -3006,7 +3011,6 @@ societies,9
 epidemiological,9
 high,9
 perceptions,9
-full,9
 our,9
 method,9
 given,9
@@ -3019,7 +3023,6 @@ less,9
 early,9
 levels,9
 royal,9
-questions,9
 variant,9
 indium,9
 back,9
@@ -3229,6 +3232,7 @@ automat,8
 vyhláška,8
 komunistický,8
 west,8
+practice,8
 argumentovať,8
 nevyžadovať,8
 pl,8
@@ -3259,6 +3263,7 @@ started,8
 thus,8
 terms,8
 chod,8
+cyber,8
 vlastniť,8
 leadership,8
 zelenať,8
@@ -3283,6 +3288,7 @@ geographical,8
 sciences,8
 costs,8
 emerging,8
+examples,8
 once,8
 goods,8
 specific,8
@@ -3315,7 +3321,7 @@ remained,8
 balazs,8
 observatory,8
 mtak,8
-mono_hungary_en_,8
+mono,8
 day,8
 parliament,8
 authority,8
@@ -3370,6 +3376,7 @@ stake,8
 ledizioni,8
 ledi,8
 ispionline,8
+ispireport,8
 prekážka,8
 prechod,8
 praktika,8
@@ -3493,6 +3500,7 @@ doplniť,8
 ucelený,8
 výstava,8
 pavel,8
+inzercia,8
 register,8
 horňák,8
 rudo,8
@@ -3537,6 +3545,7 @@ mikroorganizmus,8
 parazit,8
 procedurálne,8
 maturant,8
+biologia,8
 curriculum,8
 lineárne,8
 cyklický,8
@@ -3581,7 +3590,6 @@ logicky,8
 štrukturalizácia,8
 štandardizované,8
 klasifikačný,8
-pisa,8
 terénny,8
 zážitkový,8
 satelitný,8
@@ -3631,6 +3639,7 @@ source,7
 opierať,7
 otvorenie,7
 manuál,7
+download,7
 likvidácia,7
 finálny,7
 vypovedať,7
@@ -3680,6 +3689,7 @@ peace,7
 last,7
 space,7
 land,7
+home,7
 increased,7
 pandemics,7
 progress,7
@@ -3799,6 +3809,7 @@ obchod,7
 výkonný,7
 prevziať,7
 disinformation,7
+vs,7
 narušiť,7
 zavádzajúci,7
 škodlivý,7
@@ -3809,6 +3820,7 @@ znižovať,7
 popieranie,7
 dôležitosť,7
 sparked,7
+ar,7
 objasniť,7
 nadobúdať,7
 co₂,7
@@ -3847,6 +3859,7 @@ akcentovať,7
 úcta,7
 účelovo,7
 pripomenúť,7
+tk,7
 rešpekt,7
 anglicku,7
 vyjsť,7
@@ -4027,7 +4040,6 @@ neprimeraný,6
 koncentrácia,6
 opozičný,6
 communist,6
-practice,6
 krát,6
 predĺženie,6
 celoštátny,6
@@ -4053,15 +4065,17 @@ intra,6
 advanced,6
 tři,6
 digitální,6
-cyber,6
 causes,6
 ac,6
+file,6
 monografia,6
 tematika,6
 hlasování,6
 dle,6
 jednací,6
+pub,6
 artificial,6
+slovak,6
 expertise,6
 das,6
 position,6
@@ -4095,7 +4109,6 @@ directly,6
 pan,6
 physical,6
 just,6
-examples,6
 structural,6
 clear,6
 subject,6
@@ -4126,6 +4139,7 @@ lineage,6
 relation,6
 effectively,6
 lives,6
+material,6
 membership,6
 partly,6
 member,6
@@ -4161,7 +4175,6 @@ nastávať,6
 zlyhávajúce,6
 stály,6
 angažovať,6
-story,6
 modi,6
 prerozdeľovať,6
 poslať,6
@@ -4199,6 +4212,7 @@ výročný,6
 vysporiadať,6
 odporúčaný,6
 uľahčovať,6
+ftu,6
 priemer,6
 ročne,6
 uľahčiť,6
@@ -4222,7 +4236,6 @@ tok,6
 uvedomovať,6
 ďaleko,6
 nbac,6
-vs,6
 globsec,6
 kybernetický,6
 obrana,6
@@ -4234,6 +4247,7 @@ vydaný,6
 oteplenie,6
 podávať,6
 na_on,6
+fi,6
 odvodený,6
 adaptácia,6
 kategorizovať,6
@@ -4281,7 +4295,6 @@ inšpirovať,6
 emócia,6
 odstup,6
 permalink,6
-story_fbid,6
 viackrát,6
 príhovor,6
 zuzany,6
@@ -4424,7 +4437,6 @@ sekunda,6
 prečítať,6
 kúpa,6
 obr,6
-inzercia,6
 spotreba,6
 klient,6
 preteky,6
@@ -4575,6 +4587,7 @@ cisterna,6
 kuriér,6
 recept,6
 zákusok,6
+asp,6
 kognitívny,6
 konkretizácia,6
 uhlopriečka,6
@@ -4663,12 +4676,12 @@ dostatočný,5
 obstaranie,5
 sulík,5
 sulik,5
+swift,5
 domace,5
 medzitým,5
 nitra,5
 koronavirus,5
 prevádzkovateľ,5
-download,5
 dat,5
 výnosný,5
 explicitne,5
@@ -4707,9 +4720,7 @@ perottino,5
 srovnání,5
 cssd,5
 řád,5
-web,5
 revue,5
-slovak,5
 makers,5
 way,5
 handle,5
@@ -4742,7 +4753,6 @@ finally,5
 vaccines,5
 run,5
 dynamic,5
-home,5
 boundaries,5
 becoming,5
 past,5
@@ -4880,6 +4890,7 @@ nadobudnúť,5
 zasadnutie,5
 hercegoviny,5
 úspešne,5
+nov,5
 šesť,5
 vysloviť,5
 každoročný,5
@@ -4888,11 +4899,10 @@ netradičný,5
 univerzálny,5
 uspokojenie,5
 presscorner,5
-ip__,5
+ip,5
 obstarávanie,5
 fruscione,5
-ispireport_the_pandemic_in_the_balka,5
-ns_,5
+balka,5
 prekvapujúci,5
 ruska,5
 zakorenený,5
@@ -4928,6 +4938,7 @@ urad,5
 včas,5
 celospoločenský,5
 publi,5
+wg,5
 synonymum,5
 propagovať,5
 uznávať,5
@@ -4961,7 +4972,6 @@ bromfield,5
 mcconnell,5
 routes,5
 precarious,5
-fi,5
 exceptional,5
 docs,5
 nerešpektovať,5
@@ -4999,6 +5009,7 @@ udržať,5
 vyhrať,5
 británii,5
 ancient,5
+backgrounder,5
 dictator,5
 held,5
 instatement,5
@@ -5333,6 +5344,7 @@ vysledky,4
 sas,4
 prísny,4
 plosne,4
+vlady,4
 rapídne,4
 znášať,4
 zriadiť,4
@@ -5377,6 +5389,7 @@ ecpr,4
 paperdetails,4
 vrcholný,4
 jääsaari,4
+zelenych,4
 místě,4
 anebo,4
 komerčný,4
@@ -5508,7 +5521,6 @@ adversaries,4
 enemies,4
 sino,4
 strongly,4
-material,4
 principle,4
 initiated,4
 light,4
@@ -5649,6 +5661,7 @@ kolektívny,4
 pokojný,4
 euroatlantický,4
 zatiaľčo,4
+scb,4
 štatút,4
 udeliť,4
 uverejniť,4
@@ -5680,6 +5693,7 @@ centralizácia,4
 naplno,4
 borrell,4
 freedomhouse,4
+fh,4
 ochotný,4
 apatia,4
 oficiálny,4
@@ -5732,8 +5746,8 @@ jevčák,4
 parížsky,4
 isdglobal,4
 burner,4
+final,4
 vystihovať,4
-ar,4
 consciousadnetwork,4
 bb,4
 zjednotiť,4
@@ -5759,7 +5773,6 @@ rôznorodosť,4
 etnický,4
 chorvátsky,4
 opora,4
-pub,4
 belt,4
 loom,4
 zmierniť,4
@@ -5821,7 +5834,6 @@ garantovaný,4
 harabina,4
 napoleoncat,4
 víťaziť,4
-fbid,4
 dariť,4
 nijaký,4
 palác,4
@@ -5859,10 +5871,8 @@ collection,4
 whereby,4
 molloy,4
 dcaf,4
-backgrounder,4
 german,4
 reason,4
-tk,4
 approval,4
 facto,4
 helsinki,4
@@ -5892,6 +5902,7 @@ sedem,4
 tab,4
 ritchie,4
 greenhouse,4
+wpp,4
 biography,4
 aha,4
 netýkať,4
@@ -5952,6 +5963,7 @@ oslava,4
 gothorum,4
 gótom,4
 výprava,4
+page,4
 stvárnenie,4
 literárny,4
 inšpirácia,4
@@ -6021,6 +6033,8 @@ lúpež,4
 zlodej,4
 populárny,4
 bacona,4
+korunk,4
+epa,4
 maximiliána,4
 snubný,4
 odovzdávanie,4
@@ -6239,7 +6253,7 @@ zverejnený,4
 metakognitívne,4
 maturitne,4
 skusky,4
-cp_biologia_,4
+cp,4
 škvp,4
 koncentrický,4
 premýšľaniu,4
@@ -6350,6 +6364,7 @@ potvrdzujúce,4
 fyzicky,4
 integrating,4
 educators,4
+digcompedu,4
 osvojovaných,4
 učebňa,4
 interaktívny,4
@@ -6396,6 +6411,8 @@ proteosyntézu,4
 bezlepkový,4
 diabetický,4
 antikodón,4
+arg,4
+gln,4
 flavell,4
 kognitívna,4
 zapadnúť,4
@@ -6447,6 +6464,7 @@ polls,4
 quizzes,4
 priraďovanie,4
 sumatívna,4
+metodik,4
 summative,4
 kladením,4
 jaskynný,4
@@ -6586,6 +6604,7 @@ masa,3
 situací,3
 huntington,3
 při,3
+rosiť,3
 míra,3
 vlivem,3
 farmaceutický,3
@@ -6639,6 +6658,7 @@ problemmatické,3
 masívne,3
 prepad,3
 povzbudiť,3
+aktualne,3
 stúpnuť,3
 hnonline,3
 úooú,3
@@ -6658,6 +6678,7 @@ skríningový,3
 komunikované,3
 odmietnutie,3
 kriminál,3
+nam,3
 neustály,3
 dňový,3
 organizovanie,3
@@ -6691,6 +6712,7 @@ gibson,3
 ward,3
 prostřednictvím,3
 innovation,3
+safe,3
 elitist,3
 hartleb,3
 vnitrostranického,3
@@ -6721,6 +6743,7 @@ technologies,3
 electronic,3
 prospects,3
 southern,3
+ny,3
 konecka,3
 superpowers,3
 erosion,3
@@ -6821,6 +6844,7 @@ adapted,3
 animals,3
 italy,3
 korea,3
+met,3
 beginning,3
 confirmed,3
 consisted,3
@@ -7049,7 +7073,6 @@ polostrov,3
 podpísaný,3
 riadny,3
 výbor,3
-nov,3
 vylúčený,3
 predbežne,3
 negotiations,3
@@ -7069,8 +7092,6 @@ bilaterálny,3
 pridruženia,3
 summit,3
 munter,3
-ftu,3
-ftu_,3
 určovaný,3
 normálne,3
 ask,3
@@ -7155,7 +7176,6 @@ atmosféra,3
 oceán,3
 desaťročný,3
 klamlivý,3
-wg,3
 naliehavý,3
 vyberanie,3
 odmietanie,3
@@ -7189,6 +7209,7 @@ gajdoščík,3
 truth,3
 milo,3
 infodémia,3
+infodemia,3
 brands,3
 barbora,3
 ničivý,3
@@ -7256,6 +7277,7 @@ skúsiť,3
 čelo,3
 desiatka,3
 kotlebovci,3
+situacia,3
 neraz,3
 milana,3
 uhríka,3
@@ -7273,16 +7295,19 @@ videos,3
 protestujúci,3
 nechýbať,3
 bratislavu,3
+otvorene,3
 vášeň,3
 opak,3
 determinovaný,3
+sasd,3
 uvzsr,3
 epidemiologicka,3
+pkv,3
 posúdiť,3
 preberanej,3
 napraviť,3
 udeľovanie,3
-_ftn,3
+ftn,3
 presah,3
 uvedomelý,3
 federal,3
@@ -7308,7 +7333,6 @@ rozdielnosť,3
 lineárny,3
 nerozumieť,3
 combatting,3
-swift,3
 liberty,3
 threaten,3
 enacted,3
@@ -7584,7 +7608,7 @@ halálbüntetés,3
 jesz,3
 ajk,3
 tothj,3
-_ftnref,3
+ftnref,3
 prinútiť,3
 vrchnosť,3
 krádež,3
@@ -7843,6 +7867,7 @@ transferový,3
 nakupovať,3
 schultzová,3
 obdobne,3
+samospravy,3
 hospodár,3
 hospodáriť,3
 slušnosť,3
@@ -8094,7 +8119,6 @@ očkovat,2
 ohledu,2
 samuela,2
 lidských,2
-rosiť,2
 oddanosť,2
 fake,2
 ní,2
@@ -8237,7 +8261,6 @@ vikend,2
 hranicnych,2
 budu,2
 sladkovská,2
-aktualne,2
 prislo,2
 pozitivnych,2
 víkendový,2
@@ -8257,8 +8280,8 @@ krajec,2
 tvrdi,2
 obstruoval,2
 úvz,2
-swift_data,2
-verejna_sprava,2
+verejna,2
+vestnik,2
 ci,2
 negativnym,2
 neodbornosť,2
@@ -8293,7 +8316,6 @@ miliona,2
 pozitivny,2
 nevyhrážať,2
 nevyhrazajte,2
-nam,2
 kriminalom,2
 premierovi,2
 uvoľňovanie,2
@@ -8404,9 +8426,8 @@ ox,2
 catalog,2
 uuid,2
 bfab,2
-download_file,2
-file_format,2
-safe_filename,2
+format,2
+filename,2
 predestined,2
 nejnovějších,2
 zřejmé,2
@@ -8444,8 +8465,8 @@ předpisy,2
 stranická,2
 registrovane,2
 stranicky,2
-zelenych,2
-pp_pub_at,2
+jednaci,2
+stazeni,2
 dění,2
 čistě,2
 stream,2
@@ -9140,12 +9161,11 @@ studia,2
 commercialia,2
 bratislavensia,2
 euba,2
-_write,2
+write,2
 vyskum,2
-scb,2
 vydane,2
 cisla,2
-scb_zubalova,2
+zubalova,2
 zvrátiť,2
 zostávajúci,2
 splnený,2
@@ -9153,8 +9173,8 @@ neodobriť,2
 revidovanú,2
 regdata,2
 etudes,2
-a_ft,2
-_sk,2
+fiches,2
+ft,2
 pristúpení,2
 bulharský,2
 španielsko,2
@@ -9168,7 +9188,6 @@ bruselu,2
 sprostredkúvať,2
 rokovať,2
 neighbourhood,2
-kosovo_sk,2
 belehrad,2
 zdieľaní,2
 polarizovaný,2
@@ -9233,7 +9252,8 @@ csaky,2
 transit,2
 dropping,2
 facade,2
-_fh_nit_vfinal,2
+nit,2
+vfinal,2
 vzdať,2
 vyhliadka,2
 prinajmenšom,2
@@ -9290,8 +9310,8 @@ náchylnosť,2
 nahradeniu,2
 dotýkať,2
 aktivizmus,2
-ispireport_the_pande,2
-mic_in_the_balkans_,2
+pande,2
+mic,2
 frequently,2
 spravodajstvo,2
 inovatívny,2
@@ -9307,7 +9327,7 @@ ovládanie,2
 klamať,2
 zakotvenie,2
 pvv,2
-_obranna,2
+obranna,2
 aphh,2
 kbr,2
 cert,2
@@ -9324,7 +9344,6 @@ vaux,2
 isdg,2
 inaction,2
 fuels,2
-final,2
 nenachádzať,2
 intergovernmental,2
 jakábová,2
@@ -9335,6 +9354,8 @@ lidrov,2
 dezinformaciam,2
 klime,2
 biosféra,2
+wgi,2
+spm,2
 unfccc,2
 misinformácia,2
 súhrnne,2
@@ -9370,7 +9391,7 @@ underestimate,2
 prenikanie,2
 príklon,2
 premietať,2
-digital_dispatches,2
+dispatches,2
 podmieňovať,2
 drevený,2
 conference,2
@@ -9382,6 +9403,7 @@ hybridnych,2
 bezpecnost,2
 nrsr,2
 websites,2
+cinnosti,2
 excessive,2
 križovatka,2
 turecka,2
@@ -9581,7 +9603,6 @@ pokojne,2
 vlasť,2
 zľpas,2
 vyšplhať,2
-situacia,2
 expredseda,2
 ľuboš,2
 čaputová,2
@@ -9611,13 +9632,13 @@ cakaju,2
 policia,2
 pripravena,2
 nadšenie,2
-otvorene,2
 neúspešný,2
 ľp,2
 zaznievať,2
 mravnosť,2
 harabin,2
-ptyut_qro,2
+ptyut,2
+qro,2
 zz,2
 svák,2
 pravniprostor,2
@@ -9627,12 +9648,10 @@ pravo,2
 ustavnost,2
 zakonov,2
 link,2
-file,2
 alez,2
 fľaša,2
 zadržať,2
 ľsns,2
-vlady,2
 flase,2
 tazkoodenci,2
 zadrzali,2
@@ -9645,7 +9664,7 @@ zoskupenie,2
 vystupovanie,2
 styk,2
 sit,2
-uacia_pkv__tk,2
+uacia,2
 nemožno,2
 kuzmány,2
 zavrieť,2
@@ -9718,7 +9737,6 @@ senate,2
 tenure,2
 brussels,2
 wikipedia,2
-state_of_emergency,2
 hitler,2
 active,2
 icnl,2
@@ -9794,7 +9812,6 @@ kedysi,2
 tin,2
 pchinga,2
 indicator,2
-ny,2
 mktp,2
 zg,2
 contextual,2
@@ -9829,13 +9846,13 @@ viditeľne,2
 smrteľný,2
 postihnúť,2
 európu,2
-owid_wrl,2
+owid,2
+wrl,2
 maeehl,2
 stocker,2
 projections,2
 actionagainsthunger,2
 pitný,2
-wpp,2
 fosílny,2
 horný,2
 posúvať,2
@@ -9994,7 +10011,8 @@ marcus,2
 visigoths,2
 madmheagic,2
 pg,2
-redir_esc,2
+redir,2
+esc,2
 onepage,2
 arma,2
 italian,2
@@ -10033,7 +10051,6 @@ víťazstvo,2
 biskup,2
 romanorumque,2
 galie,2
-page_,2
 oddelený,2
 opevnenie,2
 prosperujúce,2
@@ -10298,10 +10315,7 @@ gondolat,2
 andor,2
 börtön,2
 valóság,2
-korunk,2
-epa,2
 oszk,2
-epa_korunk_,2
 citovať,2
 joogtudományi,2
 aristokratický,2
@@ -10453,7 +10467,6 @@ dokumentárny,2
 horor,2
 zachytený,2
 fascinovať,2
-page,2
 spúšť,2
 vyhotovená,2
 volať,2
@@ -10546,6 +10559,12 @@ václav,2
 klemm,2
 tišliar,2
 researchgate,2
+domacnosti,2
+storocia,2
+prihliadnutim,2
+tlaci,2
+prispevok,2
+kazdodennosti,2
 šimko,2
 považský,2
 žiline,2
@@ -10744,10 +10763,10 @@ predzvesť,2
 vúc,2
 upravujúce,2
 percentuálny,2
+dzmv,2
 osvetový,2
 redistribučná,2
 progresívny,2
-samospravy,2
 neubauerová,2
 matrika,2
 škultéty,2
@@ -11077,7 +11096,7 @@ operacionalizovaných,2
 uvádzaný,2
 kompatibilita,2
 osvojiteľné,2
-biologia_nsv_,2
+nsv,2
 celoškolský,2
 učiteľovročný,2
 jednotlivýchna,2
@@ -11554,8 +11573,6 @@ bloomova,2
 teachonline,2
 asu,2
 blooms,2
-digcompedu,2
-digcompedu_en,2
 zamestanie,2
 pevne,2
 vyjednávanie,2
@@ -11620,7 +11637,6 @@ mediátorová,2
 ribozómová,2
 explaine,2
 andersona,2
-biologia_g___r,2
 airasian,2
 cruikshank,2
 mayer,2
@@ -11663,7 +11679,6 @@ westbrook,2
 landes,2
 spings,2
 bscsmw,2
-bscs_e_full_report,2
 odkazujúci,2
 vlastnoručný,2
 merateľným,2
@@ -11702,7 +11717,8 @@ sl,2
 vzhliadnutí,2
 yourgenome,2
 translation,2
-tfyf_rpwudy,2
+tfyf,2
+rpwudy,2
 eflexia,2
 predplatenú,2
 zdieľaným,2
@@ -11810,7 +11826,9 @@ aga,2
 cag,2
 gac,2
 uga,2
-met_arg_asp_asp_gly_ser_pro_gln_val_arg_gln_asp_stop,2
+gly,2
+srať,2
+val,2
 pyramída,2
 metakognitívnych,2
 premenná,2
@@ -11863,9 +11881,8 @@ zozbierané,2
 spochybnenie,2
 vynaložiť,2
 uplatňovním,2
-nove_dokumenty,2
 badatelske,2
-cast_a_web,2
+cast,2
 žiaksumatívnežiak,2
 spolužiacihodnotenierodičia,2
 učiteľformatívneinštitúcie,2
@@ -11880,7 +11897,6 @@ dosahovaných,2
 orosová,2
 szarka,2
 babinčáková,2
-fh,2
 ipsácia,2
 rovesník,2
 uvedomovania,2
@@ -11935,11 +11951,10 @@ jankovičová,2
 kovařík,2
 paveleková,2
 žatkovičová,2
-metodik,2
 hodnotiacich,2
 kvalifikacie,2
 nsk,2
-metodika_tvorby_hs,2
+hs,2
 thescienceteacher,2
 naspamäť,2
 nenútiť,2
@@ -11968,7 +11983,6 @@ preteste,2
 validita,2
 overovanie,2
 ets,2
-practice_book_biology,2
 danišková,2
 rastl,2
 esej,2
@@ -11998,11 +12012,9 @@ items,2
 sample,2
 cbseacademic,2
 nic,2
-web_material,2
-classxii__,2
+classxii,2
 erc,2
 ie,2
-examples_pisa_test_questions,2
 napodobňovaniepokus,2
 prispôsobenieschopnosť,2
 prirodzenosťschopnosť,2
@@ -12045,7 +12057,7 @@ pjatková,2
 mpc,2
 rozhlady,2
 casopis,2
-bigeche_,2
+bigeche,2
 ámety,2
 kultivovanie,2
 inšpirujúcich,2
@@ -12356,7 +12368,6 @@ poľovník,2
 vodohospodár,2
 lesnapedagogika,2
 basics,2
-home_en,2
 vcelari,2
 umele,2
 rozvrhovaných,2
@@ -13011,7 +13022,8 @@ unikátny,1
 agentury,1
 regionálního,1
 mezinárodníchstudiímendelovy,1
-frrms_iga,1
+frrms,1
+iga,1
 pretestovanie,1
 automatubola,1
 uzákonená,1
@@ -13066,8 +13078,7 @@ webstránke,1
 upravujúca,1
 nešpecifikovať,1
 dokedy,1
-vestnik_vlady_sr_,1
-astka__,1
+astka,1
 vssr,1
 titulka,1
 uradu,1
@@ -13150,9 +13161,7 @@ afaaeebe,1
 cabeaefe,1
 fbdcbe,1
 bdaac,1
-vestnik_,1
-vlady_sr_,1
-ciastka__,1
+ciastka,1
 strictions,1
 con,1
 gresses,1
@@ -13270,7 +13279,6 @@ upozaděno,1
 členství,1
 známo,1
 běžných,1
-cyber_party_paper,1
 norwegianpolitical,1
 přístupů,1
 poukázat,1
@@ -13408,8 +13416,6 @@ přítomné,1
 modernizace,1
 klíčovým,1
 akcíon,1
-jednaci_rad_strany_zelenych_,1
-___ke_stazeni,1
 příkladem,1
 volba,1
 tabletů,1
@@ -13583,8 +13589,6 @@ gruyter,1
 challengesof,1
 publics,1
 nerovnost,1
-cyber_,1
-party_paper,1
 ó,1
 digitalization,1
 personally,1
@@ -13603,8 +13607,7 @@ západočeské,1
 plzni,1
 faculty,1
 arts,1
-jednaci_rad_stra,1
-ny_zelenych____ke_stazeni,1
+stra,1
 impacting,1
 importantly,1
 biopsycho,1
@@ -13987,7 +13990,6 @@ coast,1
 yokohama,1
 distantterritories,1
 declare,1
-met,1
 cumulative,1
 mildly,1
 asymptomatic,1
@@ -15031,7 +15033,7 @@ pozastavený,1
 nevykovanala,1
 pridruženie,1
 hercegovinyv,1
-fiches_techniques,1
+techniques,1
 vyriešený,1
 prespy,1
 sústavne,1
@@ -15274,9 +15276,7 @@ mont,1
 enegro,1
 repub,1
 lic,1
-ispireport_t,1
-he_pandemic_in_the_balkans_,1
-fiches_techniqu,1
+techniqu,1
 michaela,1
 conspir,1
 acies,1
@@ -15362,7 +15362,6 @@ vytýčením,1
 základňa,1
 misinformácie,1
 policymakers,1
-ipcc_ar_wgi_spm_fi,1
 nal,1
 poškodiť,1
 misinterpretuje,1
@@ -15467,8 +15466,6 @@ slovenskáinformačná,1
 vojenskéspravodajstvo,1
 friendship,1
 misin,1
-ipcc_a,1
-r_wgi_spm_final,1
 neuspesny,1
 klimatickymi,1
 dezinformaciami,1
@@ -15480,11 +15477,8 @@ emis,1
 sions,1
 fro,1
 klinková,1
-europe_slovak,1
 klingová,1
 sawiris,1
-_final,1
-infodemia,1
 dezinformacnej,1
 sceny,1
 kandrík,1
@@ -15510,9 +15504,8 @@ newsguardtech,1
 newsguard,1
 comscore,1
 vas,1
-cinnosti,1
 docu,1
-sprava_o_cinnosti_vs__svk,1
+svk,1
 linhartová,1
 beenused,1
 expansionist,1
@@ -15788,7 +15781,6 @@ constantly,1
 civilians,1
 whats,1
 teps,1
-safe,1
 ventilators,1
 errors,1
 correct,1
@@ -15960,7 +15952,6 @@ ignorancia,1
 komunikovania,1
 živný,1
 predlžený,1
-infodemia_na_slovensku_,1
 blížiť,1
 pamätný,1
 antisystémových,1
@@ -16025,18 +16016,13 @@ cca,1
 eskalovať,1
 neniesť,1
 manipulatívnych,1
-sasd,1
-_archiv,1
-sasd_,1
-sasd___sk,1
+archiv,1
 dátaodrážajúce,1
 sprísnené,1
 dvojkolový,1
 stabilizovanie,1
 krivka,1
 nahor,1
-situacia_pkv_,1
-_tk,1
 vysokorizikovou,1
 ďalekosiahlosť,1
 pálčivý,1
@@ -16056,8 +16042,6 @@ deformita,1
 nekončiaci,1
 vyžadujúci,1
 odhodlanie,1
-infodemia_n,1
-a_slovensku_,1
 gregová,1
 abstract,1
 encountered,1
@@ -16485,7 +16469,6 @@ jogalkalmazasi,1
 kerdesei,1
 covidtracker,1
 globalchallenges,1
-special_,1
 igyirnankmi,1
 atlatszo,1
 kozjog,1
@@ -16498,14 +16481,14 @@ uyrtsxiwdkvykbalcyandrgdhcyitmm,1
 oya,1
 thinktank,1
 document,1
-eprs_,1
+eprs,1
 kulonleges,1
 jogrend,1
 catalogue,1
 tickers,1
 ethz,1
 isn,1
-backgrounder__states_eme,1
+eme,1
 rgency,1
 rémhírterjesztésújratöltve,1
 ujratoltve,1
@@ -16599,13 +16582,12 @@ stravovať,1
 nosiť,1
 vykurovanie,1
 elektrina,1
-wpp_highlights,1
+highlights,1
 pohon,1
 kennethpomeranz,1
 produkovať,1
 bilión,1
 docieliť,1
-ipcc_wg_ar_full,1
 neoliberálneho,1
 merítko,1
 neoliberálne,1
@@ -16635,9 +16617,8 @@ pomerovby,1
 dobeš,1
 analyzovanou,1
 co₂emissions,1
-ipcc_wg_ar_,1
 advancedourmental,1
-wpp_hig,1
+hig,1
 hlights,1
 hurčalová,1
 delegating,1
@@ -16679,7 +16660,6 @@ iniciátorka,1
 zrs,1
 sjps,1
 fsvucm,1
-__,1
 reorganizovaná,1
 zjednocovací,1
 novoprijaté,1
@@ -16731,7 +16711,8 @@ sdkú,1
 kopírujúcich,1
 absolútny,1
 staci,1
-doing_wp_cron,1
+doing,1
+cron,1
 hájiť,1
 nominácia,1
 pozitív,1
@@ -18336,7 +18317,8 @@ interpretace,1
 obsažených,1
 památkový,1
 bazaar,1
-com_collections,1
+com,1
+collections,1
 creator,1
 collectionid,1
 prints,1
@@ -18395,8 +18377,7 @@ autosalón,1
 ovplyvňujúce,1
 colný,1
 kateřina,1
-_zariadenie_domacnosti_v_prvej_polovici__storocia,1
-_s_prihliadnutim_na_inzerciu_vo_vybranej_dobovej_tlaci_prispevok_k_dejinam_kazdodennosti_na_slovensku,1
+dejinam,1
 kúpyschopnosť,1
 motorista,1
 prepych,1
@@ -18569,9 +18550,8 @@ nazerania,1
 zdanlivý,1
 nesúrodosť,1
 krateřina,1
-_zariadenie_domacnosti_v_prvej_p,1
-olovici__storocia_s_prihliadnutim_na_inzerciu_vo_vybranej_dobovej_tlaci_prispevok_k_ji,1
-nam_kazdodennosti_na_slovensku,1
+olovici,1
+ji,1
 monika,1
 tresová,1
 nazrieť,1
@@ -19165,13 +19145,12 @@ suverenita,1
 ovplyvňujúci,1
 administrácia,1
 financnasprava,1
-_img,1
+img,1
 pfsedit,1
-dokumenty_pfs,1
+pfs,1
 infoservis,1
-aktualne_informacie,1
-dzmv,1
-___zakon_o_dzmv_,1
+informacie,1
+zakon,1
 odzrkadľujúci,1
 horváthová,1
 hlavé,1
@@ -19387,7 +19366,10 @@ predkladateľ,1
 monotematický,1
 zbavovanie,1
 zanietený,1
-ros_participacia_otvorene_temy_participativne_rozpocty_samospravy,1
+participacia,1
+temy,1
+participativne,1
+rozpocty,1
 upusteniu,1
 nepodporovať,1
 neúčelových,1

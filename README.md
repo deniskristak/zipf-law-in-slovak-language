@@ -96,14 +96,14 @@ Presumably, this project therefore works with any of the supported languages of 
 To use other language, simply write it's `Code` (pick one from supported languages in `simplemma` Docs) to the `texts_details.py` configuration file.
 
 # Notes:
-- the script will first format the text by removing:
-    - ! ? : ' ' " “ „  - / \ ( ) % $ # @ & * + = § _ € www https http .com .sk
+- the script first formats the texts by removing:
+    - characters like `! ? : \ / _ `
+    - url parts like `www https http .com .sk`
     - numbers
     - newlines
-    - trailing whitespaces
-    - it will also put everything in lowercase
-    - it will also attempt to lemmatize each word
+- it only picks up words using `RegexpTokenizer` (https://www.nltk.org/_modules/nltk/tokenize/regexp.html)
+- it puts everything in lowercase
+- it attempts to lemmatize every word
 
 # TODO:
-- think about grouping words in different gender form like 'ktorý', 'ktorá', 'ktoré' into one (there is lemmation DB for Slovak language which does it that way - http://korpus.juls.savba.sk/morphology_database.html)
 - create / implement pdf parser that will ignore footers and headers of pages

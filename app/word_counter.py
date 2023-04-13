@@ -4,7 +4,6 @@ from config import FOLDER_TO_SAVE_CSV
 import csv
 from .lemmatiser.slovak_lemmatiser import Lemmatiser
 from nltk.tokenize import RegexpTokenizer
-import sys
 
 class WordCounter:
     def __init__(self, text_to_process):
@@ -65,6 +64,7 @@ class WordCounter:
             "http",
             ".com",
             ".sk",
+            "_",
         ]
         for special_string in strings_to_remove:
             # using space as replacement to not concat words accidentally
@@ -74,17 +74,15 @@ class WordCounter:
         tokenizer = RegexpTokenizer(r'\w+')
         self.text_normalized_list = tokenizer.tokenize(self.text_normalized)
 
+
     def lemmatize_text(self):
         for w in self.text_normalized_list:
-            if w != "":
-                
-                # if language is SK, cutom-made lematiser (more precise) is used, else use the fairly good pypi package
-                if self.text_to_process.get("language") == "sk":
-                    word_lemmatised = self.lemmatiser.lemmatise(w)
-                else:
-                    word_lemmatised = simplemma.lemmatize(w, lang=self.text_to_process.get("language"))
-
-                self.words_lemmatized.append(word_lemmatised)
+            # if language is SK, cutom-made lematiser (more precise) is used, otherwise use the fairly good pypi package
+            if self.text_to_process.get("language") == "sk":
+                word_lemmatised = self.lemmatiser.lemmatise(w)
+            else:
+                word_lemmatised = simplemma.lemmatize(w, lang=self.text_to_process.get("language"))
+            self.words_lemmatized.append(word_lemmatised)
 
     # create a dict like {<word>:<number_of_occurrences>}
     def get_word_count_assorted(self):

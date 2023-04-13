@@ -1,6 +1,6 @@
 word,number_of_occurences
 v,1593
-a,1570
+a,1572
 s,988
 byť,858
 na,758
@@ -68,11 +68,11 @@ strana,80
 roč,79
 práca,78
 čo,77
+fond,77
 však,76
 pozrieť,76
 gebert,76
 všetok,75
-fond,74
 den,73
 rod,73
 prípad,73
@@ -3316,9 +3316,10 @@ petrovec,3
 vydavateľský,3
 zdôrazňovať,3
 vzdať,3
+spo,3
+dpo,3
 dotazník,3
 data,3
-fond_,3
 pdf,3
 encyklopedie,3
 reálne,3
@@ -4963,7 +4964,6 @@ lýdia,2
 soc,2
 cas,2
 cz,2
-dpo_a_spo,2
 lektor,2
 pocit,2
 publikovanie,2
@@ -9685,8 +9685,6 @@ nespochybniteľný,1
 nadčasovosť,1
 reflektované,1
 politológ,1
-spo,1
-dpo,1
 zobrazenie,1
 roškového,1
 progresívny,1
