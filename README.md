@@ -5,6 +5,11 @@ Zip's law is a well-known statistical law that states that the frequency of a wo
 
 This project is an attempt to prove Zip's law using a variety of text datasets, all written in Slovak language. We will analyze the frequency of words in different texts, and compare the results to Zip's law to see if it holds true, while the main output will be graphs and `.csv` files that compare occurrences of words with their order of occurrence.
 
+User doesn't have to use Slovak language only. In sample output, English has been used, but there are multiple languages that should be supported. For more information, scroll down to `Supported languages` section of this file.
+
+For Slovak language, lemmatisation is based on http://korpus.juls.savba.sk/morphology_database.html , which should be very accurate.
+For other languages, https://github.com/adbar/simplemma has been used.
+
 # 
 # Setup:
 1. Install dependencies using `pipenv`
